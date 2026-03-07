@@ -1,0 +1,631 @@
+{
+  "generated_at": "2026-03-07T04:19:46.361Z",
+  "query_count": 8,
+  "total_results": 52,
+  "items": [
+    {
+      "title": "Feature: Agent Client Protocol (ACP) Server Mode — Run Hermes in Zed, JetBrains, Neovim, Toad & Any ACP-Compatible Editor",
+      "url": "https://github.com/NousResearch/hermes-agent/issues/569",
+      "repo": "NousResearch/hermes-agent",
+      "author": "teknium1",
+      "comments": 0,
+      "created": "2026-03-07T02:27:24Z",
+      "score": 13,
+      "labels": [
+        "enhancement"
+      ]
+    },
+    {
+      "title": "Feature: Subconscious Observer Agent — Background Memory Processing, Cross-Session Pattern Detection & Proactive Guidance (inspired by Letta claude-subconscious)",
+      "url": "https://github.com/NousResearch/hermes-agent/issues/553",
+      "repo": "NousResearch/hermes-agent",
+      "author": "teknium1",
+      "comments": 0,
+      "created": "2026-03-06T22:22:12Z",
+      "score": 11,
+      "labels": [
+        "enhancement"
+      ]
+    },
+    {
+      "title": "A2A integration: AgentVault as an A2A extension",
+      "url": "https://github.com/vcav-io/agentvault/issues/214",
+      "repo": "vcav-io/agentvault",
+      "author": "tobytkershaw",
+      "comments": 0,
+      "created": "2026-03-06T22:01:54Z",
+      "score": 11,
+      "labels": []
+    },
+    {
+      "title": "[idea] NIST RFI written from the perspective of AIGF being layered on top.",
+      "url": "https://github.com/finos/ai-governance-framework/issues/267",
+      "repo": "finos/ai-governance-framework",
+      "author": "alvin-c-shih",
+      "comments": 1,
+      "created": "2026-03-06T18:18:30Z",
+      "score": 11,
+      "labels": []
+    },
+    {
+      "title": "📚 Weekly Research Digest — 2026-03-06",
+      "url": "https://github.com/davgrn/research_digest/issues/5",
+      "repo": "davgrn/research_digest",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-06T07:43:56Z",
+      "score": 11,
+      "labels": [
+        "weekly-digest"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - March 03, 2026",
+      "url": "https://github.com/tangwen-qian/DailyArXiv/issues/483",
+      "repo": "tangwen-qian/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-02T17:23:51Z",
+      "score": 11,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Feature: Conversational RL Personalization — Online Model Fine-Tuning from Live User Feedback (inspired by OpenClaw-RL)",
+      "url": "https://github.com/NousResearch/hermes-agent/issues/498",
+      "repo": "NousResearch/hermes-agent",
+      "author": "teknium1",
+      "comments": 0,
+      "created": "2026-03-06T09:09:10Z",
+      "score": 10,
+      "labels": [
+        "enhancement"
+      ]
+    },
+    {
+      "title": "Feature: Post-Task Reflection & Missing Affordance Detection (inspired by Cognitive Workbench)",
+      "url": "https://github.com/NousResearch/hermes-agent/issues/483",
+      "repo": "NousResearch/hermes-agent",
+      "author": "teknium1",
+      "comments": 0,
+      "created": "2026-03-06T09:04:53Z",
+      "score": 10,
+      "labels": [
+        "enhancement"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - March 07, 2026",
+      "url": "https://github.com/pstAmbition/DailyArXiv_Multimodal/issues/298",
+      "repo": "pstAmbition/DailyArXiv_Multimodal",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T03:18:30Z",
+      "score": 10,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - March 07, 2026",
+      "url": "https://github.com/ZCjenny549/DailyArXiv/issues/122",
+      "repo": "ZCjenny549/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T03:15:43Z",
+      "score": 10,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Chimera Evolution - 2026-03-07",
+      "url": "https://github.com/RahilKothari9/chimera/issues/112",
+      "repo": "RahilKothari9/chimera",
+      "author": "RahilKothari9",
+      "comments": 0,
+      "created": "2026-03-07T02:29:55Z",
+      "score": 10,
+      "labels": [
+        "chimera-evolution"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - March 07, 2026",
+      "url": "https://github.com/likeyan666/DailyArXiv/issues/317",
+      "repo": "likeyan666/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T01:22:52Z",
+      "score": 10,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Latest 10 Papers - March 07, 2026",
+      "url": "https://github.com/luohongk/Embodied-AI-Daily/issues/575",
+      "repo": "luohongk/Embodied-AI-Daily",
+      "author": "luohongk",
+      "comments": 0,
+      "created": "2026-03-06T17:05:44Z",
+      "score": 10,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - March 07, 2026",
+      "url": "https://github.com/waityousea/DailyArXiv/issues/281",
+      "repo": "waityousea/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T03:12:51Z",
+      "score": 9,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Add mutation testing with cargo-mutants to validate test quality",
+      "url": "https://github.com/duggasco/yoyo-evolve-clean/issues/9",
+      "repo": "duggasco/yoyo-evolve-clean",
+      "author": "duggasco",
+      "comments": 0,
+      "created": "2026-03-07T00:08:37Z",
+      "score": 8,
+      "labels": [
+        "agent-input"
+      ]
+    },
+    {
+      "title": "Enable tool evolution (not just prompts)",
+      "url": "https://github.com/EduardPetraeus/ouroboros/issues/4",
+      "repo": "EduardPetraeus/ouroboros",
+      "author": "EduardPetraeus",
+      "comments": 0,
+      "created": "2026-03-05T15:52:44Z",
+      "score": 8,
+      "labels": [
+        "enhancement",
+        "priority:high"
+      ]
+    },
+    {
+      "title": "Mutation engine + SWE-bench scaling",
+      "url": "https://github.com/EduardPetraeus/ouroboros/issues/1",
+      "repo": "EduardPetraeus/ouroboros",
+      "author": "EduardPetraeus",
+      "comments": 0,
+      "created": "2026-03-05T03:48:25Z",
+      "score": 8,
+      "labels": []
+    },
+    {
+      "title": "Latest 15 Papers - March 07, 2026",
+      "url": "https://github.com/pstAmbition/DailyArXiv_contentmoderation/issues/74",
+      "repo": "pstAmbition/DailyArXiv_contentmoderation",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T03:20:38Z",
+      "score": 7,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - March 07, 2026",
+      "url": "https://github.com/Xumengcen/DailyArXiv/issues/127",
+      "repo": "Xumengcen/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T03:14:20Z",
+      "score": 7,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - March 07, 2026",
+      "url": "https://github.com/yuque01/DailyArXiv/issues/153",
+      "repo": "yuque01/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T03:09:17Z",
+      "score": 7,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - March 07, 2026",
+      "url": "https://github.com/PapowFish/DailyArXiv/issues/282",
+      "repo": "PapowFish/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T03:09:11Z",
+      "score": 7,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "🔧 Maintenance Routine #24: Vercel Deployment Health Monitor",
+      "url": "https://github.com/hfelixmiguel/pokefedex-app/issues/14",
+      "repo": "hfelixmiguel/pokefedex-app",
+      "author": "hfelixmiguel",
+      "comments": 0,
+      "created": "2026-03-06T18:42:50Z",
+      "score": 6,
+      "labels": [
+        "infrastructure",
+        "priority-high",
+        "maintenance"
+      ]
+    },
+    {
+      "title": "[Proposal] Consider adding a low-cost scaffold review workflow based on run logs",
+      "url": "https://github.com/humania-org/humanize/issues/37",
+      "repo": "humania-org/humanize",
+      "author": "ZenusZhang",
+      "comments": 0,
+      "created": "2026-03-07T04:06:38Z",
+      "score": 5,
+      "labels": []
+    },
+    {
+      "title": "Latest 15 Papers - March 07, 2026",
+      "url": "https://github.com/Greenteagodie/DailyArXiv/issues/94",
+      "repo": "Greenteagodie/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T03:14:14Z",
+      "score": 5,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Bug: cybersecurity-evaluator agent-card announces localhost URL causing ConnectError",
+      "url": "https://github.com/Mauttaram/agentbeats-security-leaderboard/issues/2",
+      "repo": "Mauttaram/agentbeats-security-leaderboard",
+      "author": "ironshell-ui",
+      "comments": 0,
+      "created": "2026-03-07T03:26:08Z",
+      "score": 5,
+      "labels": []
+    },
+    {
+      "title": "feat: agent presence broadcasts + Waku-native discovery",
+      "url": "https://github.com/jimmy-claw/lmao/issues/58",
+      "repo": "jimmy-claw/lmao",
+      "author": "jimmy-claw",
+      "comments": 0,
+      "created": "2026-03-06T19:10:57Z",
+      "score": 5,
+      "labels": []
+    },
+    {
+      "title": "[Question]: copaw app终端报错",
+      "url": "https://github.com/agentscope-ai/CoPaw/issues/863",
+      "repo": "agentscope-ai/CoPaw",
+      "author": "qyk0910",
+      "comments": 0,
+      "created": "2026-03-07T04:09:47Z",
+      "score": 5,
+      "labels": [
+        "question"
+      ]
+    },
+    {
+      "title": "[每日信息流] 2026-03-07",
+      "url": "https://github.com/ruohong2018/ruohong2018.github.io/issues/1121",
+      "repo": "ruohong2018/ruohong2018.github.io",
+      "author": "ruohong2018",
+      "comments": 0,
+      "created": "2026-03-07T03:59:17Z",
+      "score": 5,
+      "labels": [
+        "daily"
+      ]
+    },
+    {
+      "title": "[每日信息流] 2026-03-07",
+      "url": "https://github.com/MM0x02/RSS-Push/issues/436",
+      "repo": "MM0x02/RSS-Push",
+      "author": "MM0x02",
+      "comments": 0,
+      "created": "2026-03-07T03:58:48Z",
+      "score": 5,
+      "labels": [
+        "daily"
+      ]
+    },
+    {
+      "title": "论文总结-From Self-Evolving Synthetic Data to Verifiable-Reward RL:Post-Training Multi-turn Interactive Tool-Using Agents-Quiet",
+      "url": "https://github.com/wgyhhhh/blog_comment/issues/16",
+      "repo": "wgyhhhh/blog_comment",
+      "author": "wgyhhhh",
+      "comments": 0,
+      "created": "2026-03-07T02:05:45Z",
+      "score": 5,
+      "labels": [
+        "Gitalk",
+        "/2026/03/07/self_evolving-7/"
+      ]
+    },
+    {
+      "title": "论文总结-EnvScaler:Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis-Quiet",
+      "url": "https://github.com/wgyhhhh/blog_comment/issues/14",
+      "repo": "wgyhhhh/blog_comment",
+      "author": "wgyhhhh",
+      "comments": 0,
+      "created": "2026-03-07T01:36:01Z",
+      "score": 5,
+      "labels": [
+        "Gitalk",
+        "/2026/03/06/self-evolving-5/"
+      ]
+    },
+    {
+      "title": "📰 科研 & 技术热点日报 - 2026-03-07 上午",
+      "url": "https://github.com/JaredYe04/news-bot/issues/63",
+      "repo": "JaredYe04/news-bot",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T00:25:39Z",
+      "score": 5,
+      "labels": [
+        "daily-digest",
+        "automated"
+      ]
+    },
+    {
+      "title": "[autonomous] Track and explain common failure modes",
+      "url": "https://github.com/trevorstenson/crowd-agent/issues/114",
+      "repo": "trevorstenson/crowd-agent",
+      "author": "crowd-agent-bot[bot]",
+      "comments": 2,
+      "created": "2026-03-07T00:44:48Z",
+      "score": 4,
+      "labels": [
+        "review",
+        "track:reliability",
+        "autonomous"
+      ]
+    },
+    {
+      "title": "Design the self-improving feedback loop system — 5 levels of system evolution",
+      "url": "https://github.com/wopr-network/wopr/issues/2176",
+      "repo": "wopr-network/wopr",
+      "author": "AgentWOPR",
+      "comments": 1,
+      "created": "2026-03-06T15:26:42Z",
+      "score": 4,
+      "labels": []
+    },
+    {
+      "title": "Create repo & scaffold directory structure",
+      "url": "https://github.com/wopr-network/wopr/issues/2157",
+      "repo": "wopr-network/wopr",
+      "author": "AgentWOPR",
+      "comments": 1,
+      "created": "2026-03-06T15:16:08Z",
+      "score": 4,
+      "labels": []
+    },
+    {
+      "title": "[Digest - Main] 2026-03-07",
+      "url": "https://github.com/e1134171019/agrnt/issues/130",
+      "repo": "e1134171019/agrnt",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T03:20:27Z",
+      "score": 4,
+      "labels": [
+        "intel",
+        "digest"
+      ]
+    },
+    {
+      "title": "⚠️ Manifest drift detected in codex branch",
+      "url": "https://github.com/VibesTribe/vibeflow/issues/394",
+      "repo": "VibesTribe/vibeflow",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T04:19:35Z",
+      "score": 4,
+      "labels": [
+        "auto",
+        "manifest-drift"
+      ]
+    },
+    {
+      "title": "docs: team-orchestrator MCP 서버 구조 및 사용법",
+      "url": "https://github.com/jahyunlee00299/claude-scientific-skills/issues/6",
+      "repo": "jahyunlee00299/claude-scientific-skills",
+      "author": "jahyunlee00299",
+      "comments": 0,
+      "created": "2026-03-07T04:19:18Z",
+      "score": 4,
+      "labels": []
+    },
+    {
+      "title": "[BOUNTY: 40-75 RTC] BoTTube MCP Server — Let Any Claude Code Instance Use BoTTube",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/758",
+      "repo": "Scottcjn/rustchain-bounties",
+      "author": "Scottcjn",
+      "comments": 0,
+      "created": "2026-03-07T04:02:59Z",
+      "score": 4,
+      "labels": []
+    },
+    {
+      "title": "refactor: unify team-orchestrator terminology to English",
+      "url": "https://github.com/jahyunlee00299/claude-scientific-skills/issues/5",
+      "repo": "jahyunlee00299/claude-scientific-skills",
+      "author": "jahyunlee00299",
+      "comments": 0,
+      "created": "2026-03-07T04:00:57Z",
+      "score": 4,
+      "labels": []
+    },
+    {
+      "title": "论文总结-Close the Loop:Synthesizing Infinite Tool-Use Data via Multi-Agent Role-Playing-Quiet",
+      "url": "https://github.com/wgyhhhh/blog_comment/issues/17",
+      "repo": "wgyhhhh/blog_comment",
+      "author": "wgyhhhh",
+      "comments": 0,
+      "created": "2026-03-07T02:06:11Z",
+      "score": 4,
+      "labels": [
+        "Gitalk",
+        "/2026/03/06/self_evolving-3/"
+      ]
+    },
+    {
+      "title": "feat: 升级记忆检索系统 - Graph RAG 与时序知识图谱",
+      "url": "https://github.com/Dwsy/agent/issues/45",
+      "repo": "Dwsy/agent",
+      "author": "Dwsy",
+      "comments": 0,
+      "created": "2026-03-07T02:49:55Z",
+      "score": 4,
+      "labels": [
+        "enhancement"
+      ]
+    },
+    {
+      "title": "[repo-status] Daily Repo Status — 2026-03-07",
+      "url": "https://github.com/lucabol/laststanding/issues/22",
+      "repo": "lucabol/laststanding",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T04:14:16Z",
+      "score": 3,
+      "labels": [
+        "report",
+        "daily-status"
+      ]
+    },
+    {
+      "title": "[EVMAP-GAP-03] Return bounty fields in fetch(include_tasks=true)",
+      "url": "https://github.com/Colin4k1024/Oris/issues/127",
+      "repo": "Colin4k1024/Oris",
+      "author": "Colin4k1024",
+      "comments": 6,
+      "created": "2026-03-07T01:36:51Z",
+      "score": 3,
+      "labels": [
+        "type/feature",
+        "priority/P0",
+        "area/runtime",
+        "evomap-gap"
+      ]
+    },
+    {
+      "title": "[EVMAP-GAP-02] Implement persistent Bounty lifecycle (create/accept/close)",
+      "url": "https://github.com/Colin4k1024/Oris/issues/126",
+      "repo": "Colin4k1024/Oris",
+      "author": "Colin4k1024",
+      "comments": 5,
+      "created": "2026-03-07T01:36:49Z",
+      "score": 3,
+      "labels": [
+        "type/feature",
+        "priority/P0",
+        "area/runtime",
+        "evomap-gap"
+      ]
+    },
+    {
+      "title": "Prototype \"online optimization\"",
+      "url": "https://github.com/double16/Cyber-AutoAgent-ng/issues/43",
+      "repo": "double16/Cyber-AutoAgent-ng",
+      "author": "double16",
+      "comments": 0,
+      "created": "2026-03-06T17:54:07Z",
+      "score": 3,
+      "labels": [
+        "enhancement",
+        "large"
+      ]
+    },
+    {
+      "title": "[Terraform Security] Terraform Security & Cost Analysis Report",
+      "url": "https://github.com/ranglanimanish90/newinfra/issues/40",
+      "repo": "ranglanimanish90/newinfra",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-03-07T04:16:07Z",
+      "score": 2,
+      "labels": [
+        "bug",
+        "security",
+        "terraform-security",
+        "security-scan",
+        "infrastructure",
+        "cost-optimization"
+      ]
+    },
+    {
+      "title": "论文总结-EnvScaler:Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis-Quiet",
+      "url": "https://github.com/wgyhhhh/blog_comment/issues/18",
+      "repo": "wgyhhhh/blog_comment",
+      "author": "wgyhhhh",
+      "comments": 0,
+      "created": "2026-03-07T02:08:47Z",
+      "score": 2,
+      "labels": [
+        "Gitalk",
+        "/2026/03/06/self_evolving-5/"
+      ]
+    },
+    {
+      "title": "论文总结-Agent World Model:Infinity Synthetic Environments for Agentic Reinforcement Learning-Quiet",
+      "url": "https://github.com/wgyhhhh/blog_comment/issues/15",
+      "repo": "wgyhhhh/blog_comment",
+      "author": "wgyhhhh",
+      "comments": 0,
+      "created": "2026-03-07T01:44:38Z",
+      "score": 2,
+      "labels": [
+        "Gitalk",
+        "/2026/03/07/self_evolving-6/"
+      ]
+    },
+    {
+      "title": "optimize の改善効果が低い根本問題を解決する",
+      "url": "https://github.com/min-sys/rl-anything/issues/12",
+      "repo": "min-sys/rl-anything",
+      "author": "matsukaze-minden",
+      "comments": 21,
+      "created": "2026-03-06T03:06:22Z",
+      "score": 0,
+      "labels": []
+    },
+    {
+      "title": "Architecture: meaning derivation from successful prediction — predictor network as the cognitive core",
+      "url": "https://github.com/akienm/TheIgors/issues/116",
+      "repo": "akienm/TheIgors",
+      "author": "akienm",
+      "comments": 1,
+      "created": "2026-03-06T15:37:55Z",
+      "score": 0,
+      "labels": [
+        "architecture"
+      ]
+    },
+    {
+      "title": "Atack cardíaco permanente",
+      "url": "https://github.com/yashpatel48/Heart-Attack-Prediction-ML/issues/1",
+      "repo": "yashpatel48/Heart-Attack-Prediction-ML",
+      "author": "rafaelcarocaroquintero199-afk",
+      "comments": 1,
+      "created": "2026-03-03T08:02:06Z",
+      "score": 0,
+      "labels": []
+    }
+  ]
+}
