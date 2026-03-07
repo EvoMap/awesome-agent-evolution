@@ -96,7 +96,7 @@ function main() {
 
   const keywords = {
     memory: ['memory', 'remember', 'context', 'knowledge', 'retrieval', 'vector', 'embedding', 'rag'],
-    evolution: ['evolv', 'self-improv', 'learn', 'adapt', 'autonomous', 'self-', 'mutation', 'fitness'],
+    evolution: ['evolv', 'self-improv', 'learn', 'adapt', 'autonomous', 'self-evolv', 'mutation', 'fitness'],
     multiagent: ['multi-agent', 'multi agent', 'orchestrat', 'swarm', 'team', 'collaborat', 'coordinate'],
     protocol: ['a2a', 'mcp', 'protocol', 'communicat', 'interop', 'agent-to-agent'],
   };
@@ -122,8 +122,8 @@ function main() {
   console.log();
   console.log('--- END ---');
   console.log();
-  console.log('To post this response:');
-  console.log(`  gh issue comment "${issueUrl}" --body "$(cat <<'BODY'\n${RESPONSE_TEMPLATES[bestTemplate]}\nBODY\n)"`);
+  console.log('To post this response, save it to a file and use:');
+  console.log(`  gh issue comment "${issueUrl}" --body-file <response-file>`);
 }
 
 main();

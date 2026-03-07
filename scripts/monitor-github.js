@@ -51,9 +51,9 @@ function parseArgs() {
   return config;
 }
 
-function ghSearch(query, type = 'issues') {
+function ghSearch(query, maxAgeDays = 7) {
   const since = new Date();
-  since.setDate(since.getDate() - 7);
+  since.setDate(since.getDate() - maxAgeDays);
   const dateStr = since.toISOString().split('T')[0];
 
   const fullQuery = `${query} is:open created:>=${dateStr} type:issue`;
@@ -138,7 +138,7 @@ function main() {
 
   for (const query of SEARCH_QUERIES) {
     process.stdout.write(`  Searching: "${query}" ... `);
-    const items = ghSearch(query);
+    const items = ghSearch(query, config.maxAgeDays);
     const filtered = filterResults(items);
     console.log(`${filtered.length} results`);
     allItems.push(...filtered);
