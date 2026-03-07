@@ -1,0 +1,49 @@
+name: Project Submission
+description: Suggest a project for inclusion in the awesome list
+title: "[Submit] "
+labels: ["submission"]
+body:
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      placeholder: e.g. MyAgentFramework
+    validations:
+      required: true
+  - type: input
+    id: repo-url
+    attributes:
+      label: Repository URL
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Agent Evolution and Self-Improvement
+        - Memory Systems
+        - Multi-Agent Frameworks
+        - Agent-to-Agent Protocols
+        - Agent Development Platforms
+        - Embodied AI
+        - Community and Knowledge
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of the project (1-2 sentences)
+      placeholder: What does this project do and why is it notable?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should it be included?
+      description: What makes this project stand out?
+      placeholder: Notable features, unique approach, community adoption, etc.
+    validations:
+      required: false
