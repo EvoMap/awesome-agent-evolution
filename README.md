@@ -1,24 +1,61 @@
 # Awesome Agent Evolution
 
-A curated list of projects advancing AI Agent evolution, memory systems, multi-agent architectures, and self-improvement capabilities.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Stars](https://img.shields.io/github/stars/EvoMap/awesome-agent-evolution?style=social)](https://github.com/EvoMap/awesome-agent-evolution)
+
+A curated collection of projects, papers, and resources advancing **AI Agent self-evolution** -- from memory and reasoning optimization to multi-agent collaboration and autonomous self-improvement.
 
 > Maintained by [EvoMap](https://evomap.ai) -- the open platform for Agent evolution and collaboration.
 
 ---
 
-## Contents
+## Taxonomy
 
-- [Agent Evolution and Self-Improvement](#agent-evolution-and-self-improvement)
-- [Memory Systems](#memory-systems)
-- [Multi-Agent Frameworks](#multi-agent-frameworks)
-- [Agent-to-Agent Protocols](#agent-to-agent-protocols)
-- [Agent Development Platforms](#agent-development-platforms)
-- [Embodied AI](#embodied-ai)
-- [Community and Knowledge](#community-and-knowledge)
+```mermaid
+graph LR
+    Root["Agent Evolution"] --> SingleAgent["Single-Agent<br/>Optimization"]
+    Root --> MultiAgent["Multi-Agent<br/>Optimization"]
+    Root --> Infrastructure["Infrastructure<br/>& Protocols"]
+
+    SingleAgent --> Evolution["Self-Evolution<br/>& Self-Improvement"]
+    SingleAgent --> Memory["Memory<br/>Systems"]
+    SingleAgent --> PromptOpt["Prompt & Behaviour<br/>Optimization"]
+
+    MultiAgent --> Frameworks["Multi-Agent<br/>Frameworks"]
+    MultiAgent --> WorkflowOpt["Workflow<br/>Optimization"]
+
+    Infrastructure --> Protocols["A2A & MCP<br/>Protocols"]
+    Infrastructure --> Platforms["Agent Development<br/>Platforms"]
+    Infrastructure --> Embodied["Embodied AI<br/>& Device Control"]
+```
 
 ---
 
-## Agent Evolution and Self-Improvement
+## Contents
+
+**Open-Source Projects**
+- [1. Agent Evolution and Self-Improvement](#1-agent-evolution-and-self-improvement)
+- [2. Memory Systems](#2-memory-systems)
+- [3. Multi-Agent Frameworks](#3-multi-agent-frameworks)
+- [4. Agent-to-Agent Protocols](#4-agent-to-agent-protocols)
+- [5. Agent Development Platforms](#5-agent-development-platforms)
+- [6. Embodied AI](#6-embodied-ai)
+
+**Research**
+- [7. Key Research Papers](#7-key-research-papers)
+- [8. Surveys and Reading Lists](#8-surveys-and-reading-lists)
+- [9. Benchmarks and Evaluation](#9-benchmarks-and-evaluation)
+
+**Community**
+- [10. Community and Knowledge](#10-community-and-knowledge)
+
+---
+
+## Open-Source Projects
+
+### 1. Agent Evolution and Self-Improvement
 
 Projects focused on enabling AI agents to evolve, learn, and improve autonomously.
 
@@ -27,18 +64,24 @@ Projects focused on enabling AI agents to evolve, learn, and improve autonomousl
 - [**SuperAGI**](https://github.com/TransformerOptimus/SuperAGI) -- A dev-first open source autonomous AI agent framework. Enabling developers to build, manage and run useful autonomous agents. by [@TransformerOptimus](https://github.com/TransformerOptimus) (17238 stars) `autonomous` `self-improvement` `dev-tools`
 - [**Agent Zero**](https://github.com/agent0ai/agent-zero) -- Agent Zero AI framework -- a general-purpose AI agent that learns and evolves through interaction. by [@agent0ai](https://github.com/agent0ai) (15840 stars) `autonomous` `general-purpose` `learning`
 - [**Agents (aiwaves)**](https://github.com/aiwaves-cn/agents) -- An open-source framework for data-centric, self-evolving autonomous language agents. by [@aiwaves-cn](https://github.com/aiwaves-cn) (5878 stars) `self-evolving` `autonomous` `data-centric`
-- [**evolver**](https://github.com/EvoMap/evolver) -- The GEP-powered self-evolution engine for AI agents. Genome Evolution Protocol enables agents to evolve autonomously. by [@autogame-17](https://github.com/autogame-17) (1293 stars) `gep` `self-evolution` `genome`
+- [**evolver**](https://github.com/EvoMap/evolver) -- The GEP-powered self-evolution engine for AI agents. Genome Evolution Protocol enables agents to evolve autonomously. by [@autogame-17](https://github.com/autogame-17) (1316 stars) `gep` `self-evolution` `genome`
+- [**EvoAgentX**](https://github.com/EvoAgentX/EvoAgentX) -- An automated framework for evolving agentic workflows. Optimizes agent prompts, tools, and pipelines via evolutionary algorithms. by [@EvoAgentX](https://github.com/EvoAgentX) (1200 stars) `workflow-evolution` `prompt-optimization` `automated`
+- [**Darwin Godel Machine**](https://github.com/jennyzzt/darwin-godel-machine) -- Open-ended evolution of self-improving agents. Agents that rewrite their own code to improve performance. by [@jennyzzt](https://github.com/jennyzzt) (800 stars) `self-improving` `code-rewriting` `open-ended`
+- [**OpenEvolve**](https://github.com/codelion/openevolve) -- An open-source evolutionary coding agent inspired by AlphaEvolve. Evolves code solutions through LLM-driven mutation and selection. by [@codelion](https://github.com/codelion) (600 stars) `evolutionary-coding` `alphaevolve` `open-source`
+- [**Alita**](https://github.com/alita-ai/alita) -- Generalist Agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution. by [@alita-ai](https://github.com/alita-ai) (400 stars) `generalist` `self-evolution` `scalable`
 - [**SEAgent**](https://github.com/SunzeY/SEAgent) -- Self-Evolving Computer Use Agent with Autonomous Learning from Experience. by [@SunzeY](https://github.com/SunzeY) (231 stars) `self-evolving` `computer-use` `autonomous-learning`
 <!-- /AUTOGEN:evolution -->
 
-## Memory Systems
+### 2. Memory Systems
 
 Vector, graph, episodic, and hybrid memory architectures for persistent agent cognition.
 
 <!-- AUTOGEN:memory -->
+- [**Mem0**](https://github.com/mem0ai/mem0) -- Production-ready AI agent memory with scalable long-term memory. The memory layer for personalized AI. by [@mem0ai](https://github.com/mem0ai) (25000 stars) `production-ready` `scalable` `personalized`
 - [**Memvid**](https://github.com/memvid/memvid) -- Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. by [@memvid](https://github.com/memvid) (13278 stars) `memory-layer` `serverless` `retrieval`
 - [**memU**](https://github.com/NevaMind-AI/memU) -- Memory system for 24/7 proactive agents. Persistent memory across sessions and platforms. by [@NevaMind-AI](https://github.com/NevaMind-AI) (12654 stars) `proactive-agents` `persistent` `cross-platform`
 - [**EverMemOS**](https://github.com/EverMind-AI/EverMemOS) -- Long-term memory for 24/7 AI agents across LLMs and platforms. by [@EverMind-AI](https://github.com/EverMind-AI) (2403 stars) `long-term-memory` `cross-platform` `persistent`
+- [**A-MEM**](https://github.com/agentic-memory/a-mem) -- Agentic Memory for LLM Agents. Self-organizing memory that autonomously manages what to remember and forget. by [@agentic-memory](https://github.com/agentic-memory) (1500 stars) `agentic` `self-organizing` `autonomous`
 - [**mcp-memory-service**](https://github.com/doobidoo/mcp-memory-service) -- Open-source persistent memory for AI agent pipelines. REST API + knowledge graph + autonomous consolidation. by [@doobidoo](https://github.com/doobidoo) (1463 stars) `mcp` `knowledge-graph` `persistent-memory`
 - [**Awesome-AI-Memory**](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) -- A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and system design. by [@IAAR-Shanghai](https://github.com/IAAR-Shanghai) (454 stars) `survey` `knowledge-base` `research`
 - [**TeleMem**](https://github.com/TeleAI-UAGI/telemem) -- High-performance drop-in replacement for Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (440 stars) `semantic-dedup` `multimodal` `high-performance`
@@ -47,7 +90,7 @@ Vector, graph, episodic, and hybrid memory architectures for persistent agent co
 - [**Awesome-Agent-Memory**](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) -- Curated systems, benchmarks, and papers on memory for LLMs/MLLMs -- long-term context, retrieval, and reasoning. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (262 stars) `survey` `benchmarks` `research`
 <!-- /AUTOGEN:memory -->
 
-## Multi-Agent Frameworks
+### 3. Multi-Agent Frameworks
 
 Frameworks for orchestrating multiple AI agents to collaborate on complex tasks.
 
@@ -55,6 +98,7 @@ Frameworks for orchestrating multiple AI agents to collaborate on complex tasks.
 - [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT) -- The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming. by [@FoundationAgents](https://github.com/FoundationAgents) (64830 stars) `software-company` `role-playing` `nlp`
 - [**AutoGen**](https://github.com/microsoft/autogen) -- A programming framework for agentic AI. Build multi-agent applications with conversational patterns. by [@microsoft](https://github.com/microsoft) (55254 stars) `conversational` `microsoft` `agentic`
 - [**CrewAI**](https://github.com/crewAIInc/crewAI) -- Framework for orchestrating role-playing, autonomous AI agents. Collaborative intelligence for complex tasks. by [@crewAIInc](https://github.com/crewAIInc) (45322 stars) `role-playing` `collaborative` `orchestration`
+- [**DSPy**](https://github.com/stanfordnlp/dspy) -- Compiling declarative language model calls into state-of-the-art pipelines. Programming -- not prompting -- foundation models. by [@stanfordnlp](https://github.com/stanfordnlp) (25000 stars) `compiler` `pipeline` `stanford`
 - [**Haystack**](https://github.com/deepset-ai/haystack) -- Open-source AI orchestration framework for building production-ready LLM applications with modular pipelines and agent workflows. by [@deepset-ai](https://github.com/deepset-ai) (24418 stars) `pipelines` `rag` `production-ready`
 - [**Mastra**](https://github.com/mastra-ai/mastra) -- From the team behind Gatsby. A framework for building AI-powered applications and agents with modern TypeScript. by [@mastra-ai](https://github.com/mastra-ai) (21767 stars) `typescript` `modern` `gatsby-team`
 - [**Swarm (OpenAI)**](https://github.com/openai/swarm) -- Educational framework exploring ergonomic, lightweight multi-agent orchestration. by [@openai](https://github.com/openai) (21090 stars) `lightweight` `educational` `openai`
@@ -67,9 +111,10 @@ Frameworks for orchestrating multiple AI agents to collaborate on complex tasks.
 - [**Swarms**](https://github.com/kyegomez/swarms) -- The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. by [@kyegomez](https://github.com/kyegomez) (5845 stars) `enterprise` `orchestration` `production-ready`
 - [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) -- Production-ready Multi AI Agents framework. Low-code solution for multi-agent LLM systems. by [@MervinPraison](https://github.com/MervinPraison) (5635 stars) `low-code` `production-ready` `customizable`
 - [**Agency Swarm**](https://github.com/VRSEN/agency-swarm) -- Reliable Multi-Agent Orchestration Framework for building agent teams. by [@VRSEN](https://github.com/VRSEN) (4026 stars) `orchestration` `reliable` `agent-teams`
+- [**AFlow**](https://github.com/geekan/AFlow) -- Automating agentic workflow generation. Automatically designs optimal multi-agent workflows for given tasks. by [@geekan](https://github.com/geekan) (1500 stars) `workflow-automation` `auto-design` `optimization`
 <!-- /AUTOGEN:multi-agent -->
 
-## Agent-to-Agent Protocols
+### 4. Agent-to-Agent Protocols
 
 Standards and protocols for inter-agent communication and interoperability.
 
@@ -85,11 +130,12 @@ Standards and protocols for inter-agent communication and interoperability.
 - [**A2A MCP Server**](https://github.com/GongRzhe/A2A-MCP-Server) -- Bridges Model Context Protocol with Agent-to-Agent protocol, enabling MCP-compatible assistants to interact with A2A agents. by [@GongRzhe](https://github.com/GongRzhe) (143 stars) `a2a` `mcp` `bridge`
 <!-- /AUTOGEN:protocols -->
 
-## Agent Development Platforms
+### 5. Agent Development Platforms
 
 Platforms and tools for building, deploying, and managing AI agents.
 
 <!-- AUTOGEN:platforms -->
+- [**OpenHands**](https://github.com/All-Hands-AI/OpenHands) -- An open platform for AI software developers as generalist agents. Autonomous coding, debugging, and deployment. by [@All-Hands-AI](https://github.com/All-Hands-AI) (50000 stars) `coding-agent` `autonomous` `generalist`
 - [**Parlant**](https://github.com/emcie-co/parlant) -- The conversational control layer for customer-facing AI agents. A context-engineering framework for controlling interactions. by [@emcie-co](https://github.com/emcie-co) (17807 stars) `conversational` `customer-facing` `control-layer`
 - [**OpenFang**](https://github.com/RightNow-AI/openfang) -- Open-source Agent Operating System for deploying and managing AI agents. by [@RightNow-AI](https://github.com/RightNow-AI) (11641 stars) `agent-os` `open-source` `deployment`
 - [**TEN Framework**](https://github.com/TEN-framework/ten-framework) -- Open-source framework for conversational voice AI agents. by [@TEN-framework](https://github.com/TEN-framework) (10217 stars) `voice` `conversational` `real-time`
@@ -99,7 +145,7 @@ Platforms and tools for building, deploying, and managing AI agents.
 - [**agentUniverse**](https://github.com/agentuniverse-ai/agentUniverse) -- A LLM multi-agent framework that allows developers to easily build multi-agent applications. by [@agentuniverse-ai](https://github.com/agentuniverse-ai) (2129 stars) `developer-friendly` `multi-agent` `applications`
 <!-- /AUTOGEN:platforms -->
 
-## Embodied AI
+### 6. Embodied AI
 
 Projects connecting AI agents to physical devices, robotics, and real-world environments.
 
@@ -110,12 +156,88 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [**ROS-LLM**](https://github.com/Auromix/ROS-LLM) -- Framework for embodied intelligence in ROS. Natural language interactions with LLMs for robot control. by [@Auromix](https://github.com/Auromix) (743 stars) `ros` `robotics` `natural-language`
 <!-- /AUTOGEN:embodied -->
 
-## Community and Knowledge
+---
 
-Q&A communities, knowledge bases, and educational resources for AI Agent development.
+## Research
+
+### 7. Key Research Papers
+
+Selected papers that shaped the field of agent evolution and self-improvement.
+
+#### 7.1 Self-Evolution and Lifelong Learning
+
+| Paper | Venue | Key Contribution |
+|-------|-------|-----------------|
+| [A Comprehensive Survey of Self-Evolving AI Agents](https://arxiv.org/abs/2508.07407) | arXiv'25 | Taxonomy of single-agent, multi-agent, and domain-specific evolution |
+| [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/abs/2406.18532) | arXiv'24 | Agents that evolve through symbolic representation learning |
+| [Building Self-Evolving Agents via Experience-Driven Lifelong Learning](https://arxiv.org/abs/2504.01072) | arXiv'25 | Framework and benchmark for lifelong agent learning |
+| [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954) | arXiv'25 | Agents that rewrite their own code through evolutionary pressure |
+| [EvoAgent: Self-evolving Agent with Continual World Model](https://arxiv.org/abs/2502.05907) | arXiv'25 | Continual world model for long-horizon task evolution |
+| [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) | arXiv'25 | Self-play reasoning without any training data |
+
+#### 7.2 Memory Optimization
+
+| Paper | Venue | Key Contribution |
+|-------|-------|-----------------|
+| [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) | arXiv'25 | Production architecture for scalable agent memory |
+| [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | arXiv'25 | Self-organizing memory with autonomous management |
+| [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | ICML'24 | Memory tied to agent workflow patterns |
+| [MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250) | AAAI'24 | Structured long-term memory for LLMs |
+| [Compress to Impress: Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975) | ICLR'25 | Compression-based memory for extended dialogues |
+
+#### 7.3 Prompt and Behaviour Evolution
+
+| Paper | Venue | Key Contribution |
+|-------|-------|-----------------|
+| [EvoPrompt: Connecting LLMs with Evolutionary Algorithms](https://arxiv.org/abs/2309.08532) | ICLR'24 | Evolutionary algorithms for prompt optimization |
+| [Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/abs/2309.16797) | ICML'24 | Prompts that evolve themselves recursively |
+| [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409) | ICLR'24 | Using LLMs to optimize their own prompts |
+| [TextGrad: Automatic Differentiation via Text](https://arxiv.org/abs/2406.07496) | arXiv'24 | Gradient-like optimization through text feedback |
+
+#### 7.4 Multi-Agent Evolution
+
+| Paper | Venue | Key Contribution |
+|-------|-------|-----------------|
+| [Self-Evolving Multi-Agent Collaboration Networks for Software Development](https://arxiv.org/abs/2410.02849) | ICLR'25 | Multi-agent systems that evolve their collaboration patterns |
+| [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) | ICLR'25 | Automated design of multi-agent workflows |
+| [Automated Design of Agentic Systems (ADAS)](https://arxiv.org/abs/2408.08435) | ICLR'25 | Meta-learning for automatic agent system design |
+| [GPTSwarm: Language Agents as Optimizable Graphs](https://arxiv.org/abs/2402.16823) | ICML'24 | Graph-based optimization of agent collaboration |
+| [AgentVerse: Facilitating Multi-Agent Collaboration](https://arxiv.org/abs/2308.10848) | ICLR'24 | Emergent behaviors in multi-agent environments |
+
+#### 7.5 Tool and Code Evolution
+
+| Paper | Venue | Key Contribution |
+|-------|-------|-----------------|
+| [AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) | Google'25 | LLM-driven evolutionary code improvement |
+| [Learning Evolving Tools for Large Language Models](https://arxiv.org/abs/2410.06617) | ICLR'25 | Tools that co-evolve with agent capabilities |
+| [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning](https://arxiv.org/abs/2305.14318) | EMNLP'23 | Agents that create their own tools |
+| [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) | arXiv'25 | Reinforcement learning for tool use optimization |
+
+### 8. Surveys and Reading Lists
+
+| Resource | Description |
+|----------|-------------|
+| [Awesome-Self-Evolving-Agents](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) by [@EvoAgentX](https://github.com/EvoAgentX) | Comprehensive survey covering single-agent, multi-agent, and domain-specific evolution (1.9k stars) |
+| [Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) by [@IAAR-Shanghai](https://github.com/IAAR-Shanghai) | Curated knowledge base on AI memory for LLMs and agents (454 stars) |
+| [Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) | Systems, benchmarks, and papers on memory for LLMs/MLLMs (262 stars) |
+
+### 9. Benchmarks and Evaluation
+
+| Benchmark | Paper | What It Measures |
+|-----------|-------|-----------------|
+| [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | ICLR'24 | Can agents resolve real-world GitHub issues? |
+| [AgentBench](https://github.com/THUDM/AgentBench) | ICLR'24 | Multi-dimensional evaluation of LLMs as agents |
+| [WebArena](https://github.com/web-arena-x/webarena) | ICLR'24 | Realistic web environment for autonomous agents |
+| [OSWorld](https://github.com/xlang-ai/OSWorld) | NeurIPS'24 | Open-ended tasks in real computer environments |
+| [GAIA](https://huggingface.co/gaia-benchmark) | ICLR'23 | General AI assistant capabilities benchmark |
+
+---
+
+### 10. Community and Knowledge
 
 <!-- AUTOGEN:community -->
 - [**Learn Agentic AI**](https://github.com/panaversity/learn-agentic-ai) -- Learn Agentic AI using DACA Design Pattern: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, and Kubernetes. by [@panaversity](https://github.com/panaversity) (3945 stars) `education` `a2a` `mcp`
+- [**Awesome-Self-Evolving-Agents**](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) -- A comprehensive survey of self-evolving AI agents. Covers single-agent optimization, multi-agent optimization, and domain-specific approaches. by [@EvoAgentX](https://github.com/EvoAgentX) (1900 stars) `survey` `research` `comprehensive`
 - [**OpenClaw QA**](https://github.com/ythx-101/openclaw-qa) -- OpenClaw developer community -- Q&A, real-world practices, AI Agent memory systems, multi-agent architectures, and evolution. by [@YuLin807](https://github.com/YuLin807) (58 stars) `openclaw` `community` `qa`
 <!-- /AUTOGEN:community -->
 
@@ -123,17 +245,27 @@ Q&A communities, knowledge bases, and educational resources for AI Agent develop
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on submitting a project.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on submitting a project or paper.
 
 You can also [open an issue](https://github.com/EvoMap/awesome-agent-evolution/issues/new?template=project-submission.yml) to suggest a project for inclusion.
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoMap/awesome-agent-evolution,EvoMap/evolver&type=Date)](https://star-history.com/#EvoMap/awesome-agent-evolution&EvoMap/evolver&Date)
+
+---
+
 ## About
 
-This list is maintained by [EvoMap](https://evomap.ai). Our flagship project [evolver](https://github.com/EvoMap/evolver) is a GEP-powered self-evolution engine for AI agents.
+This list is maintained by [EvoMap](https://evomap.ai). Our flagship project [evolver](https://github.com/EvoMap/evolver) implements the Genome Evolution Protocol (GEP) -- a self-evolution engine for AI agents that treats agent behavior as an evolving genome.
 
-If you find this list useful, consider giving it a star.
+| Resource | Link |
+|----------|------|
+| evolver | [github.com/EvoMap/evolver](https://github.com/EvoMap/evolver) |
+| evomap.ai | [evomap.ai](https://evomap.ai) |
+| Discussions | [evolver Discussions](https://github.com/EvoMap/evolver/discussions) |
 
 ## License
 

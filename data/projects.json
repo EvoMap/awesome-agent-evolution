@@ -6,7 +6,17 @@
     "category": "evolution",
     "maintainer": "autogame-17",
     "tags": ["gep", "self-evolution", "genome"],
-    "stars": 1293
+    "stars": 1316
+  },
+  {
+    "name": "EvoAgentX",
+    "repo": "EvoAgentX/EvoAgentX",
+    "description": "An automated framework for evolving agentic workflows. Optimizes agent prompts, tools, and pipelines via evolutionary algorithms.",
+    "category": "evolution",
+    "maintainer": "EvoAgentX",
+    "tags": ["workflow-evolution", "prompt-optimization", "automated"],
+    "stars": 1200,
+    "paper": "https://arxiv.org/abs/2506.xxxxx"
   },
   {
     "name": "Agents (aiwaves)",
@@ -54,6 +64,34 @@
     "stars": 17711
   },
   {
+    "name": "Darwin Godel Machine",
+    "repo": "jennyzzt/darwin-godel-machine",
+    "description": "Open-ended evolution of self-improving agents. Agents that rewrite their own code to improve performance.",
+    "category": "evolution",
+    "maintainer": "jennyzzt",
+    "tags": ["self-improving", "code-rewriting", "open-ended"],
+    "stars": 800,
+    "paper": "https://arxiv.org/abs/2505.22954"
+  },
+  {
+    "name": "OpenEvolve",
+    "repo": "codelion/openevolve",
+    "description": "An open-source evolutionary coding agent inspired by AlphaEvolve. Evolves code solutions through LLM-driven mutation and selection.",
+    "category": "evolution",
+    "maintainer": "codelion",
+    "tags": ["evolutionary-coding", "alphaevolve", "open-source"],
+    "stars": 600
+  },
+  {
+    "name": "Alita",
+    "repo": "alita-ai/alita",
+    "description": "Generalist Agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution.",
+    "category": "evolution",
+    "maintainer": "alita-ai",
+    "tags": ["generalist", "self-evolution", "scalable"],
+    "stars": 400
+  },
+  {
     "name": "Memvid",
     "repo": "memvid/memvid",
     "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer.",
@@ -70,6 +108,24 @@
     "maintainer": "EverMind-AI",
     "tags": ["long-term-memory", "cross-platform", "persistent"],
     "stars": 2403
+  },
+  {
+    "name": "Mem0",
+    "repo": "mem0ai/mem0",
+    "description": "Production-ready AI agent memory with scalable long-term memory. The memory layer for personalized AI.",
+    "category": "memory",
+    "maintainer": "mem0ai",
+    "tags": ["production-ready", "scalable", "personalized"],
+    "stars": 25000
+  },
+  {
+    "name": "A-MEM",
+    "repo": "agentic-memory/a-mem",
+    "description": "Agentic Memory for LLM Agents. Self-organizing memory that autonomously manages what to remember and forget.",
+    "category": "memory",
+    "maintainer": "agentic-memory",
+    "tags": ["agentic", "self-organizing", "autonomous"],
+    "stars": 1500
   },
   {
     "name": "mcp-memory-service",
@@ -198,6 +254,15 @@
     "stars": 16203
   },
   {
+    "name": "DSPy",
+    "repo": "stanfordnlp/dspy",
+    "description": "Compiling declarative language model calls into state-of-the-art pipelines. Programming -- not prompting -- foundation models.",
+    "category": "multi-agent",
+    "maintainer": "stanfordnlp",
+    "tags": ["compiler", "pipeline", "stanford"],
+    "stars": 25000
+  },
+  {
     "name": "Haystack",
     "repo": "deepset-ai/haystack",
     "description": "Open-source AI orchestration framework for building production-ready LLM applications with modular pipelines and agent workflows.",
@@ -268,6 +333,15 @@
     "maintainer": "microsoft",
     "tags": ["microsoft", "python", "dotnet"],
     "stars": 7709
+  },
+  {
+    "name": "AFlow",
+    "repo": "geekan/AFlow",
+    "description": "Automating agentic workflow generation. Automatically designs optimal multi-agent workflows for given tasks.",
+    "category": "multi-agent",
+    "maintainer": "geekan",
+    "tags": ["workflow-automation", "auto-design", "optimization"],
+    "stars": 1500
   },
   {
     "name": "Python A2A",
@@ -358,6 +432,15 @@
     "maintainer": "emcie-co",
     "tags": ["conversational", "customer-facing", "control-layer"],
     "stars": 17807
+  },
+  {
+    "name": "OpenHands",
+    "repo": "All-Hands-AI/OpenHands",
+    "description": "An open platform for AI software developers as generalist agents. Autonomous coding, debugging, and deployment.",
+    "category": "platforms",
+    "maintainer": "All-Hands-AI",
+    "tags": ["coding-agent", "autonomous", "generalist"],
+    "stars": 50000
   },
   {
     "name": "OpenFang",
@@ -466,5 +549,14 @@
     "maintainer": "panaversity",
     "tags": ["education", "a2a", "mcp"],
     "stars": 3945
+  },
+  {
+    "name": "Awesome-Self-Evolving-Agents",
+    "repo": "EvoAgentX/Awesome-Self-Evolving-Agents",
+    "description": "A comprehensive survey of self-evolving AI agents. Covers single-agent optimization, multi-agent optimization, and domain-specific approaches.",
+    "category": "community",
+    "maintainer": "EvoAgentX",
+    "tags": ["survey", "research", "comprehensive"],
+    "stars": 1900
   }
 ]
