@@ -88,6 +88,7 @@ Vector, graph, episodic, and hybrid memory architectures for persistent agent co
 - [**Aetherius**](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) -- A private, locally-operated AI Assistant with realistic Long Term Memory and thought formation using Open Source LLMs. by [@libraryofcelsus](https://github.com/libraryofcelsus) (313 stars) `local` `long-term-memory` `open-source`
 - [**nocturne_memory**](https://github.com/Dataojitori/nocturne_memory) -- A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents with graph-like structured memory. by [@Dataojitori](https://github.com/Dataojitori) (294 stars) `graph-memory` `rollbackable` `mcp`
 - [**Awesome-Agent-Memory**](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) -- Curated systems, benchmarks, and papers on memory for LLMs/MLLMs -- long-term context, retrieval, and reasoning. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (262 stars) `survey` `benchmarks` `research`
+- [**SuperLocalMemory V3**](https://github.com/qualixar/superlocalmemory) -- Local-first AI agent memory with information-geometric foundations. 74.8% on LoCoMo (zero cloud), 87.7% full-power. Fisher-Rao retrieval, sheaf cohomology, Langevin lifecycle. EU AI Act compliant (Mode A). by [@qualixar](https://github.com/qualixar) `local-first` `information-geometry` `eu-ai-act` `open-source`
 <!-- /AUTOGEN:memory -->
 
 ### 3. Multi-Agent Frameworks
