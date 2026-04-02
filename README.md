@@ -28,6 +28,8 @@ graph LR
 
     Infrastructure --> Protocols["A2A & MCP<br/>Protocols"]
     Infrastructure --> Platforms["Agent Development<br/>Platforms"]
+    Infrastructure --> Coding["Agent Coding &<br/>Software Engineering"]
+    Infrastructure --> Safety["Agent Safety<br/>& Guardrails"]
     Infrastructure --> Embodied["Embodied AI<br/>& Device Control"]
 ```
 
@@ -41,15 +43,18 @@ graph LR
 - [3. Multi-Agent Frameworks](#3-multi-agent-frameworks)
 - [4. Agent-to-Agent Protocols](#4-agent-to-agent-protocols)
 - [5. Agent Development Platforms](#5-agent-development-platforms)
-- [6. Embodied AI](#6-embodied-ai)
+- [6. Agent Coding and Software Engineering](#6-agent-coding-and-software-engineering)
+- [7. Prompt and Behaviour Optimization](#7-prompt-and-behaviour-optimization)
+- [8. Agent Safety and Guardrails](#8-agent-safety-and-guardrails)
+- [9. Embodied AI](#9-embodied-ai)
 
 **Research**
-- [7. Key Research Papers](#7-key-research-papers)
-- [8. Surveys and Reading Lists](#8-surveys-and-reading-lists)
-- [9. Benchmarks and Evaluation](#9-benchmarks-and-evaluation)
+- [10. Key Research Papers](#10-key-research-papers)
+- [11. Surveys and Reading Lists](#11-surveys-and-reading-lists)
+- [12. Benchmarks and Evaluation](#12-benchmarks-and-evaluation)
 
 **Community**
-- [10. Community and Knowledge](#10-community-and-knowledge)
+- [13. Community and Knowledge](#13-community-and-knowledge)
 
 ---
 
@@ -60,14 +65,16 @@ graph LR
 Projects focused on enabling AI agents to evolve, learn, and improve autonomously.
 
 <!-- AUTOGEN:evolution -->
-- [**Eliza**](https://github.com/elizaOS/eliza) -- Autonomous agents for everyone. A framework for creating and deploying AI agents that evolve over time. by [@elizaOS](https://github.com/elizaOS) (17711 stars) `autonomous` `agent-os` `evolution`
-- [**SuperAGI**](https://github.com/TransformerOptimus/SuperAGI) -- A dev-first open source autonomous AI agent framework. Enabling developers to build, manage and run useful autonomous agents. by [@TransformerOptimus](https://github.com/TransformerOptimus) (17238 stars) `autonomous` `self-improvement` `dev-tools`
-- [**Agent Zero**](https://github.com/agent0ai/agent-zero) -- Agent Zero AI framework -- a general-purpose AI agent that learns and evolves through interaction. by [@agent0ai](https://github.com/agent0ai) (15840 stars) `autonomous` `general-purpose` `learning`
-- [**Agents (aiwaves)**](https://github.com/aiwaves-cn/agents) -- An open-source framework for data-centric, self-evolving autonomous language agents. by [@aiwaves-cn](https://github.com/aiwaves-cn) (5878 stars) `self-evolving` `autonomous` `data-centric`
-- [**evolver**](https://github.com/EvoMap/evolver) -- The GEP-powered self-evolution engine for AI agents. Genome Evolution Protocol enables agents to evolve autonomously. by [@autogame-17](https://github.com/autogame-17) (1316 stars) `gep` `self-evolution` `genome`
-- [**EvoAgentX**](https://github.com/EvoAgentX/EvoAgentX) -- An automated framework for evolving agentic workflows. Optimizes agent prompts, tools, and pipelines via evolutionary algorithms. by [@EvoAgentX](https://github.com/EvoAgentX) (1200 stars) `workflow-evolution` `prompt-optimization` `automated`
-- [**Darwin Godel Machine**](https://github.com/jennyzzt/darwin-godel-machine) -- Open-ended evolution of self-improving agents. Agents that rewrite their own code to improve performance. by [@jennyzzt](https://github.com/jennyzzt) (800 stars) `self-improving` `code-rewriting` `open-ended`
+- [**Eliza**](https://github.com/elizaOS/eliza) -- Autonomous agents for everyone. A framework for creating and deploying AI agents that evolve over time. by [@elizaOS](https://github.com/elizaOS) (17,711 stars) `autonomous` `agent-os` `evolution`
+- [**SuperAGI**](https://github.com/TransformerOptimus/SuperAGI) -- A dev-first open source autonomous AI agent framework. Enabling developers to build, manage and run useful autonomous agents. by [@TransformerOptimus](https://github.com/TransformerOptimus) (17,238 stars) `autonomous` `self-improvement` `dev-tools`
+- [**Agent Zero**](https://github.com/agent0ai/agent-zero) -- Agent Zero AI framework -- a general-purpose AI agent that learns and evolves through interaction. by [@agent0ai](https://github.com/agent0ai) (15,840 stars) `autonomous` `general-purpose` `learning`
+- [**Agents (aiwaves)**](https://github.com/aiwaves-cn/agents) -- An open-source framework for data-centric, self-evolving autonomous language agents. by [@aiwaves-cn](https://github.com/aiwaves-cn) (5,878 stars) `self-evolving` `autonomous` `data-centric`
+- [**evolver**](https://github.com/EvoMap/evolver) -- The GEP-powered self-evolution engine for AI agents. Genome Evolution Protocol enables agents to evolve autonomously. by [@autogame-17](https://github.com/autogame-17) (1,316 stars) `gep` `self-evolution` `genome`
+- [**EvoAgentX**](https://github.com/EvoAgentX/EvoAgentX) -- An automated framework for evolving agentic workflows. Optimizes agent prompts, tools, and pipelines via evolutionary algorithms. by [@EvoAgentX](https://github.com/EvoAgentX) (1,200 stars) `workflow-evolution` `prompt-optimization` `automated` [[paper]](https://arxiv.org/abs/2506.xxxxx)
+- [**Agent0**](https://github.com/aiming-lab/Agent0) -- Self-evolving agent framework from UNC/Salesforce/Stanford. Improves without human-curated datasets via curriculum and executor agent competition. by [@aiming-lab](https://github.com/aiming-lab) (1,111 stars) `self-evolving` `curriculum-learning` `research`
+- [**Darwin Godel Machine**](https://github.com/jennyzzt/darwin-godel-machine) -- Open-ended evolution of self-improving agents. Agents that rewrite their own code to improve performance. by [@jennyzzt](https://github.com/jennyzzt) (800 stars) `self-improving` `code-rewriting` `open-ended` [[paper]](https://arxiv.org/abs/2505.22954)
 - [**OpenEvolve**](https://github.com/codelion/openevolve) -- An open-source evolutionary coding agent inspired by AlphaEvolve. Evolves code solutions through LLM-driven mutation and selection. by [@codelion](https://github.com/codelion) (600 stars) `evolutionary-coding` `alphaevolve` `open-source`
+- [**Ouroboros**](https://github.com/razzant/ouroboros) -- Self-creating AI agent that writes its own code and evolves autonomously. Completed 30+ evolution cycles in first 24 hours with zero human intervention. by [@razzant](https://github.com/razzant) (455 stars) `self-creating` `autonomous-evolution` `self-modifying`
 - [**Alita**](https://github.com/alita-ai/alita) -- Generalist Agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution. by [@alita-ai](https://github.com/alita-ai) (400 stars) `generalist` `self-evolution` `scalable`
 - [**SEAgent**](https://github.com/SunzeY/SEAgent) -- Self-Evolving Computer Use Agent with Autonomous Learning from Experience. by [@SunzeY](https://github.com/SunzeY) (231 stars) `self-evolving` `computer-use` `autonomous-learning`
 <!-- /AUTOGEN:evolution -->
@@ -77,12 +84,12 @@ Projects focused on enabling AI agents to evolve, learn, and improve autonomousl
 Vector, graph, episodic, and hybrid memory architectures for persistent agent cognition.
 
 <!-- AUTOGEN:memory -->
-- [**Mem0**](https://github.com/mem0ai/mem0) -- Production-ready AI agent memory with scalable long-term memory. The memory layer for personalized AI. by [@mem0ai](https://github.com/mem0ai) (25000 stars) `production-ready` `scalable` `personalized`
-- [**Memvid**](https://github.com/memvid/memvid) -- Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. by [@memvid](https://github.com/memvid) (13278 stars) `memory-layer` `serverless` `retrieval`
-- [**memU**](https://github.com/NevaMind-AI/memU) -- Memory system for 24/7 proactive agents. Persistent memory across sessions and platforms. by [@NevaMind-AI](https://github.com/NevaMind-AI) (12654 stars) `proactive-agents` `persistent` `cross-platform`
-- [**EverMemOS**](https://github.com/EverMind-AI/EverMemOS) -- Long-term memory for 24/7 AI agents across LLMs and platforms. by [@EverMind-AI](https://github.com/EverMind-AI) (2403 stars) `long-term-memory` `cross-platform` `persistent`
-- [**A-MEM**](https://github.com/agentic-memory/a-mem) -- Agentic Memory for LLM Agents. Self-organizing memory that autonomously manages what to remember and forget. by [@agentic-memory](https://github.com/agentic-memory) (1500 stars) `agentic` `self-organizing` `autonomous`
-- [**mcp-memory-service**](https://github.com/doobidoo/mcp-memory-service) -- Open-source persistent memory for AI agent pipelines. REST API + knowledge graph + autonomous consolidation. by [@doobidoo](https://github.com/doobidoo) (1463 stars) `mcp` `knowledge-graph` `persistent-memory`
+- [**Mem0**](https://github.com/mem0ai/mem0) -- Production-ready AI agent memory with scalable long-term memory. The memory layer for personalized AI. by [@mem0ai](https://github.com/mem0ai) (25,000 stars) `production-ready` `scalable` `personalized`
+- [**Memvid**](https://github.com/memvid/memvid) -- Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. by [@memvid](https://github.com/memvid) (13,278 stars) `memory-layer` `serverless` `retrieval`
+- [**memU**](https://github.com/NevaMind-AI/memU) -- Memory system for 24/7 proactive agents. Persistent memory across sessions and platforms. by [@NevaMind-AI](https://github.com/NevaMind-AI) (12,654 stars) `proactive-agents` `persistent` `cross-platform`
+- [**EverMemOS**](https://github.com/EverMind-AI/EverMemOS) -- Long-term memory for 24/7 AI agents across LLMs and platforms. by [@EverMind-AI](https://github.com/EverMind-AI) (2,403 stars) `long-term-memory` `cross-platform` `persistent`
+- [**A-MEM**](https://github.com/agentic-memory/a-mem) -- Agentic Memory for LLM Agents. Self-organizing memory that autonomously manages what to remember and forget. by [@agentic-memory](https://github.com/agentic-memory) (1,500 stars) `agentic` `self-organizing` `autonomous`
+- [**mcp-memory-service**](https://github.com/doobidoo/mcp-memory-service) -- Open-source persistent memory for AI agent pipelines. REST API + knowledge graph + autonomous consolidation. by [@doobidoo](https://github.com/doobidoo) (1,463 stars) `mcp` `knowledge-graph` `persistent-memory`
 - [**Awesome-AI-Memory**](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) -- A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and system design. by [@IAAR-Shanghai](https://github.com/IAAR-Shanghai) (454 stars) `survey` `knowledge-base` `research`
 - [**TeleMem**](https://github.com/TeleAI-UAGI/telemem) -- High-performance drop-in replacement for Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (440 stars) `semantic-dedup` `multimodal` `high-performance`
 - [**Aetherius**](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) -- A private, locally-operated AI Assistant with realistic Long Term Memory and thought formation using Open Source LLMs. by [@libraryofcelsus](https://github.com/libraryofcelsus) (313 stars) `local` `long-term-memory` `open-source`
@@ -95,23 +102,25 @@ Vector, graph, episodic, and hybrid memory architectures for persistent agent co
 Frameworks for orchestrating multiple AI agents to collaborate on complex tasks.
 
 <!-- AUTOGEN:multi-agent -->
-- [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT) -- The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming. by [@FoundationAgents](https://github.com/FoundationAgents) (64830 stars) `software-company` `role-playing` `nlp`
-- [**AutoGen**](https://github.com/microsoft/autogen) -- A programming framework for agentic AI. Build multi-agent applications with conversational patterns. by [@microsoft](https://github.com/microsoft) (55254 stars) `conversational` `microsoft` `agentic`
-- [**CrewAI**](https://github.com/crewAIInc/crewAI) -- Framework for orchestrating role-playing, autonomous AI agents. Collaborative intelligence for complex tasks. by [@crewAIInc](https://github.com/crewAIInc) (45322 stars) `role-playing` `collaborative` `orchestration`
-- [**DSPy**](https://github.com/stanfordnlp/dspy) -- Compiling declarative language model calls into state-of-the-art pipelines. Programming -- not prompting -- foundation models. by [@stanfordnlp](https://github.com/stanfordnlp) (25000 stars) `compiler` `pipeline` `stanford`
-- [**Haystack**](https://github.com/deepset-ai/haystack) -- Open-source AI orchestration framework for building production-ready LLM applications with modular pipelines and agent workflows. by [@deepset-ai](https://github.com/deepset-ai) (24418 stars) `pipelines` `rag` `production-ready`
-- [**Mastra**](https://github.com/mastra-ai/mastra) -- From the team behind Gatsby. A framework for building AI-powered applications and agents with modern TypeScript. by [@mastra-ai](https://github.com/mastra-ai) (21767 stars) `typescript` `modern` `gatsby-team`
-- [**Swarm (OpenAI)**](https://github.com/openai/swarm) -- Educational framework exploring ergonomic, lightweight multi-agent orchestration. by [@openai](https://github.com/openai) (21090 stars) `lightweight` `educational` `openai`
-- [**OpenAI Agents Python**](https://github.com/openai/openai-agents-python) -- A lightweight, powerful framework for multi-agent workflows from OpenAI. by [@openai](https://github.com/openai) (19388 stars) `python` `lightweight` `openai`
-- [**DB-GPT**](https://github.com/eosphoros-ai/DB-GPT) -- AI Native Data App Development framework with AWEL (Agentic Workflow Expression Language) and Agents. by [@eosphoros-ai](https://github.com/eosphoros-ai) (18213 stars) `data-app` `workflow` `awel`
-- [**CAMEL**](https://github.com/camel-ai/camel) -- The first and the best multi-agent framework. Finding the Scaling Law of Agents. by [@camel-ai](https://github.com/camel-ai) (16203 stars) `scaling-law` `research` `multi-agent`
-- [**Microsoft Agent Framework**](https://github.com/microsoft/agent-framework) -- A framework for building, orchestrating and deploying AI agents with support for Python and .NET. by [@microsoft](https://github.com/microsoft) (7709 stars) `microsoft` `python` `dotnet`
-- [**Agent Squad**](https://github.com/awslabs/agent-squad) -- Flexible and powerful framework for managing multiple AI agents and handling complex conversations. by [@awslabs](https://github.com/awslabs) (7491 stars) `aws` `flexible` `conversations`
-- [**MindSearch**](https://github.com/InternLM/MindSearch) -- An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT). by [@InternLM](https://github.com/InternLM) (6788 stars) `web-search` `perplexity-like` `research`
-- [**Swarms**](https://github.com/kyegomez/swarms) -- The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. by [@kyegomez](https://github.com/kyegomez) (5845 stars) `enterprise` `orchestration` `production-ready`
-- [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) -- Production-ready Multi AI Agents framework. Low-code solution for multi-agent LLM systems. by [@MervinPraison](https://github.com/MervinPraison) (5635 stars) `low-code` `production-ready` `customizable`
-- [**Agency Swarm**](https://github.com/VRSEN/agency-swarm) -- Reliable Multi-Agent Orchestration Framework for building agent teams. by [@VRSEN](https://github.com/VRSEN) (4026 stars) `orchestration` `reliable` `agent-teams`
-- [**AFlow**](https://github.com/geekan/AFlow) -- Automating agentic workflow generation. Automatically designs optimal multi-agent workflows for given tasks. by [@geekan](https://github.com/geekan) (1500 stars) `workflow-automation` `auto-design` `optimization`
+- [**Dify**](https://github.com/langgenius/dify) -- Production-ready platform for agentic workflow development. Combines AI workflow, RAG pipeline, agent capabilities, and model management. by [@langgenius](https://github.com/langgenius) (135,372 stars) `workflow` `rag` `production-ready`
+- [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT) -- The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming. by [@FoundationAgents](https://github.com/FoundationAgents) (64,830 stars) `software-company` `role-playing` `nlp`
+- [**AutoGen**](https://github.com/microsoft/autogen) -- A programming framework for agentic AI. Build multi-agent applications with conversational patterns. by [@microsoft](https://github.com/microsoft) (55,254 stars) `conversational` `microsoft` `agentic`
+- [**CrewAI**](https://github.com/crewAIInc/crewAI) -- Framework for orchestrating role-playing, autonomous AI agents. Collaborative intelligence for complex tasks. by [@crewAIInc](https://github.com/crewAIInc) (45,322 stars) `role-playing` `collaborative` `orchestration`
+- [**LangGraph**](https://github.com/langchain-ai/langgraph) -- Build resilient language agents as graphs. Low-level orchestration framework for stateful agents with durable execution. by [@langchain-ai](https://github.com/langchain-ai) (28,158 stars) `graph` `orchestration` `stateful`
+- [**DSPy**](https://github.com/stanfordnlp/dspy) -- Compiling declarative language model calls into state-of-the-art pipelines. Programming -- not prompting -- foundation models. by [@stanfordnlp](https://github.com/stanfordnlp) (25,000 stars) `compiler` `pipeline` `stanford`
+- [**Haystack**](https://github.com/deepset-ai/haystack) -- Open-source AI orchestration framework for building production-ready LLM applications with modular pipelines and agent workflows. by [@deepset-ai](https://github.com/deepset-ai) (24,418 stars) `pipelines` `rag` `production-ready`
+- [**Mastra**](https://github.com/mastra-ai/mastra) -- From the team behind Gatsby. A framework for building AI-powered applications and agents with modern TypeScript. by [@mastra-ai](https://github.com/mastra-ai) (21,767 stars) `typescript` `modern` `gatsby-team`
+- [**Swarm (OpenAI)**](https://github.com/openai/swarm) -- Educational framework exploring ergonomic, lightweight multi-agent orchestration. by [@openai](https://github.com/openai) (21,090 stars) `lightweight` `educational` `openai`
+- [**OpenAI Agents Python**](https://github.com/openai/openai-agents-python) -- A lightweight, powerful framework for multi-agent workflows from OpenAI. by [@openai](https://github.com/openai) (19,388 stars) `python` `lightweight` `openai`
+- [**DB-GPT**](https://github.com/eosphoros-ai/DB-GPT) -- AI Native Data App Development framework with AWEL (Agentic Workflow Expression Language) and Agents. by [@eosphoros-ai](https://github.com/eosphoros-ai) (18,213 stars) `data-app` `workflow` `awel`
+- [**CAMEL**](https://github.com/camel-ai/camel) -- The first and the best multi-agent framework. Finding the Scaling Law of Agents. by [@camel-ai](https://github.com/camel-ai) (16,203 stars) `scaling-law` `research` `multi-agent`
+- [**Microsoft Agent Framework**](https://github.com/microsoft/agent-framework) -- A framework for building, orchestrating and deploying AI agents with support for Python and .NET. by [@microsoft](https://github.com/microsoft) (7,709 stars) `microsoft` `python` `dotnet`
+- [**Agent Squad**](https://github.com/awslabs/agent-squad) -- Flexible and powerful framework for managing multiple AI agents and handling complex conversations. by [@awslabs](https://github.com/awslabs) (7,491 stars) `aws` `flexible` `conversations`
+- [**MindSearch**](https://github.com/InternLM/MindSearch) -- An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT). by [@InternLM](https://github.com/InternLM) (6,788 stars) `web-search` `perplexity-like` `research`
+- [**Swarms**](https://github.com/kyegomez/swarms) -- The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. by [@kyegomez](https://github.com/kyegomez) (5,845 stars) `enterprise` `orchestration` `production-ready`
+- [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) -- Production-ready Multi AI Agents framework. Low-code solution for multi-agent LLM systems. by [@MervinPraison](https://github.com/MervinPraison) (5,635 stars) `low-code` `production-ready` `customizable`
+- [**Agency Swarm**](https://github.com/VRSEN/agency-swarm) -- Reliable Multi-Agent Orchestration Framework for building agent teams. by [@VRSEN](https://github.com/VRSEN) (4,026 stars) `orchestration` `reliable` `agent-teams`
+- [**AFlow**](https://github.com/geekan/AFlow) -- Automating agentic workflow generation. Automatically designs optimal multi-agent workflows for given tasks. by [@geekan](https://github.com/geekan) (1,500 stars) `workflow-automation` `auto-design` `optimization`
 <!-- /AUTOGEN:multi-agent -->
 
 ### 4. Agent-to-Agent Protocols
@@ -119,8 +128,8 @@ Frameworks for orchestrating multiple AI agents to collaborate on complex tasks.
 Standards and protocols for inter-agent communication and interoperability.
 
 <!-- AUTOGEN:protocols -->
-- [**mcp-use**](https://github.com/mcp-use/mcp-use) -- The fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents. by [@mcp-use](https://github.com/mcp-use) (9383 stars) `mcp` `fullstack` `chatgpt`
-- [**Casibase**](https://github.com/casibase/casibase) -- AI Cloud OS: Enterprise-level AI knowledge base and MCP/A2A management platform with admin UI. by [@casibase](https://github.com/casibase) (4456 stars) `a2a` `mcp` `enterprise`
+- [**mcp-use**](https://github.com/mcp-use/mcp-use) -- The fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents. by [@mcp-use](https://github.com/mcp-use) (9,383 stars) `mcp` `fullstack` `chatgpt`
+- [**Casibase**](https://github.com/casibase/casibase) -- AI Cloud OS: Enterprise-level AI knowledge base and MCP/A2A management platform with admin UI. by [@casibase](https://github.com/casibase) (4,456 stars) `a2a` `mcp` `enterprise`
 - [**Python A2A**](https://github.com/themanojdesai/python-a2a) -- A powerful library for implementing Google's Agent-to-Agent (A2A) protocol for seamless inter-agent communication. by [@themanojdesai](https://github.com/themanojdesai) (981 stars) `a2a` `google` `python`
 - [**ATLAS MCP Server**](https://github.com/cyanheads/atlas-mcp-server) -- Neo4j-powered task management system for LLM Agents with three-tier architecture (Projects, Tasks, Knowledge). by [@cyanheads](https://github.com/cyanheads) (467 stars) `mcp` `neo4j` `task-management`
 - [**A2A x402**](https://github.com/google-agentic-commerce/a2a-x402) -- The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent protocol, enabling agents to monetize their services. by [@google-agentic-commerce](https://github.com/google-agentic-commerce) (462 stars) `a2a` `payments` `crypto`
@@ -135,24 +144,52 @@ Standards and protocols for inter-agent communication and interoperability.
 Platforms and tools for building, deploying, and managing AI agents.
 
 <!-- AUTOGEN:platforms -->
-- [**OpenHands**](https://github.com/All-Hands-AI/OpenHands) -- An open platform for AI software developers as generalist agents. Autonomous coding, debugging, and deployment. by [@All-Hands-AI](https://github.com/All-Hands-AI) (50000 stars) `coding-agent` `autonomous` `generalist`
-- [**Parlant**](https://github.com/emcie-co/parlant) -- The conversational control layer for customer-facing AI agents. A context-engineering framework for controlling interactions. by [@emcie-co](https://github.com/emcie-co) (17807 stars) `conversational` `customer-facing` `control-layer`
-- [**OpenFang**](https://github.com/RightNow-AI/openfang) -- Open-source Agent Operating System for deploying and managing AI agents. by [@RightNow-AI](https://github.com/RightNow-AI) (11641 stars) `agent-os` `open-source` `deployment`
-- [**TEN Framework**](https://github.com/TEN-framework/ten-framework) -- Open-source framework for conversational voice AI agents. by [@TEN-framework](https://github.com/TEN-framework) (10217 stars) `voice` `conversational` `real-time`
-- [**LiveKit Agents**](https://github.com/livekit/agents) -- A framework for building realtime voice AI agents. by [@livekit](https://github.com/livekit) (9604 stars) `voice` `realtime` `livekit`
-- [**BotSharp**](https://github.com/SciSharp/BotSharp) -- AI Multi-Agent Framework in .NET for building intelligent agents. by [@SciSharp](https://github.com/SciSharp) (3022 stars) `dotnet` `csharp` `multi-agent`
-- [**LLMStack**](https://github.com/trypromptly/LLMStack) -- No-code multi-agent framework to build LLM Agents, workflows and applications with your data. by [@trypromptly](https://github.com/trypromptly) (2294 stars) `no-code` `workflows` `data-integration`
-- [**agentUniverse**](https://github.com/agentuniverse-ai/agentUniverse) -- A LLM multi-agent framework that allows developers to easily build multi-agent applications. by [@agentuniverse-ai](https://github.com/agentuniverse-ai) (2129 stars) `developer-friendly` `multi-agent` `applications`
+- [**OpenHands**](https://github.com/All-Hands-AI/OpenHands) -- An open platform for AI software developers as generalist agents. Autonomous coding, debugging, and deployment. by [@All-Hands-AI](https://github.com/All-Hands-AI) (50,000 stars) `coding-agent` `autonomous` `generalist`
+- [**Parlant**](https://github.com/emcie-co/parlant) -- The conversational control layer for customer-facing AI agents. A context-engineering framework for controlling interactions. by [@emcie-co](https://github.com/emcie-co) (17,807 stars) `conversational` `customer-facing` `control-layer`
+- [**OpenFang**](https://github.com/RightNow-AI/openfang) -- Open-source Agent Operating System for deploying and managing AI agents. by [@RightNow-AI](https://github.com/RightNow-AI) (11,641 stars) `agent-os` `open-source` `deployment`
+- [**TEN Framework**](https://github.com/TEN-framework/ten-framework) -- Open-source framework for conversational voice AI agents. by [@TEN-framework](https://github.com/TEN-framework) (10,217 stars) `voice` `conversational` `real-time`
+- [**LiveKit Agents**](https://github.com/livekit/agents) -- A framework for building realtime voice AI agents. by [@livekit](https://github.com/livekit) (9,604 stars) `voice` `realtime` `livekit`
+- [**BotSharp**](https://github.com/SciSharp/BotSharp) -- AI Multi-Agent Framework in .NET for building intelligent agents. by [@SciSharp](https://github.com/SciSharp) (3,022 stars) `dotnet` `csharp` `multi-agent`
+- [**LLMStack**](https://github.com/trypromptly/LLMStack) -- No-code multi-agent framework to build LLM Agents, workflows and applications with your data. by [@trypromptly](https://github.com/trypromptly) (2,294 stars) `no-code` `workflows` `data-integration`
+- [**agentUniverse**](https://github.com/agentuniverse-ai/agentUniverse) -- A LLM multi-agent framework that allows developers to easily build multi-agent applications. by [@agentuniverse-ai](https://github.com/agentuniverse-ai) (2,129 stars) `developer-friendly` `multi-agent` `applications`
 <!-- /AUTOGEN:platforms -->
 
-### 6. Embodied AI
+### 6. Agent Coding and Software Engineering
+
+AI agents that write, debug, and maintain code autonomously.
+
+<!-- AUTOGEN:coding -->
+- [**Aider**](https://github.com/Aider-AI/aider) -- AI pair programming in your terminal. Edit code with LLMs across 100+ languages with deep git integration. by [@Aider-AI](https://github.com/Aider-AI) (42,637 stars) `pair-programming` `terminal` `git-integration`
+- [**Devika**](https://github.com/stitionai/devika) -- The first open-source implementation of an Agentic Software Engineer. An open-source alternative to Devin. by [@stitionai](https://github.com/stitionai) (19,498 stars) `software-engineer` `devin-alternative` `autonomous`
+- [**SWE-Agent**](https://github.com/SWE-agent/SWE-agent) -- Automatically fix GitHub issues and handle cybersecurity challenges. State-of-the-art on SWE-bench. by [@SWE-agent](https://github.com/SWE-agent) (18,904 stars) `github-issues` `swe-bench` `automated-fix`
+- [**Mini-SWE-Agent**](https://github.com/SWE-agent/mini-swe-agent) -- The 100-line AI agent that solves GitHub issues. Radically simple but scores >74% on SWE-bench verified. by [@SWE-agent](https://github.com/SWE-agent) (3,594 stars) `minimal` `swe-bench` `lightweight`
+- [**Reflexion**](https://github.com/noahshinn/reflexion) -- Language agents with verbal reinforcement learning. Agents that learn from mistakes through self-reflection. by [@noahshinn](https://github.com/noahshinn) (2,300 stars) `self-reflection` `reinforcement-learning` `reasoning` [[paper]](https://arxiv.org/abs/2303.11366)
+<!-- /AUTOGEN:coding -->
+
+### 7. Prompt and Behaviour Optimization
+
+Tools and frameworks for automatically optimizing agent prompts, instructions, and behavioral patterns.
+
+<!-- AUTOGEN:prompt-optimization -->
+- [**TextGrad**](https://github.com/zou-group/textgrad) -- Automatic differentiation via text. Backpropagation through LLM-provided textual gradients, published in Nature. by [@zou-group](https://github.com/zou-group) (3,457 stars) `gradient` `optimization` `nature-published` [[paper]](https://arxiv.org/abs/2406.07496)
+<!-- /AUTOGEN:prompt-optimization -->
+
+### 8. Agent Safety and Guardrails
+
+Projects focused on controlling agent actions, enforcing policies, and preventing harmful behavior.
+
+<!-- AUTOGEN:safety -->
+- [**NeMo Guardrails**](https://github.com/NVIDIA/NeMo-Guardrails) -- NVIDIA's toolkit for adding programmable guardrails to LLM conversational systems. Policy-based safety controls. by [@NVIDIA](https://github.com/NVIDIA) (5,906 stars) `guardrails` `nvidia` `policy-engine`
+<!-- /AUTOGEN:safety -->
+
+### 9. Embodied AI
 
 Projects connecting AI agents to physical devices, robotics, and real-world environments.
 
 <!-- AUTOGEN:embodied -->
-- [**Open-AutoGLM**](https://github.com/zai-org/Open-AutoGLM) -- An Open Phone Agent Model and Framework. Unlocking the AI Phone for Everyone. by [@zai-org](https://github.com/zai-org) (24074 stars) `phone` `mobile` `automate`
-- [**XcodeBuildMCP**](https://github.com/getsentry/XcodeBuildMCP) -- A MCP server and CLI for agent use when working on iOS and macOS projects. by [@getsentry](https://github.com/getsentry) (4585 stars) `xcode` `ios` `macos`
-- [**Mobile MCP**](https://github.com/mobile-next/mobile-mcp) -- Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators and Real Devices). by [@mobile-next](https://github.com/mobile-next) (3727 stars) `mobile` `automation` `mcp`
+- [**Open-AutoGLM**](https://github.com/zai-org/Open-AutoGLM) -- An Open Phone Agent Model and Framework. Unlocking the AI Phone for Everyone. by [@zai-org](https://github.com/zai-org) (24,074 stars) `phone` `mobile` `automate`
+- [**XcodeBuildMCP**](https://github.com/getsentry/XcodeBuildMCP) -- A MCP server and CLI for agent use when working on iOS and macOS projects. by [@getsentry](https://github.com/getsentry) (4,585 stars) `xcode` `ios` `macos`
+- [**Mobile MCP**](https://github.com/mobile-next/mobile-mcp) -- Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators and Real Devices). by [@mobile-next](https://github.com/mobile-next) (3,727 stars) `mobile` `automation` `mcp`
 - [**ROS-LLM**](https://github.com/Auromix/ROS-LLM) -- Framework for embodied intelligence in ROS. Natural language interactions with LLMs for robot control. by [@Auromix](https://github.com/Auromix) (743 stars) `ros` `robotics` `natural-language`
 <!-- /AUTOGEN:embodied -->
 
@@ -160,11 +197,11 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 
 ## Research
 
-### 7. Key Research Papers
+### 10. Key Research Papers
 
 Selected papers that shaped the field of agent evolution and self-improvement.
 
-#### 7.1 Self-Evolution and Lifelong Learning
+#### 10.1 Self-Evolution and Lifelong Learning
 
 | Paper | Venue | Key Contribution |
 |-------|-------|-----------------|
@@ -175,7 +212,7 @@ Selected papers that shaped the field of agent evolution and self-improvement.
 | [EvoAgent: Self-evolving Agent with Continual World Model](https://arxiv.org/abs/2502.05907) | arXiv'25 | Continual world model for long-horizon task evolution |
 | [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) | arXiv'25 | Self-play reasoning without any training data |
 
-#### 7.2 Memory Optimization
+#### 10.2 Memory Optimization
 
 | Paper | Venue | Key Contribution |
 |-------|-------|-----------------|
@@ -185,16 +222,16 @@ Selected papers that shaped the field of agent evolution and self-improvement.
 | [MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250) | AAAI'24 | Structured long-term memory for LLMs |
 | [Compress to Impress: Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975) | ICLR'25 | Compression-based memory for extended dialogues |
 
-#### 7.3 Prompt and Behaviour Evolution
+#### 10.3 Prompt and Behaviour Evolution
 
 | Paper | Venue | Key Contribution |
 |-------|-------|-----------------|
 | [EvoPrompt: Connecting LLMs with Evolutionary Algorithms](https://arxiv.org/abs/2309.08532) | ICLR'24 | Evolutionary algorithms for prompt optimization |
 | [Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/abs/2309.16797) | ICML'24 | Prompts that evolve themselves recursively |
 | [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409) | ICLR'24 | Using LLMs to optimize their own prompts |
-| [TextGrad: Automatic Differentiation via Text](https://arxiv.org/abs/2406.07496) | arXiv'24 | Gradient-like optimization through text feedback |
+| [TextGrad: Automatic Differentiation via Text](https://arxiv.org/abs/2406.07496) | Nature'25 | Gradient-like optimization through text feedback |
 
-#### 7.4 Multi-Agent Evolution
+#### 10.4 Multi-Agent Evolution
 
 | Paper | Venue | Key Contribution |
 |-------|-------|-----------------|
@@ -204,7 +241,7 @@ Selected papers that shaped the field of agent evolution and self-improvement.
 | [GPTSwarm: Language Agents as Optimizable Graphs](https://arxiv.org/abs/2402.16823) | ICML'24 | Graph-based optimization of agent collaboration |
 | [AgentVerse: Facilitating Multi-Agent Collaboration](https://arxiv.org/abs/2308.10848) | ICLR'24 | Emergent behaviors in multi-agent environments |
 
-#### 7.5 Tool and Code Evolution
+#### 10.5 Tool and Code Evolution
 
 | Paper | Venue | Key Contribution |
 |-------|-------|-----------------|
@@ -213,7 +250,21 @@ Selected papers that shaped the field of agent evolution and self-improvement.
 | [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning](https://arxiv.org/abs/2305.14318) | EMNLP'23 | Agents that create their own tools |
 | [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) | arXiv'25 | Reinforcement learning for tool use optimization |
 
-### 8. Surveys and Reading Lists
+#### 10.6 Reasoning and Planning
+
+| Paper | Venue | Key Contribution |
+|-------|-------|-----------------|
+| [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS'23 | Agents that learn from mistakes through self-reflection |
+| [ReflAct: World-Grounded Decision Making via Goal-State Reflection](https://arxiv.org/abs/2505.15182) | arXiv'25 | Goal-state reflection improving strategic reliability by 27.7% over ReAct |
+| [Agent0: Self-Evolving Agents Without Human-Curated Datasets](https://arxiv.org/abs/2504.01072) | arXiv'25 | Curriculum and executor competition for self-improvement |
+
+#### 10.7 Safety and Alignment
+
+| Paper | Venue | Key Contribution |
+|-------|-------|-----------------|
+| [OpenGuardrails: An Open-Source Context-Aware AI Guardrails Platform](https://arxiv.org/abs/2510.19169) | arXiv'25 | Context-aware safety detection and model-manipulation prevention |
+
+### 11. Surveys and Reading Lists
 
 | Resource | Description |
 |----------|-------------|
@@ -221,7 +272,7 @@ Selected papers that shaped the field of agent evolution and self-improvement.
 | [Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) by [@IAAR-Shanghai](https://github.com/IAAR-Shanghai) | Curated knowledge base on AI memory for LLMs and agents (454 stars) |
 | [Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) | Systems, benchmarks, and papers on memory for LLMs/MLLMs (262 stars) |
 
-### 9. Benchmarks and Evaluation
+### 12. Benchmarks and Evaluation
 
 | Benchmark | Paper | What It Measures |
 |-----------|-------|-----------------|
@@ -233,11 +284,11 @@ Selected papers that shaped the field of agent evolution and self-improvement.
 
 ---
 
-### 10. Community and Knowledge
+### 13. Community and Knowledge
 
 <!-- AUTOGEN:community -->
-- [**Learn Agentic AI**](https://github.com/panaversity/learn-agentic-ai) -- Learn Agentic AI using DACA Design Pattern: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, and Kubernetes. by [@panaversity](https://github.com/panaversity) (3945 stars) `education` `a2a` `mcp`
-- [**Awesome-Self-Evolving-Agents**](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) -- A comprehensive survey of self-evolving AI agents. Covers single-agent optimization, multi-agent optimization, and domain-specific approaches. by [@EvoAgentX](https://github.com/EvoAgentX) (1900 stars) `survey` `research` `comprehensive`
+- [**Learn Agentic AI**](https://github.com/panaversity/learn-agentic-ai) -- Learn Agentic AI using DACA Design Pattern: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, and Kubernetes. by [@panaversity](https://github.com/panaversity) (3,945 stars) `education` `a2a` `mcp`
+- [**Awesome-Self-Evolving-Agents**](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents) -- A comprehensive survey of self-evolving AI agents. Covers single-agent optimization, multi-agent optimization, and domain-specific approaches. by [@EvoAgentX](https://github.com/EvoAgentX) (1,900 stars) `survey` `research` `comprehensive`
 - [**OpenClaw QA**](https://github.com/ythx-101/openclaw-qa) -- OpenClaw developer community -- Q&A, real-world practices, AI Agent memory systems, multi-agent architectures, and evolution. by [@YuLin807](https://github.com/YuLin807) (58 stars) `openclaw` `community` `qa`
 <!-- /AUTOGEN:community -->
 

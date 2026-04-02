@@ -27,6 +27,9 @@ body:
         - Multi-Agent Frameworks
         - Agent-to-Agent Protocols
         - Agent Development Platforms
+        - Agent Coding and Software Engineering
+        - Prompt and Behaviour Optimization
+        - Agent Safety and Guardrails
         - Embodied AI
         - Community and Knowledge
     validations:
@@ -45,5 +48,12 @@ body:
       label: Why should it be included?
       description: What makes this project stand out?
       placeholder: Notable features, unique approach, community adoption, etc.
+    validations:
+      required: false
+  - type: input
+    id: paper
+    attributes:
+      label: Related Paper (optional)
+      placeholder: https://arxiv.org/abs/...
     validations:
       required: false

@@ -12,15 +12,19 @@ const CATEGORY_SECTIONS = {
   'multi-agent': 'multi-agent',
   'protocols': 'protocols',
   'platforms': 'platforms',
+  'coding': 'coding',
+  'prompt-optimization': 'prompt-optimization',
+  'safety': 'safety',
   'embodied': 'embodied',
   'community': 'community',
 };
 
 function formatProject(p) {
-  const stars = p.stars ? ` (${p.stars} stars)` : '';
+  const stars = p.stars ? ` (${p.stars.toLocaleString()} stars)` : '';
   const maintainer = p.maintainer ? ` by [@${p.maintainer}](https://github.com/${p.maintainer})` : '';
   const tags = p.tags && p.tags.length ? ` \`${p.tags.join('` `')}\`` : '';
-  return `- [**${p.name}**](https://github.com/${p.repo}) -- ${p.description}${maintainer}${stars}${tags}`;
+  const paperLink = p.paper ? ` [[paper]](${p.paper})` : '';
+  return `- [**${p.name}**](https://github.com/${p.repo}) -- ${p.description}${maintainer}${stars}${tags}${paperLink}`;
 }
 
 function main() {
@@ -31,6 +35,8 @@ function main() {
 
   const projects = JSON.parse(fs.readFileSync(PROJECTS_PATH, 'utf-8'));
   let readme = fs.readFileSync(README_PATH, 'utf-8');
+
+  let totalInserted = 0;
 
   for (const [category, sectionId] of Object.entries(CATEGORY_SECTIONS)) {
     const filtered = projects
@@ -45,11 +51,27 @@ function main() {
       `(<!-- AUTOGEN:${sectionId} -->)([\\s\\S]*?)(<!-- /AUTOGEN:${sectionId} -->)`,
       'g'
     );
-    readme = readme.replace(regex, `$1\n${content}\n$3`);
+
+    if (regex.test(readme)) {
+      regex.lastIndex = 0;
+      readme = readme.replace(regex, `$1\n${content}\n$3`);
+      totalInserted += filtered.length;
+    } else {
+      console.warn(`Section marker not found: AUTOGEN:${sectionId}`);
+    }
   }
 
   fs.writeFileSync(README_PATH, readme, 'utf-8');
-  console.log(`README.md updated with ${projects.length} projects`);
+
+  const categoryStats = {};
+  for (const p of projects) {
+    categoryStats[p.category] = (categoryStats[p.category] || 0) + 1;
+  }
+
+  console.log(`README.md updated with ${projects.length} projects across ${Object.keys(categoryStats).length} categories`);
+  for (const [cat, count] of Object.entries(categoryStats).sort((a, b) => b[1] - a[1])) {
+    console.log(`  ${cat}: ${count}`);
+  }
 }
 
 main();
