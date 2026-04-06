@@ -10,12 +10,12 @@
       "agent-os",
       "evolution"
     ],
-    "stars": 18099
+    "stars": 18106
   },
   {
     "name": "SuperAGI",
     "repo": "TransformerOptimus/SuperAGI",
-    "description": "A dev-first open source autonomous AI agent framework. Enabling developers to build, manage and run useful autonomous agents.",
+    "description": "A dev-first open source autonomous AI agent framework. Build, manage and run self-improving autonomous agents.",
     "category": "evolution",
     "maintainer": "TransformerOptimus",
     "tags": [
@@ -23,7 +23,7 @@
       "self-improvement",
       "dev-tools"
     ],
-    "stars": 17422
+    "stars": 17424
   },
   {
     "name": "Agent Zero",
@@ -36,7 +36,20 @@
       "general-purpose",
       "learning"
     ],
-    "stars": 16768
+    "stars": 16785
+  },
+  {
+    "name": "OpenEvolve",
+    "repo": "codelion/openevolve",
+    "description": "Open-source evolutionary coding agent inspired by AlphaEvolve. Evolves code solutions through LLM-driven mutation and selection.",
+    "category": "evolution",
+    "maintainer": "codelion",
+    "tags": [
+      "evolutionary-coding",
+      "alphaevolve",
+      "open-source"
+    ],
+    "stars": 5865
   },
   {
     "name": "Agents (aiwaves)",
@@ -49,25 +62,12 @@
       "autonomous",
       "data-centric"
     ],
-    "stars": 5895
-  },
-  {
-    "name": "evolver",
-    "repo": "EvoMap/evolver",
-    "description": "The GEP-powered self-evolution engine for AI agents. Genome Evolution Protocol enables agents to evolve autonomously.",
-    "category": "evolution",
-    "maintainer": "EvoMap",
-    "tags": [
-      "gep",
-      "self-evolution",
-      "genome"
-    ],
-    "stars": 1832
+    "stars": 5897
   },
   {
     "name": "EvoAgentX",
     "repo": "EvoAgentX/EvoAgentX",
-    "description": "An automated framework for evolving agentic workflows. Optimizes agent prompts, tools, and pipelines via evolutionary algorithms.",
+    "description": "Automated framework for evolving agentic workflows. Optimizes agent prompts, tools, and pipelines via evolutionary algorithms.",
     "category": "evolution",
     "maintainer": "EvoAgentX",
     "tags": [
@@ -75,8 +75,33 @@
       "prompt-optimization",
       "automated"
     ],
-    "stars": 2701,
-    "paper": "https://arxiv.org/abs/2506.xxxxx"
+    "stars": 2703
+  },
+  {
+    "name": "HyperAgents",
+    "repo": "facebookresearch/HyperAgents",
+    "description": "Self-referential self-improving agents by Meta. DGM-Hyperagents add an optimization layer so agents edit their own improvement process.",
+    "category": "evolution",
+    "maintainer": "facebookresearch",
+    "tags": [
+      "self-referential",
+      "self-improving",
+      "meta-research"
+    ],
+    "stars": 2152
+  },
+  {
+    "name": "evolver",
+    "repo": "EvoMap/evolver",
+    "description": "The GEP-powered self-evolution engine for AI agents. Genome Evolution Protocol enables agents to evolve autonomously via mutation and selection.",
+    "category": "evolution",
+    "maintainer": "EvoMap",
+    "tags": [
+      "gep",
+      "self-evolution",
+      "genome"
+    ],
+    "stars": 1833
   },
   {
     "name": "Agent0",
@@ -89,7 +114,8 @@
       "curriculum-learning",
       "research"
     ],
-    "stars": 1131
+    "stars": 1137,
+    "paper": "https://arxiv.org/abs/2511.16043"
   },
   {
     "name": "Darwin Godel Machine",
@@ -106,19 +132,6 @@
     "paper": "https://arxiv.org/abs/2505.22954"
   },
   {
-    "name": "OpenEvolve",
-    "repo": "codelion/openevolve",
-    "description": "An open-source evolutionary coding agent inspired by AlphaEvolve. Evolves code solutions through LLM-driven mutation and selection.",
-    "category": "evolution",
-    "maintainer": "codelion",
-    "tags": [
-      "evolutionary-coding",
-      "alphaevolve",
-      "open-source"
-    ],
-    "stars": 5860
-  },
-  {
     "name": "Ouroboros",
     "repo": "razzant/ouroboros",
     "description": "Self-creating AI agent that writes its own code and evolves autonomously. Completed 30+ evolution cycles in first 24 hours with zero human intervention.",
@@ -129,7 +142,20 @@
       "autonomous-evolution",
       "self-modifying"
     ],
-    "stars": 463
+    "stars": 470
+  },
+  {
+    "name": "A-Evolve",
+    "repo": "A-EVO-Lab/A-EVOLVE",
+    "description": "The PyTorch for Agentic AI. Open-source infrastructure that evolves any agent across any domain with zero human intervention. #1 on MCP-Atlas (79.4%).",
+    "category": "evolution",
+    "maintainer": "A-EVO-Lab",
+    "tags": [
+      "infrastructure",
+      "domain-agnostic",
+      "benchmark-leader"
+    ],
+    "stars": 441
   },
   {
     "name": "Alita",
@@ -160,7 +186,7 @@
   {
     "name": "Mem0",
     "repo": "mem0ai/mem0",
-    "description": "Production-ready AI agent memory with scalable long-term memory. The memory layer for personalized AI.",
+    "description": "Production-ready AI agent memory with scalable long-term memory. 26% improvement over baseline on LOCOMO benchmark with 91% latency reduction.",
     "category": "memory",
     "maintainer": "mem0ai",
     "tags": [
@@ -168,20 +194,47 @@
       "scalable",
       "personalized"
     ],
-    "stars": 52047
+    "stars": 52067,
+    "paper": "https://arxiv.org/abs/2504.19413"
+  },
+  {
+    "name": "Letta",
+    "repo": "letta-ai/letta",
+    "description": "Platform for building stateful agents with advanced self-editing memory. Formerly MemGPT.",
+    "category": "memory",
+    "maintainer": "letta-ai",
+    "tags": [
+      "stateful",
+      "self-editing",
+      "memgpt"
+    ],
+    "stars": 21919
+  },
+  {
+    "name": "Cognee",
+    "repo": "topoteretes/cognee",
+    "description": "Knowledge engine for AI agent memory. Build and query knowledge graphs from unstructured data in 6 lines of code.",
+    "category": "memory",
+    "maintainer": "topoteretes",
+    "tags": [
+      "knowledge-graph",
+      "unstructured-data",
+      "ai-memory"
+    ],
+    "stars": 14971
   },
   {
     "name": "Memvid",
     "repo": "memvid/memvid",
-    "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer.",
+    "description": "Single-file memory layer for AI Agents in Rust. +35% SOTA on LoCoMo with ultra-low latency (0.025ms P50).",
     "category": "memory",
     "maintainer": "memvid",
     "tags": [
-      "memory-layer",
+      "rust",
       "serverless",
-      "retrieval"
+      "low-latency"
     ],
-    "stars": 14289
+    "stars": 14432
   },
   {
     "name": "memU",
@@ -194,20 +247,20 @@
       "persistent",
       "cross-platform"
     ],
-    "stars": 13308
+    "stars": 13313
   },
   {
-    "name": "Acontext",
-    "repo": "memodb-io/Acontext",
-    "description": "Open-source skill memory layer for AI agents. Automatically captures learnings from agent runs and stores them as reusable skill files.",
+    "name": "MemMachine",
+    "repo": "MemMachine/MemMachine",
+    "description": "Universal memory layer for AI agents. Episodic (graph-based), profile (SQL), and working memory with scalable storage and retrieval.",
     "category": "memory",
-    "maintainer": "memodb-io",
+    "maintainer": "MemMachine",
     "tags": [
-      "skill-memory",
-      "auto-learning",
-      "markdown"
+      "universal",
+      "episodic",
+      "graph-based"
     ],
-    "stars": 3273
+    "stars": 5356
   },
   {
     "name": "EverMemOS",
@@ -220,20 +273,33 @@
       "cross-platform",
       "persistent"
     ],
-    "stars": 3593
+    "stars": 3600
   },
   {
-    "name": "A-MEM",
-    "repo": "agentic-memory/a-mem",
-    "description": "Agentic Memory for LLM Agents. Self-organizing memory that autonomously manages what to remember and forget.",
+    "name": "Acontext",
+    "repo": "memodb-io/Acontext",
+    "description": "Open-source skill memory layer for AI agents. Automatically captures learnings from agent runs and stores them as reusable skill files.",
     "category": "memory",
-    "maintainer": "agentic-memory",
+    "maintainer": "memodb-io",
     "tags": [
-      "agentic",
-      "self-organizing",
-      "autonomous"
+      "skill-memory",
+      "auto-learning",
+      "reusable"
     ],
-    "stars": 1500
+    "stars": 3275
+  },
+  {
+    "name": "ReMe",
+    "repo": "agentscope-ai/ReMe",
+    "description": "Memory management kit for agents. File-based and vector-based memory systems. SOTA on LoCoMo and HaluMem benchmarks.",
+    "category": "memory",
+    "maintainer": "agentscope-ai",
+    "tags": [
+      "memory-management",
+      "vector-based",
+      "benchmark-leader"
+    ],
+    "stars": 2616
   },
   {
     "name": "mcp-memory-service",
@@ -246,12 +312,52 @@
       "knowledge-graph",
       "persistent-memory"
     ],
-    "stars": 1614
+    "stars": 1616
+  },
+  {
+    "name": "A-MEM",
+    "repo": "agentic-memory/a-mem",
+    "description": "Agentic Memory for LLM Agents. Self-organizing memory that autonomously manages what to remember and forget.",
+    "category": "memory",
+    "maintainer": "agentic-memory",
+    "tags": [
+      "agentic",
+      "self-organizing",
+      "autonomous"
+    ],
+    "stars": 1500,
+    "paper": "https://arxiv.org/abs/2502.12110"
+  },
+  {
+    "name": "nocturne_memory",
+    "repo": "Dataojitori/nocturne_memory",
+    "description": "Lightweight, rollbackable Long-Term Memory Server for MCP Agents with graph-like structured memory.",
+    "category": "memory",
+    "maintainer": "Dataojitori",
+    "tags": [
+      "graph-memory",
+      "rollbackable",
+      "mcp"
+    ],
+    "stars": 915
+  },
+  {
+    "name": "Mem9",
+    "repo": "mem9-ai/mem9",
+    "description": "Unlimited persistent memory layer for AI agents. Cloud-synced memory across sessions and tools.",
+    "category": "memory",
+    "maintainer": "mem9-ai",
+    "tags": [
+      "persistent-memory",
+      "cloud-sync",
+      "agent-memory"
+    ],
+    "stars": 875
   },
   {
     "name": "Awesome-AI-Memory",
     "repo": "IAAR-Shanghai/Awesome-AI-Memory",
-    "description": "A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and system design.",
+    "description": "Curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and system design.",
     "category": "memory",
     "maintainer": "IAAR-Shanghai",
     "tags": [
@@ -259,12 +365,12 @@
       "knowledge-base",
       "research"
     ],
-    "stars": 662
+    "stars": 665
   },
   {
     "name": "TeleMem",
     "repo": "TeleAI-UAGI/telemem",
-    "description": "High-performance drop-in replacement for Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning.",
+    "description": "High-performance drop-in Mem0 replacement. 19% higher accuracy, 43% fewer tokens, and 2.1x speedup via narrative dynamic extraction.",
     "category": "memory",
     "maintainer": "TeleAI-UAGI",
     "tags": [
@@ -272,7 +378,8 @@
       "multimodal",
       "high-performance"
     ],
-    "stars": 457
+    "stars": 457,
+    "paper": "https://arxiv.org/abs/2601.06037"
   },
   {
     "name": "MemSkill",
@@ -285,33 +392,7 @@
       "skill-evolution",
       "self-evolving"
     ],
-    "stars": 390
-  },
-  {
-    "name": "Aetherius",
-    "repo": "libraryofcelsus/Aetherius_AI_Assistant",
-    "description": "A private, locally-operated AI Assistant with realistic Long Term Memory and thought formation using Open Source LLMs.",
-    "category": "memory",
-    "maintainer": "libraryofcelsus",
-    "tags": [
-      "local",
-      "long-term-memory",
-      "open-source"
-    ],
-    "stars": 315
-  },
-  {
-    "name": "nocturne_memory",
-    "repo": "Dataojitori/nocturne_memory",
-    "description": "A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents with graph-like structured memory.",
-    "category": "memory",
-    "maintainer": "Dataojitori",
-    "tags": [
-      "graph-memory",
-      "rollbackable",
-      "mcp"
-    ],
-    "stars": 914
+    "stars": 393
   },
   {
     "name": "Awesome-Agent-Memory",
@@ -324,293 +405,7 @@
       "benchmarks",
       "research"
     ],
-    "stars": 325
-  },
-  {
-    "name": "Dify",
-    "repo": "langgenius/dify",
-    "description": "Production-ready platform for agentic workflow development. Combines AI workflow, RAG pipeline, agent capabilities, and model management.",
-    "category": "multi-agent",
-    "maintainer": "langgenius",
-    "tags": [
-      "workflow",
-      "rag",
-      "production-ready"
-    ],
-    "stars": 136275
-  },
-  {
-    "name": "MetaGPT",
-    "repo": "FoundationAgents/MetaGPT",
-    "description": "The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming.",
-    "category": "multi-agent",
-    "maintainer": "FoundationAgents",
-    "tags": [
-      "software-company",
-      "role-playing",
-      "nlp"
-    ],
-    "stars": 66673
-  },
-  {
-    "name": "AutoGen",
-    "repo": "microsoft/autogen",
-    "description": "A programming framework for agentic AI. Build multi-agent applications with conversational patterns.",
-    "category": "multi-agent",
-    "maintainer": "microsoft",
-    "tags": [
-      "conversational",
-      "microsoft",
-      "agentic"
-    ],
-    "stars": 56730
-  },
-  {
-    "name": "CrewAI",
-    "repo": "crewAIInc/crewAI",
-    "description": "Framework for orchestrating role-playing, autonomous AI agents. Collaborative intelligence for complex tasks.",
-    "category": "multi-agent",
-    "maintainer": "crewAIInc",
-    "tags": [
-      "role-playing",
-      "collaborative",
-      "orchestration"
-    ],
-    "stars": 48116
-  },
-  {
-    "name": "DSPy",
-    "repo": "stanfordnlp/dspy",
-    "description": "Compiling declarative language model calls into state-of-the-art pipelines. Programming -- not prompting -- foundation models.",
-    "category": "multi-agent",
-    "maintainer": "stanfordnlp",
-    "tags": [
-      "compiler",
-      "pipeline",
-      "stanford"
-    ],
-    "stars": 33467
-  },
-  {
-    "name": "LangGraph",
-    "repo": "langchain-ai/langgraph",
-    "description": "Build resilient language agents as graphs. Low-level orchestration framework for stateful agents with durable execution.",
-    "category": "multi-agent",
-    "maintainer": "langchain-ai",
-    "tags": [
-      "graph",
-      "orchestration",
-      "stateful"
-    ],
-    "stars": 28493
-  },
-  {
-    "name": "Haystack",
-    "repo": "deepset-ai/haystack",
-    "description": "Open-source AI orchestration framework for building production-ready LLM applications with modular pipelines and agent workflows.",
-    "category": "multi-agent",
-    "maintainer": "deepset-ai",
-    "tags": [
-      "pipelines",
-      "rag",
-      "production-ready"
-    ],
-    "stars": 24723
-  },
-  {
-    "name": "AgentScope",
-    "repo": "agentscope-ai/agentscope",
-    "description": "Build and run agents you can see, understand and trust. Production-ready framework with ReAct, memory, planning, and A2A support.",
-    "category": "multi-agent",
-    "maintainer": "agentscope-ai",
-    "tags": [
-      "trustworthy",
-      "production-ready",
-      "a2a"
-    ],
-    "stars": 23021
-  },
-  {
-    "name": "Mastra",
-    "repo": "mastra-ai/mastra",
-    "description": "From the team behind Gatsby. A framework for building AI-powered applications and agents with modern TypeScript.",
-    "category": "multi-agent",
-    "maintainer": "mastra-ai",
-    "tags": [
-      "typescript",
-      "modern",
-      "gatsby-team"
-    ],
-    "stars": 22714
-  },
-  {
-    "name": "Swarm (OpenAI)",
-    "repo": "openai/swarm",
-    "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration.",
-    "category": "multi-agent",
-    "maintainer": "OpenAI",
-    "tags": [
-      "lightweight",
-      "educational",
-      "OpenAI"
-    ],
-    "stars": 21273
-  },
-  {
-    "name": "OpenAI Agents Python",
-    "repo": "openai/openai-agents-python",
-    "description": "A lightweight, powerful framework for multi-agent workflows from OpenAI.",
-    "category": "multi-agent",
-    "maintainer": "OpenAI",
-    "tags": [
-      "python",
-      "lightweight",
-      "OpenAI"
-    ],
-    "stars": 20587
-  },
-  {
-    "name": "DB-GPT",
-    "repo": "eosphoros-ai/DB-GPT",
-    "description": "AI Native Data App Development framework with AWEL (Agentic Workflow Expression Language) and Agents.",
-    "category": "multi-agent",
-    "maintainer": "eosphoros-ai",
-    "tags": [
-      "data-app",
-      "workflow",
-      "awel"
-    ],
-    "stars": 18447
-  },
-  {
-    "name": "CAMEL",
-    "repo": "camel-ai/camel",
-    "description": "The first and the best multi-agent framework. Finding the Scaling Law of Agents.",
-    "category": "multi-agent",
-    "maintainer": "camel-ai",
-    "tags": [
-      "scaling-law",
-      "research",
-      "multi-agent"
-    ],
-    "stars": 16601
-  },
-  {
-    "name": "Microsoft Agent Framework",
-    "repo": "microsoft/agent-framework",
-    "description": "A framework for building, orchestrating and deploying AI agents with support for Python and .NET.",
-    "category": "multi-agent",
-    "maintainer": "microsoft",
-    "tags": [
-      "microsoft",
-      "python",
-      "dotnet"
-    ],
-    "stars": 8917
-  },
-  {
-    "name": "Agent Squad",
-    "repo": "awslabs/agent-squad",
-    "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations.",
-    "category": "multi-agent",
-    "maintainer": "awslabs",
-    "tags": [
-      "aws",
-      "flexible",
-      "conversations"
-    ],
-    "stars": 7554
-  },
-  {
-    "name": "MindSearch",
-    "repo": "InternLM/MindSearch",
-    "description": "An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT).",
-    "category": "multi-agent",
-    "maintainer": "InternLM",
-    "tags": [
-      "web-search",
-      "perplexity-like",
-      "research"
-    ],
-    "stars": 6830
-  },
-  {
-    "name": "Swarms",
-    "repo": "kyegomez/swarms",
-    "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework.",
-    "category": "multi-agent",
-    "maintainer": "kyegomez",
-    "tags": [
-      "enterprise",
-      "orchestration",
-      "production-ready"
-    ],
-    "stars": 6196
-  },
-  {
-    "name": "PraisonAI",
-    "repo": "MervinPraison/PraisonAI",
-    "description": "Production-ready Multi AI Agents framework. Low-code solution for multi-agent LLM systems.",
-    "category": "multi-agent",
-    "maintainer": "MervinPraison",
-    "tags": [
-      "low-code",
-      "production-ready",
-      "customizable"
-    ],
-    "stars": 6725
-  },
-  {
-    "name": "Open Multi-Agent",
-    "repo": "JackChen-me/open-multi-agent",
-    "description": "TypeScript multi-agent orchestration via single runTeam() call. Auto-decomposes goals into task DAGs and runs agents in parallel.",
-    "category": "multi-agent",
-    "maintainer": "JackChen-me",
-    "tags": [
-      "typescript",
-      "dag",
-      "parallel"
-    ],
-    "stars": 4942
-  },
-  {
-    "name": "Agency Swarm",
-    "repo": "VRSEN/agency-swarm",
-    "description": "Reliable Multi-Agent Orchestration Framework for building agent teams.",
-    "category": "multi-agent",
-    "maintainer": "VRSEN",
-    "tags": [
-      "orchestration",
-      "reliable",
-      "agent-teams"
-    ],
-    "stars": 4144
-  },
-  {
-    "name": "HiClaw",
-    "repo": "agentscope-ai/HiClaw",
-    "description": "Collaborative Multi-Agent OS with Manager-Workers architecture. Human-in-the-loop task coordination with enterprise-grade security.",
-    "category": "multi-agent",
-    "maintainer": "agentscope-ai",
-    "tags": [
-      "collaborative",
-      "human-in-the-loop",
-      "enterprise"
-    ],
-    "stars": 3904
-  },
-  {
-    "name": "AFlow",
-    "repo": "geekan/AFlow",
-    "description": "Automating agentic workflow generation. Automatically designs optimal multi-agent workflows for given tasks.",
-    "category": "multi-agent",
-    "maintainer": "geekan",
-    "tags": [
-      "workflow-automation",
-      "auto-design",
-      "optimization"
-    ],
-    "stars": 1500
+    "stars": 326
   },
   {
     "name": "Google A2A",
@@ -623,7 +418,7 @@
       "google",
       "standard"
     ],
-    "stars": 23032
+    "stars": 23041
   },
   {
     "name": "mcp-use",
@@ -636,98 +431,7 @@
       "fullstack",
       "chatgpt"
     ],
-    "stars": 9681
-  },
-  {
-    "name": "Casibase",
-    "repo": "casibase/casibase",
-    "description": "AI Cloud OS: Enterprise-level AI knowledge base and MCP/A2A management platform with admin UI.",
-    "category": "protocols",
-    "maintainer": "casibase",
-    "tags": [
-      "a2a",
-      "mcp",
-      "enterprise"
-    ],
-    "stars": 4496
-  },
-  {
-    "name": "Python A2A",
-    "repo": "themanojdesai/python-a2a",
-    "description": "A powerful library for implementing Google's Agent-to-Agent (A2A) protocol for seamless inter-agent communication.",
-    "category": "protocols",
-    "maintainer": "themanojdesai",
-    "tags": [
-      "a2a",
-      "google",
-      "python"
-    ],
-    "stars": 988
-  },
-  {
-    "name": "ATLAS MCP Server",
-    "repo": "cyanheads/atlas-mcp-server",
-    "description": "Neo4j-powered task management system for LLM Agents with three-tier architecture (Projects, Tasks, Knowledge).",
-    "category": "protocols",
-    "maintainer": "cyanheads",
-    "tags": [
-      "mcp",
-      "neo4j",
-      "task-management"
-    ],
-    "stars": 471
-  },
-  {
-    "name": "A2A x402",
-    "repo": "google-agentic-commerce/a2a-x402",
-    "description": "The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent protocol, enabling agents to monetize their services.",
-    "category": "protocols",
-    "maintainer": "google-agentic-commerce",
-    "tags": [
-      "a2a",
-      "payments",
-      "crypto"
-    ],
-    "stars": 486
-  },
-  {
-    "name": "Coral Anemoi",
-    "repo": "Coral-Protocol/Anemoi",
-    "description": "A Semi-Centralized Multi-agent System based on Agent-to-Agent Communication MCP server.",
-    "category": "protocols",
-    "maintainer": "Coral-Protocol",
-    "tags": [
-      "a2a",
-      "mcp",
-      "coral"
-    ],
-    "stars": 373
-  },
-  {
-    "name": "A2A Go",
-    "repo": "a2aproject/a2a-go",
-    "description": "Golang SDK for the A2A Protocol.",
-    "category": "protocols",
-    "maintainer": "a2aproject",
-    "tags": [
-      "a2a",
-      "golang",
-      "sdk"
-    ],
-    "stars": 333
-  },
-  {
-    "name": "Mangaba AI",
-    "repo": "Mangaba-ai/mangaba_ai",
-    "description": "Minimal framework for creating AI agents with A2A and MCP protocols.",
-    "category": "protocols",
-    "maintainer": "Mangaba-ai",
-    "tags": [
-      "a2a",
-      "mcp",
-      "minimal"
-    ],
-    "stars": 189
+    "stars": 9684
   },
   {
     "name": "GEP MCP Server",
@@ -743,22 +447,22 @@
     "stars": 0
   },
   {
-    "name": "A2A MCP Server",
-    "repo": "GongRzhe/A2A-MCP-Server",
-    "description": "Bridges Model Context Protocol with Agent-to-Agent protocol, enabling MCP-compatible assistants to interact with A2A agents.",
-    "category": "protocols",
-    "maintainer": "GongRzhe",
+    "name": "LangChain",
+    "repo": "langchain-ai/langchain",
+    "description": "Full-stack agent engineering platform with composable chains, tools, and memory integration.",
+    "category": "platforms",
+    "maintainer": "langchain-ai",
     "tags": [
-      "a2a",
-      "mcp",
-      "bridge"
+      "agents",
+      "composable",
+      "memory"
     ],
-    "stars": 146
+    "stars": 132527
   },
   {
     "name": "OpenHands",
     "repo": "All-Hands-AI/OpenHands",
-    "description": "An open platform for AI software developers as generalist agents. Autonomous coding, debugging, and deployment.",
+    "description": "Open platform for AI software developers as generalist agents. Autonomous coding, debugging, and deployment.",
     "category": "platforms",
     "maintainer": "All-Hands-AI",
     "tags": [
@@ -766,7 +470,46 @@
       "autonomous",
       "generalist"
     ],
-    "stars": 70643
+    "stars": 70672
+  },
+  {
+    "name": "AgenticSeek",
+    "repo": "Fosowl/agenticSeek",
+    "description": "Fully local autonomous agent with browsing, coding, and multi-agent capabilities. No API keys required.",
+    "category": "platforms",
+    "maintainer": "Fosowl",
+    "tags": [
+      "local",
+      "autonomous",
+      "no-api-keys"
+    ],
+    "stars": 25824
+  },
+  {
+    "name": "Coze Studio",
+    "repo": "coze-dev/coze-studio",
+    "description": "AI agent development platform with visual tools for creating, debugging, and deploying agents.",
+    "category": "platforms",
+    "maintainer": "coze-dev",
+    "tags": [
+      "visual-tools",
+      "debugging",
+      "deployment"
+    ],
+    "stars": 20414
+  },
+  {
+    "name": "Google ADK",
+    "repo": "google/adk-python",
+    "description": "Open-source Python toolkit by Google for building, evaluating, and deploying sophisticated AI agents.",
+    "category": "platforms",
+    "maintainer": "google",
+    "tags": [
+      "google",
+      "python",
+      "deployment"
+    ],
+    "stars": 18779
   },
   {
     "name": "Parlant",
@@ -776,23 +519,10 @@
     "maintainer": "emcie-co",
     "tags": [
       "conversational",
-      "customer-facing",
+      "context-engineering",
       "control-layer"
     ],
-    "stars": 17868
-  },
-  {
-    "name": "CoPaw",
-    "repo": "agentscope-ai/CoPaw",
-    "description": "Co Personal Agent Workstation built on AgentScope. Desktop agent platform with multi-agent collaboration and tool integration.",
-    "category": "platforms",
-    "maintainer": "agentscope-ai",
-    "tags": [
-      "desktop",
-      "personal-agent",
-      "workstation"
-    ],
-    "stars": 14504
+    "stars": 17871
   },
   {
     "name": "OpenFang",
@@ -805,72 +535,46 @@
       "open-source",
       "deployment"
     ],
-    "stars": 16354
+    "stars": 16380
   },
   {
-    "name": "TEN Framework",
-    "repo": "TEN-framework/ten-framework",
-    "description": "Open-source framework for conversational voice AI agents.",
+    "name": "PydanticAI",
+    "repo": "pydantic/pydantic-ai",
+    "description": "Type-safe AI agent framework built on Pydantic with structured outputs and dependency injection.",
     "category": "platforms",
-    "maintainer": "TEN-framework",
+    "maintainer": "pydantic",
     "tags": [
-      "voice",
-      "conversational",
-      "real-time"
+      "type-safe",
+      "structured-outputs",
+      "pydantic"
     ],
-    "stars": 10397
+    "stars": 16124
   },
   {
-    "name": "LiveKit Agents",
-    "repo": "livekit/agents",
-    "description": "A framework for building realtime voice AI agents.",
+    "name": "CoPaw",
+    "repo": "agentscope-ai/CoPaw",
+    "description": "Co Personal Agent Workstation built on AgentScope. Desktop agent platform with multi-agent collaboration and tool integration.",
     "category": "platforms",
-    "maintainer": "livekit",
+    "maintainer": "agentscope-ai",
     "tags": [
-      "voice",
-      "realtime",
-      "livekit"
+      "desktop",
+      "personal-agent",
+      "workstation"
     ],
-    "stars": 9937
+    "stars": 14534
   },
   {
-    "name": "BotSharp",
-    "repo": "SciSharp/BotSharp",
-    "description": "AI Multi-Agent Framework in .NET for building intelligent agents.",
+    "name": "MS-Agent",
+    "repo": "modelscope/ms-agent",
+    "description": "Lightweight framework by ModelScope to empower agentic execution of complex tasks with memory and deep research.",
     "category": "platforms",
-    "maintainer": "SciSharp",
+    "maintainer": "modelscope",
     "tags": [
-      "dotnet",
-      "csharp",
-      "multi-agent"
+      "memory",
+      "deep-research",
+      "lightweight"
     ],
-    "stars": 3038
-  },
-  {
-    "name": "LLMStack",
-    "repo": "trypromptly/LLMStack",
-    "description": "No-code multi-agent framework to build LLM Agents, workflows and applications with your data.",
-    "category": "platforms",
-    "maintainer": "trypromptly",
-    "tags": [
-      "no-code",
-      "workflows",
-      "data-integration"
-    ],
-    "stars": 2296
-  },
-  {
-    "name": "agentUniverse",
-    "repo": "agentuniverse-ai/agentUniverse",
-    "description": "A LLM multi-agent framework that allows developers to easily build multi-agent applications.",
-    "category": "platforms",
-    "maintainer": "agentuniverse-ai",
-    "tags": [
-      "developer-friendly",
-      "multi-agent",
-      "applications"
-    ],
-    "stars": 2182
+    "stars": 4138
   },
   {
     "name": "Claude Code",
@@ -883,7 +587,7 @@
       "anthropic",
       "agentic"
     ],
-    "stars": 109472
+    "stars": 109738
   },
   {
     "name": "Codex",
@@ -896,7 +600,7 @@
       "OpenAI",
       "local"
     ],
-    "stars": 73350
+    "stars": 73430
   },
   {
     "name": "Aider",
@@ -909,7 +613,33 @@
       "terminal",
       "git-integration"
     ],
-    "stars": 42876
+    "stars": 42897
+  },
+  {
+    "name": "Goose",
+    "repo": "block/goose",
+    "description": "Open-source extensible AI agent that installs, executes, edits, and debugs code autonomously.",
+    "category": "coding",
+    "maintainer": "block",
+    "tags": [
+      "extensible",
+      "mcp",
+      "autonomous"
+    ],
+    "stars": 37767
+  },
+  {
+    "name": "Roo Code",
+    "repo": "RooCodeInc/Roo-Code",
+    "description": "AI coding agent providing a full dev team of specialized agents inside your code editor.",
+    "category": "coding",
+    "maintainer": "RooCodeInc",
+    "tags": [
+      "editor",
+      "dev-team",
+      "specialized-agents"
+    ],
+    "stars": 22998
   },
   {
     "name": "Devika",
@@ -935,7 +665,46 @@
       "swe-bench",
       "automated-fix"
     ],
-    "stars": 18928
+    "stars": 18933
+  },
+  {
+    "name": "Plandex",
+    "repo": "plandex-ai/plandex",
+    "description": "Open-source AI coding agent designed for large projects and complex real-world tasks with persistent context.",
+    "category": "coding",
+    "maintainer": "plandex-ai",
+    "tags": [
+      "large-projects",
+      "persistent-context",
+      "complex-tasks"
+    ],
+    "stars": 15213
+  },
+  {
+    "name": "Trae Agent",
+    "repo": "bytedance/trae-agent",
+    "description": "LLM-based agent by ByteDance for general-purpose software engineering tasks.",
+    "category": "coding",
+    "maintainer": "bytedance",
+    "tags": [
+      "bytedance",
+      "general-purpose",
+      "software-engineering"
+    ],
+    "stars": 11255
+  },
+  {
+    "name": "Open SWE",
+    "repo": "langchain-ai/open-swe",
+    "description": "Open-source asynchronous coding agent by LangChain for software engineering tasks.",
+    "category": "coding",
+    "maintainer": "langchain-ai",
+    "tags": [
+      "async",
+      "langchain",
+      "open-source"
+    ],
+    "stars": 9229
   },
   {
     "name": "Mini-SWE-Agent",
@@ -948,7 +717,7 @@
       "swe-bench",
       "lightweight"
     ],
-    "stars": 3674
+    "stars": 3682
   },
   {
     "name": "Reflexion",
@@ -975,7 +744,7 @@
       "red-teaming",
       "testing"
     ],
-    "stars": 19535
+    "stars": 19589
   },
   {
     "name": "TextGrad",
@@ -1002,33 +771,7 @@
       "nvidia",
       "policy-engine"
     ],
-    "stars": 5928
-  },
-  {
-    "name": "Agent Guardrail",
-    "repo": "eren-solutions/agent-guardrail",
-    "description": "Action-level governance for AI agents. Policy engine, spend caps, kill switches, flight recorder, and approval gates.",
-    "category": "safety",
-    "maintainer": "eren-solutions",
-    "tags": [
-      "action-governance",
-      "policy-engine",
-      "audit"
-    ],
-    "stars": 0
-  },
-  {
-    "name": "Vigil",
-    "repo": "hexitlabs/vigil",
-    "description": "TypeScript agent guardrail with <2ms latency and zero dependencies. Validates agent actions against 22 security rules.",
-    "category": "safety",
-    "maintainer": "hexitlabs",
-    "tags": [
-      "typescript",
-      "low-latency",
-      "action-validation"
-    ],
-    "stars": 5
+    "stars": 5931
   },
   {
     "name": "Open-AutoGLM",
@@ -1041,19 +784,32 @@
       "mobile",
       "automate"
     ],
-    "stars": 24715
+    "stars": 24722
   },
   {
     "name": "LeRobot",
     "repo": "huggingface/lerobot",
-    "description": "Open-source robotics framework by Hugging Face. Models, datasets, and tools for real-world robotics in PyTorch with hardware-agnostic interface.",
+    "description": "Open-source robotics framework by Hugging Face. Models, datasets, and tools for real-world robotics in PyTorch.",
     "category": "embodied",
     "tags": [
       "robotics",
       "pytorch",
       "hugging-face"
     ],
-    "stars": 22962
+    "stars": 22970
+  },
+  {
+    "name": "Nanobrowser",
+    "repo": "nanobrowser/nanobrowser",
+    "description": "Chrome extension for AI-powered web automation. Run multi-agent workflows using your own AI keys.",
+    "category": "embodied",
+    "maintainer": "nanobrowser",
+    "tags": [
+      "browser",
+      "web-automation",
+      "chrome-extension"
+    ],
+    "stars": 12628
   },
   {
     "name": "XcodeBuildMCP",
@@ -1066,7 +822,7 @@
       "ios",
       "macos"
     ],
-    "stars": 5043
+    "stars": 5047
   },
   {
     "name": "Mobile MCP",
@@ -1079,7 +835,7 @@
       "automation",
       "mcp"
     ],
-    "stars": 4375
+    "stars": 4390
   },
   {
     "name": "ROS-LLM",
@@ -1092,20 +848,7 @@
       "robotics",
       "natural-language"
     ],
-    "stars": 764
-  },
-  {
-    "name": "Learn Agentic AI",
-    "repo": "panaversity/learn-agentic-ai",
-    "description": "Comprehensive curriculum covering DACA Design Pattern, OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, and Kubernetes.",
-    "category": "community",
-    "maintainer": "panaversity",
-    "tags": [
-      "education",
-      "a2a",
-      "mcp"
-    ],
-    "stars": 4052
+    "stars": 765
   },
   {
     "name": "Awesome-Self-Evolving-Agents",
@@ -1118,269 +861,6 @@
       "research",
       "comprehensive"
     ],
-    "stars": 2031
-  },
-  {
-    "name": "OpenClaw QA",
-    "repo": "ythx-101/openclaw-qa",
-    "description": "OpenClaw developer community -- Q&A, real-world practices, AI Agent memory systems, multi-agent architectures, and evolution.",
-    "category": "community",
-    "maintainer": "YuLin807",
-    "tags": [
-      "openclaw",
-      "community",
-      "qa"
-    ],
-    "stars": 77
-  },
-  {
-    "name": "LangChain",
-    "repo": "langchain-ai/langchain",
-    "description": "Full-stack agent engineering platform with composable chains, tools, and memory integration.",
-    "category": "platforms",
-    "maintainer": "langchain-ai",
-    "tags": [
-      "agents",
-      "ai",
-      "ai-agents"
-    ],
-    "stars": 132476
-  },
-  {
-    "name": "DeerFlow",
-    "repo": "bytedance/deer-flow",
-    "description": "Open-source long-horizon SuperAgent harness by ByteDance. Researches, codes, and creates with multi-agent collaboration.",
-    "category": "multi-agent",
-    "maintainer": "bytedance",
-    "tags": [
-      "agent",
-      "agentic",
-      "agentic-framework"
-    ],
-    "stars": 58312
-  },
-  {
-    "name": "Goose",
-    "repo": "block/goose",
-    "description": "Open-source extensible AI agent that installs, executes, edits, and debugs code autonomously.",
-    "category": "coding",
-    "maintainer": "block",
-    "tags": [
-      "mcp"
-    ],
-    "stars": 37240
-  },
-  {
-    "name": "ChatDev",
-    "repo": "OpenBMB/ChatDev",
-    "description": "Virtual software company via LLM-powered multi-agent collaboration. Agents play PM, architect, developer, and QA roles.",
-    "category": "multi-agent",
-    "maintainer": "OpenBMB",
-    "tags": [],
-    "stars": 32589
-  },
-  {
-    "name": "AgenticSeek",
-    "repo": "Fosowl/agenticSeek",
-    "description": "Fully local autonomous agent with browsing, coding, and multi-agent capabilities. No API keys required.",
-    "category": "platforms",
-    "maintainer": "Fosowl",
-    "tags": [
-      "agentic-ai",
-      "agents",
-      "ai"
-    ],
-    "stars": 25828
-  },
-  {
-    "name": "Roo Code",
-    "repo": "RooCodeInc/Roo-Code",
-    "description": "AI coding agent providing a full dev team of specialized agents inside your code editor.",
-    "category": "coding",
-    "maintainer": "RooCodeInc",
-    "tags": [],
-    "stars": 22993
-  },
-  {
-    "name": "Letta",
-    "repo": "letta-ai/letta",
-    "description": "Platform for building stateful agents with advanced self-editing memory. Formerly MemGPT.",
-    "category": "memory",
-    "maintainer": "letta-ai",
-    "tags": [
-      "ai",
-      "ai-agents",
-      "llm"
-    ],
-    "stars": 21904
-  },
-  {
-    "name": "Coze Studio",
-    "repo": "coze-dev/coze-studio",
-    "description": "AI agent development platform with visual tools for creating, debugging, and deploying agents.",
-    "category": "platforms",
-    "maintainer": "coze-dev",
-    "tags": [
-      "agent",
-      "agent-platform",
-      "ai-plugins"
-    ],
-    "stars": 20411
-  },
-  {
-    "name": "Google ADK",
-    "repo": "google/adk-python",
-    "description": "Open-source Python toolkit by Google for building, evaluating, and deploying sophisticated AI agents.",
-    "category": "platforms",
-    "maintainer": "google",
-    "tags": [
-      "agent",
-      "agentic",
-      "agentic-ai"
-    ],
-    "stars": 18765
-  },
-  {
-    "name": "PydanticAI",
-    "repo": "pydantic/pydantic-ai",
-    "description": "Type-safe AI agent framework built on Pydantic with structured outputs and dependency injection.",
-    "category": "platforms",
-    "maintainer": "pydantic",
-    "tags": [
-      "agent-framework",
-      "genai",
-      "llm"
-    ],
-    "stars": 16114
-  },
-  {
-    "name": "Plandex",
-    "repo": "plandex-ai/plandex",
-    "description": "Open-source AI coding agent designed for large projects and complex real-world tasks with persistent context.",
-    "category": "coding",
-    "maintainer": "plandex-ai",
-    "tags": [
-      "ai",
-      "ai-agents",
-      "ai-developer-tools"
-    ],
-    "stars": 15206
-  },
-  {
-    "name": "Cognee",
-    "repo": "topoteretes/cognee",
-    "description": "Knowledge engine for AI agent memory. Build and query knowledge graphs from unstructured data in 6 lines of code.",
-    "category": "memory",
-    "maintainer": "topoteretes",
-    "tags": [
-      "ai",
-      "ai-agents",
-      "ai-memory"
-    ],
-    "stars": 14962
-  },
-  {
-    "name": "Nanobrowser",
-    "repo": "nanobrowser/nanobrowser",
-    "description": "Chrome extension for AI-powered web automation. Run multi-agent workflows using your own AI keys.",
-    "category": "embodied",
-    "maintainer": "nanobrowser",
-    "tags": [
-      "agent",
-      "ai",
-      "ai-agents"
-    ],
-    "stars": 12625
-  },
-  {
-    "name": "Trae Agent",
-    "repo": "bytedance/trae-agent",
-    "description": "LLM-based agent by ByteDance for general-purpose software engineering tasks.",
-    "category": "coding",
-    "maintainer": "bytedance",
-    "tags": [
-      "agent",
-      "llm",
-      "software-engineering"
-    ],
-    "stars": 11251
-  },
-  {
-    "name": "Open SWE",
-    "repo": "langchain-ai/open-swe",
-    "description": "Open-source asynchronous coding agent by LangChain for software engineering tasks.",
-    "category": "coding",
-    "maintainer": "langchain-ai",
-    "tags": [
-      "agent",
-      "agents",
-      "ai"
-    ],
-    "stars": 9206
-  },
-  {
-    "name": "Spring AI Alibaba",
-    "repo": "alibaba/spring-ai-alibaba",
-    "description": "Agentic AI framework for Java developers by Alibaba. Enterprise-grade multi-agent support.",
-    "category": "multi-agent",
-    "maintainer": "alibaba",
-    "tags": [
-      "agentic",
-      "artificial-intelligence",
-      "context-engineering"
-    ],
-    "stars": 9098
-  },
-  {
-    "name": "HyperAgents",
-    "repo": "facebookresearch/HyperAgents",
-    "description": "Self-referential self-improving agents by Meta that can optimize for any computable task.",
-    "category": "evolution",
-    "maintainer": "facebookresearch",
-    "tags": [
-      "self-referential",
-      "self-improving",
-      "meta-research"
-    ],
-    "stars": 2133
-  },
-  {
-    "name": "MS-Agent",
-    "repo": "modelscope/ms-agent",
-    "description": "Lightweight framework by ModelScope to empower agentic execution of complex tasks with memory and deep research.",
-    "category": "platforms",
-    "maintainer": "modelscope",
-    "tags": [
-      "agentic-search",
-      "memory",
-      "deep-research"
-    ],
-    "stars": 4136
-  },
-  {
-    "name": "LatentMAS",
-    "repo": "Gen-Verse/LatentMAS",
-    "description": "Latent collaboration in multi-agent systems. Agents reason and collaborate in continuous latent space.",
-    "category": "multi-agent",
-    "maintainer": "Gen-Verse",
-    "tags": [
-      "latent-reasoning",
-      "model-collaboration",
-      "continuous-reasoning"
-    ],
-    "stars": 859
-  },
-  {
-    "name": "Mem9",
-    "repo": "mem9-ai/mem9",
-    "description": "Unlimited persistent memory layer for AI agents. Cloud-synced memory across sessions and tools.",
-    "category": "memory",
-    "maintainer": "mem9-ai",
-    "tags": [
-      "persistent-memory",
-      "cloud-sync",
-      "agent-memory"
-    ],
-    "stars": 861
+    "stars": 2033
   }
 ]

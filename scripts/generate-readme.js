@@ -9,7 +9,6 @@ const README_PATH = path.join(__dirname, '..', 'README.md');
 const CATEGORY_SECTIONS = {
   'evolution': 'evolution',
   'memory': 'memory',
-  'multi-agent': 'multi-agent',
   'protocols': 'protocols',
   'platforms': 'platforms',
   'coding': 'coding',

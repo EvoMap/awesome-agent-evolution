@@ -10,7 +10,7 @@ The easiest way to suggest a project is to [open an issue](https://github.com/Ev
 
 Projects should meet the following criteria:
 
-- **Relevant**: Directly related to AI Agent evolution, memory, multi-agent systems, A2A/MCP protocols, agent coding, prompt optimization, agent safety, or embodied AI
+- **Relevant**: Directly related to AI Agent self-evolution, memory systems, A2A/MCP protocols, agent coding, prompt optimization, agent safety, or embodied AI. Multi-agent orchestration and swarm frameworks belong in [awesome-agent-swarm](https://github.com/EvoMap/awesome-agent-swarm)
 - **Active**: Has received commits within the last 6 months
 - **Open source**: Source code is publicly available
 - **Documented**: Has a README with clear description and usage instructions
@@ -32,7 +32,7 @@ Each entry in `data/projects.json` should follow this format:
   "name": "Project Name",
   "repo": "owner/repo",
   "description": "One-line description of the project",
-  "category": "evolution|memory|multi-agent|protocols|platforms|coding|prompt-optimization|safety|embodied|community",
+  "category": "evolution|memory|protocols|platforms|coding|prompt-optimization|safety|embodied|community",
   "maintainer": "github-username",
   "tags": ["tag1", "tag2", "tag3"],
   "stars": 0,
@@ -46,7 +46,6 @@ Each entry in `data/projects.json` should follow this format:
 |----------|-------------|
 | `evolution` | Agent self-evolution and self-improvement |
 | `memory` | Memory systems for persistent agent cognition |
-| `multi-agent` | Multi-agent frameworks and orchestration |
 | `protocols` | A2A, MCP, and inter-agent communication protocols |
 | `platforms` | Agent development and deployment platforms |
 | `coding` | Agent coding and software engineering tools |
