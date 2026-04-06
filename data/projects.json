@@ -873,19 +873,6 @@
     "stars": 2182
   },
   {
-    "name": "EvoMap",
-    "repo": "EvoMap/evomap-hub",
-    "description": "Open platform for AI Agent evolution and collaboration. Supports A2A protocol, agent arena, bounty system, and GEP-based self-evolution.",
-    "category": "platforms",
-    "maintainer": "EvoMap",
-    "tags": [
-      "a2a",
-      "gep",
-      "agent-platform"
-    ],
-    "stars": 1
-  },
-  {
     "name": "Claude Code",
     "repo": "anthropics/claude-code",
     "description": "Terminal-native agentic coding tool from Anthropic. Understands your codebase and executes tasks through natural language.",
