@@ -1145,5 +1145,203 @@
       "qa"
     ],
     "stars": 77
+  },
+  {
+    "name": "LangChain",
+    "repo": "langchain-ai/langchain",
+    "description": "Full-stack agent engineering platform with composable chains, tools, and memory integration.",
+    "category": "platforms",
+    "maintainer": "langchain-ai",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents"
+    ],
+    "stars": 132476
+  },
+  {
+    "name": "DeerFlow",
+    "repo": "bytedance/deer-flow",
+    "description": "Open-source long-horizon SuperAgent harness by ByteDance. Researches, codes, and creates with multi-agent collaboration.",
+    "category": "multi-agent",
+    "maintainer": "bytedance",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-framework"
+    ],
+    "stars": 58312
+  },
+  {
+    "name": "Goose",
+    "repo": "block/goose",
+    "description": "Open-source extensible AI agent that installs, executes, edits, and debugs code autonomously.",
+    "category": "coding",
+    "maintainer": "block",
+    "tags": [
+      "mcp"
+    ],
+    "stars": 37240
+  },
+  {
+    "name": "ChatDev",
+    "repo": "OpenBMB/ChatDev",
+    "description": "Virtual software company via LLM-powered multi-agent collaboration. Agents play PM, architect, developer, and QA roles.",
+    "category": "multi-agent",
+    "maintainer": "OpenBMB",
+    "tags": [],
+    "stars": 32589
+  },
+  {
+    "name": "AgenticSeek",
+    "repo": "Fosowl/agenticSeek",
+    "description": "Fully local autonomous agent with browsing, coding, and multi-agent capabilities. No API keys required.",
+    "category": "platforms",
+    "maintainer": "Fosowl",
+    "tags": [
+      "agentic-ai",
+      "agents",
+      "ai"
+    ],
+    "stars": 25828
+  },
+  {
+    "name": "Roo Code",
+    "repo": "RooCodeInc/Roo-Code",
+    "description": "AI coding agent providing a full dev team of specialized agents inside your code editor.",
+    "category": "coding",
+    "maintainer": "RooCodeInc",
+    "tags": [],
+    "stars": 22993
+  },
+  {
+    "name": "Letta",
+    "repo": "letta-ai/letta",
+    "description": "Platform for building stateful agents with advanced self-editing memory. Formerly MemGPT.",
+    "category": "memory",
+    "maintainer": "letta-ai",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "llm"
+    ],
+    "stars": 21904
+  },
+  {
+    "name": "Coze Studio",
+    "repo": "coze-dev/coze-studio",
+    "description": "AI agent development platform with visual tools for creating, debugging, and deploying agents.",
+    "category": "platforms",
+    "maintainer": "coze-dev",
+    "tags": [
+      "agent",
+      "agent-platform",
+      "ai-plugins"
+    ],
+    "stars": 20411
+  },
+  {
+    "name": "Google ADK",
+    "repo": "google/adk-python",
+    "description": "Open-source Python toolkit by Google for building, evaluating, and deploying sophisticated AI agents.",
+    "category": "platforms",
+    "maintainer": "google",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-ai"
+    ],
+    "stars": 18765
+  },
+  {
+    "name": "PydanticAI",
+    "repo": "pydantic/pydantic-ai",
+    "description": "Type-safe AI agent framework built on Pydantic with structured outputs and dependency injection.",
+    "category": "platforms",
+    "maintainer": "pydantic",
+    "tags": [
+      "agent-framework",
+      "genai",
+      "llm"
+    ],
+    "stars": 16114
+  },
+  {
+    "name": "Plandex",
+    "repo": "plandex-ai/plandex",
+    "description": "Open-source AI coding agent designed for large projects and complex real-world tasks with persistent context.",
+    "category": "coding",
+    "maintainer": "plandex-ai",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-developer-tools"
+    ],
+    "stars": 15206
+  },
+  {
+    "name": "Cognee",
+    "repo": "topoteretes/cognee",
+    "description": "Knowledge engine for AI agent memory. Build and query knowledge graphs from unstructured data in 6 lines of code.",
+    "category": "memory",
+    "maintainer": "topoteretes",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-memory"
+    ],
+    "stars": 14962
+  },
+  {
+    "name": "Nanobrowser",
+    "repo": "nanobrowser/nanobrowser",
+    "description": "Chrome extension for AI-powered web automation. Run multi-agent workflows using your own AI keys.",
+    "category": "embodied",
+    "maintainer": "nanobrowser",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents"
+    ],
+    "stars": 12625
+  },
+  {
+    "name": "Trae Agent",
+    "repo": "bytedance/trae-agent",
+    "description": "LLM-based agent by ByteDance for general-purpose software engineering tasks.",
+    "category": "coding",
+    "maintainer": "bytedance",
+    "tags": [
+      "agent",
+      "llm",
+      "software-engineering"
+    ],
+    "stars": 11251
+  },
+  {
+    "name": "Open SWE",
+    "repo": "langchain-ai/open-swe",
+    "description": "Open-source asynchronous coding agent by LangChain for software engineering tasks.",
+    "category": "coding",
+    "maintainer": "langchain-ai",
+    "tags": [
+      "agent",
+      "agents",
+      "ai"
+    ],
+    "stars": 9206
+  },
+  {
+    "name": "Spring AI Alibaba",
+    "repo": "alibaba/spring-ai-alibaba",
+    "description": "Agentic AI framework for Java developers by Alibaba. Enterprise-grade multi-agent support.",
+    "category": "multi-agent",
+    "maintainer": "alibaba",
+    "tags": [
+      "agentic",
+      "artificial-intelligence",
+      "context-engineering"
+    ],
+    "stars": 9098
   }
 ]

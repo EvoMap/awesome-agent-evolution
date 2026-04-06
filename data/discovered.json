@@ -1,0 +1,4313 @@
+[
+  {
+    "repo": "affaan-m/everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 140893,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
+    "stars": 134488,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "bolt",
+      "cluely",
+      "copilot",
+      "cursor",
+      "cursorai",
+      "devin",
+      "github-copilot",
+      "lovable",
+      "open-source"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "description": "Full-stack agent engineering platform with composable chains, tools, and memory integration.",
+    "stars": 132476,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "LangChain"
+  },
+  {
+    "repo": "bytedance/deer-flow",
+    "description": "Open-source long-horizon SuperAgent harness by ByteDance. Researches, codes, and creates with multi-agent collaboration.",
+    "stars": 58312,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "memory",
+      "multi-agent",
+      "coding"
+    ],
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "DeerFlow"
+  },
+  {
+    "repo": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "stars": 47568,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
+    "stars": 45617,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "zhayujie/chatgpt-on-wechat",
+    "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字",
+    "stars": 42781,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "ToolJet/ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "stars": 37717,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "ai-app-builder",
+      "docker",
+      "hacktoberfest",
+      "internal-applications",
+      "internal-project",
+      "internal-tool",
+      "internal-tools",
+      "javascript",
+      "kubernetes",
+      "low-code"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "block/goose",
+    "description": "Open-source extensible AI agent that installs, executes, edits, and debugs code autonomously.",
+    "stars": 37240,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "mcp"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Goose"
+  },
+  {
+    "repo": "danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se",
+    "stars": 35250,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "anthropic",
+      "artifacts",
+      "aws",
+      "azure",
+      "chatgpt",
+      "chatgpt-clone",
+      "claude",
+      "clone",
+      "deepseek"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "wshobson/agents",
+    "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+    "stars": 33027,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agents",
+      "anthropic",
+      "anthropic-claude",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-code-cli",
+      "claude-code-commands",
+      "claude-code-plugin",
+      "claude-code-plugins"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "OpenBMB/ChatDev",
+    "description": "Virtual software company via LLM-powered multi-agent collaboration. Agents play PM, architect, developer, and QA roles.",
+    "stars": 32589,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "ChatDev"
+  },
+  {
+    "repo": "badlogic/pi-mono",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "stars": 32012,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit",
+    "stars": 30142,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-engineering",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "agents",
+      "ai-assistant",
+      "ai-tools",
+      "anthropic-claude",
+      "autonomous-agents"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "warpdotdev/Warp",
+    "description": "Warp is the agentic development environment, built for coding with multiple AI agents.",
+    "stars": 26326,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "bash",
+      "linux",
+      "macos",
+      "rust",
+      "shell",
+      "terminal",
+      "wasm",
+      "zsh"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Fosowl/agenticSeek",
+    "description": "Fully local autonomous agent with browsing, coding, and multi-agent capabilities. No API keys required.",
+    "stars": 25828,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "autonomous-agents",
+      "deepseek-r1",
+      "llm",
+      "llm-agents",
+      "voice-assistant"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "AgenticSeek"
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin",
+    "stars": 25137,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agentops",
+      "agents",
+      "ai",
+      "ai-governance",
+      "apache-spark",
+      "evaluation",
+      "langchain",
+      "llm-evaluation",
+      "llmops",
+      "machine-learning"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "stars": 24593,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "automation",
+      "claude",
+      "claude-code",
+      "multi-agent-systems",
+      "oh-my-opencode",
+      "opencode",
+      "parallel-execution",
+      "vibe-coding"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "a2aproject/A2A",
+    "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+    "stars": 23032,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [
+      "a2a",
+      "a2a-mcp",
+      "a2a-protocol",
+      "a2a-server",
+      "agents",
+      "generative-ai",
+      "linux-foundation"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "RooCodeInc/Roo-Code",
+    "description": "AI coding agent providing a full dev team of specialized agents inside your code editor.",
+    "stars": 22993,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Roo Code"
+  },
+  {
+    "repo": "charmbracelet/crush",
+    "description": "Glamourous agentic coding for all 💘",
+    "stars": 22549,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "llms",
+      "ravishing"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "oraios/serena",
+    "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+    "stars": 22508,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "codex",
+      "ide",
+      "jetbrains",
+      "language-server",
+      "mcp-server"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "letta-ai/letta",
+    "description": "Platform for building stateful agents with advanced self-editing memory. Formerly MemGPT.",
+    "stars": 21904,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "evolution",
+      "memory"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "llm",
+      "llm-agent"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Letta"
+  },
+  {
+    "repo": "volcengine/OpenViking",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu",
+    "stars": 21195,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution",
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "agentic-rag",
+      "ai-agents",
+      "clawbot",
+      "context-database",
+      "context-engineering",
+      "filesystem",
+      "llm",
+      "memory",
+      "openclaw"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "coze-dev/coze-studio",
+    "description": "AI agent development platform with visual tools for creating, debugging, and deploying agents.",
+    "stars": 20411,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agent-platform",
+      "ai-plugins",
+      "chatbot",
+      "chatbot-framework",
+      "coze",
+      "coze-platform",
+      "generative-ai",
+      "go",
+      "kouzi"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Coze Studio"
+  },
+  {
+    "repo": "humanlayer/12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "stars": 19114,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "12-factor",
+      "12-factor-agents",
+      "agents",
+      "ai",
+      "context-window",
+      "framework",
+      "llms",
+      "memory",
+      "orchestration",
+      "prompt-engineering"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "stars": 19028,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "claude",
+      "codex",
+      "marketing"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "google/adk-python",
+    "description": "Open-source Python toolkit by Google for building, evaluating, and deploying sophisticated AI agents.",
+    "stars": 18765,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "multi-agent",
+      "coding"
+    ],
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "genai",
+      "genai-chatbot"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Google ADK"
+  },
+  {
+    "repo": "NirDiamant/agents-towards-production",
+    "description": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-",
+    "stars": 18646,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "agent-framework",
+      "agents",
+      "ai-agents",
+      "genai",
+      "generative-ai",
+      "llm",
+      "llms",
+      "mlops",
+      "multi-agent"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Kilo-Org/kilocode",
+    "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce",
+    "stars": 17722,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms",
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "ai-age",
+      "ai-coding",
+      "ai-developer-tools",
+      "chatgpt",
+      "claude",
+      "cli",
+      "gemini",
+      "jetbrains",
+      "sonnet"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "raga-ai-hub/RagaAI-Catalyst",
+    "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced anal",
+    "stars": 16127,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-ai-development",
+      "agentneo",
+      "agents",
+      "ai-agent-monitoring",
+      "ai-application-debugging",
+      "ai-evaluation-tools",
+      "ai-performance-optimization",
+      "ai-tool-interaction-monitoring",
+      "llm-testing"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "description": "Type-safe AI agent framework built on Pydantic with structured outputs and dependency injection.",
+    "stars": 16114,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent-framework",
+      "genai",
+      "llm",
+      "pydantic",
+      "python"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "PydanticAI"
+  },
+  {
+    "repo": "plandex-ai/plandex",
+    "description": "Open-source AI coding agent designed for large projects and complex real-world tasks with persistent context.",
+    "stars": 15206,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-developer-tools",
+      "ai-tools",
+      "cli",
+      "command-line",
+      "developer-tools",
+      "git",
+      "golang",
+      "gpt-4"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Plandex"
+  },
+  {
+    "repo": "topoteretes/cognee",
+    "description": "Knowledge engine for AI agent memory. Build and query knowledge graphs from unstructured data in 6 lines of code.",
+    "stars": 14962,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory",
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "cognitive-architecture",
+      "cognitive-memory",
+      "context-engineering",
+      "contributions-welcome",
+      "good-first-issue",
+      "good-first-pr",
+      "graph-database"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Cognee"
+  },
+  {
+    "repo": "cft0808/edict",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+    "stars": 14459,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai-agents",
+      "ai-orchestration",
+      "autonomous-agents",
+      "claude",
+      "dashboard",
+      "kanban",
+      "llm",
+      "multi-agent",
+      "openai",
+      "openclaw"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "GLips/Figma-Context-MCP",
+    "description": "MCP server to provide Figma layout information to AI coding agents like Cursor",
+    "stars": 14161,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "cursor",
+      "figma",
+      "mcp",
+      "typescript"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Tencent/WeKnora",
+    "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "stars": 13748,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agentic",
+      "ai",
+      "chatbot",
+      "chatbots",
+      "embeddings",
+      "evaluation",
+      "generative-ai",
+      "golang",
+      "knowledge-base"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "MemoriLabs/Memori",
+    "description": "Memori is agent-native memory infrastructure. A SQL-native, LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.",
+    "stars": 13139,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai",
+      "ai-memory",
+      "aiagent",
+      "awesome",
+      "chatgpt",
+      "llm",
+      "long-short-term-memory",
+      "memori-ai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "manaflow-ai/cmux",
+    "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+    "stars": 12737,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "amp",
+      "claude-code",
+      "codex",
+      "gemini",
+      "ghostty",
+      "opencode",
+      "terminal",
+      "tmux"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "nanobrowser/nanobrowser",
+    "description": "Chrome extension for AI-powered web automation. Run multi-agent workflows using your own AI keys.",
+    "stars": 12625,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "browser",
+      "browser-automation",
+      "browser-use",
+      "chrome-extension",
+      "comet"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Nanobrowser"
+  },
+  {
+    "repo": "liyupi/ai-guide",
+    "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / TRAE /",
+    "stars": 11267,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "algorithm",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude",
+      "cursor",
+      "deep-learning",
+      "deepseek",
+      "gemini",
+      "generative-ai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "bytedance/trae-agent",
+    "description": "LLM-based agent by ByteDance for general-purpose software engineering tasks.",
+    "stars": 11251,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent",
+      "llm",
+      "software-engineering"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Trae Agent"
+  },
+  {
+    "repo": "iflytek/astron-agent",
+    "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+    "stars": 10929,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "agentic-workflow",
+      "ai",
+      "enterprise",
+      "iflytek-astron",
+      "llm",
+      "low-code",
+      "mcp",
+      "multi-agent",
+      "next-gen"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "humanlayer/humanlayer",
+    "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
+    "stars": 10290,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "amp",
+      "claude-code",
+      "codex",
+      "human-in-the-loop",
+      "humanlayer",
+      "llm",
+      "llms",
+      "opencode"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "aden-hive/hive",
+    "description": "Multi-Agent Harness for Production AI",
+    "stars": 10058,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agent",
+      "agent-framework",
+      "agent-skills",
+      "anthropic",
+      "automation",
+      "autonomous-agents",
+      "claude",
+      "harness",
+      "harness-engineering",
+      "human-in-the-loop"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "numman-ali/openskills",
+    "description": "Universal skills loader for AI coding agents - npm i -g openskills",
+    "stars": 9451,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "teng-lin/notebooklm-py",
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl",
+    "stars": 9250,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agentic-skill",
+      "api",
+      "claude",
+      "claude-skills",
+      "google-notebooklm",
+      "notebooklm",
+      "notebooklm-api",
+      "notebooklm-skill",
+      "openclaw-skills",
+      "podcast-generator"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "langchain-ai/open-swe",
+    "description": "Open-source asynchronous coding agent by LangChain for software engineering tasks.",
+    "stars": 9206,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "anthropic",
+      "claudecode",
+      "llm",
+      "llms",
+      "openai"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Open SWE"
+  },
+  {
+    "repo": "alibaba/spring-ai-alibaba",
+    "description": "Agentic AI framework for Java developers by Alibaba. Enterprise-grade multi-agent support.",
+    "stars": 9098,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [
+      "agentic",
+      "artificial-intelligence",
+      "context-engineering",
+      "graph",
+      "java",
+      "multi-agent",
+      "reactagent",
+      "spring-ai",
+      "workflow"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-06",
+    "name": "Spring AI Alibaba"
+  },
+  {
+    "repo": "activeloopai/deeplake",
+    "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+    "stars": 9062,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "agentic-rag",
+      "ai",
+      "clawbot",
+      "computer-vision",
+      "datalake",
+      "deep-learning",
+      "filesystem",
+      "large-language-models",
+      "llm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "53AI/53AIHub",
+    "description": "53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, and AI tools. It supports seamless integration with dev",
+    "stars": 8783,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "coze",
+      "dify",
+      "fastgpt",
+      "go",
+      "maxkb",
+      "mcp",
+      "openai",
+      "prompt",
+      "ragflow"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "superset-sh/superset",
+    "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+    "stars": 8686,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "cursor-agent",
+      "desktop-app",
+      "developer-tools",
+      "electron"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Donchitos/Claude-Code-Game-Studios",
+    "description": "Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+    "stars": 8200,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "ai-agents",
+      "ai-assisted-development",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "game-design",
+      "game-development",
+      "gamedev",
+      "godot",
+      "indie-game-dev"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "MemTensor/MemOS",
+    "description": "AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.",
+    "stars": 8161,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "agent-memory",
+      "clawdbot",
+      "llm",
+      "llm-memory",
+      "long-term-memory",
+      "memory",
+      "memory-agent",
+      "memory-management",
+      "memory-operating-system"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "webiny/webiny-js",
+    "description": "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built",
+    "stars": 7955,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [
+      "ai-assisted-development",
+      "aws",
+      "aws-lambda",
+      "cms",
+      "graphql",
+      "headless-cms",
+      "lambda",
+      "lambda-functions",
+      "mcp",
+      "multi-tenant"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "stars": 7827,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "boilerplate",
+      "claude",
+      "claude-code",
+      "clone",
+      "developer-tools",
+      "nextjs"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "firerpa/lamda",
+    "description": " The most powerful Android RPA agent framework, next generation of mobile automation robots.",
+    "stars": 7706,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms",
+      "embodied"
+    ],
+    "topics": [
+      "adb",
+      "agents",
+      "ai",
+      "android",
+      "appium",
+      "automation",
+      "dynamic-analysis",
+      "frida",
+      "magisk",
+      "mcp"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "google/adk-go",
+    "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "stars": 7438,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "a2a",
+      "agents",
+      "agents-sdk",
+      "ai",
+      "aiagentframework",
+      "gemini",
+      "genai",
+      "go",
+      "llm",
+      "mcp"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "kreuzberg-dev/kreuzberg",
+    "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 91+ formats. Available for Rust, Python",
+    "stars": 7378,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [
+      "bun",
+      "csharp",
+      "document-intelligence",
+      "elixir",
+      "ffi",
+      "golang",
+      "java",
+      "metadata-extraction",
+      "node",
+      "pdf-extraction"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "VoltAgent/voltagent",
+    "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+    "stars": 7286,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-agents-framework",
+      "aiagentframework",
+      "chatbots",
+      "chatgpt",
+      "framework",
+      "javascript",
+      "llm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "AI4Finance-Foundation/FinRobot",
+    "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 ",
+    "stars": 6616,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "aiagent",
+      "chatgpt",
+      "finance",
+      "fingpt",
+      "large-language-models",
+      "multimodal-deep-learning",
+      "prompt-engineering",
+      "robo-advisor"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "lavague-ai/LaVague",
+    "description": "Large Action Model framework to develop AI Web Agents",
+    "stars": 6318,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "ai",
+      "browser",
+      "large-action-model",
+      "llm",
+      "oss",
+      "rag"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "kuafuai/DevOpsGPT",
+    "description": "Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e",
+    "stars": 5963,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "coleam00/ottomator-agents",
+    "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+    "stars": 5489,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "coze-dev/coze-loop",
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to",
+    "stars": 5385,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agent-evaluation",
+      "agent-observability",
+      "agentops",
+      "ai",
+      "coze",
+      "eino",
+      "evaluation",
+      "langchain",
+      "llm-observability"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "TaskingAI/TaskingAI",
+    "description": "The open source platform for AI-native application development.",
+    "stars": 5380,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "ai-native",
+      "function-call",
+      "generative-ai",
+      "gpt",
+      "langchain",
+      "llm",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "OpenCSGs/csghub",
+    "description": "CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offers both open-source and on-premise/SaaS solutions, with features comparable to Hugging Face. Gain fu",
+    "stars": 5359,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "ai",
+      "asset-management",
+      "dataset",
+      "deepseek",
+      "deploy",
+      "finetune",
+      "git",
+      "huggingface",
+      "inference",
+      "llm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "MemMachine/MemMachine",
+    "description": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
+    "stars": 5354,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "chatbots",
+      "conversational-agents",
+      "conversational-ai",
+      "genai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "hellodigua/ChatLab",
+    "description": "Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。",
+    "stars": 5331,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai",
+      "chat-analysis",
+      "chat-history",
+      "data-analysis",
+      "data-visualization",
+      "electron",
+      "nlp",
+      "typescript"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "volcengine/MineContext",
+    "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+    "stars": 5220,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "context-engineering",
+      "electron",
+      "embedding-models",
+      "javascript",
+      "memory",
+      "proactive-ai",
+      "python",
+      "python3",
+      "rag"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.",
+    "stars": 5058,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai",
+      "assistant",
+      "clawdbot",
+      "edge-ai-agents",
+      "memory",
+      "openclaw"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "sentient-agi/ROMA",
+    "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
+    "stars": 5021,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "aipotheosis-labs/aci",
+    "description": "ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.",
+    "stars": 4749,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "api",
+      "developer-tools",
+      "function-calling",
+      "integration",
+      "llm",
+      "mcp",
+      "oauth2"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "dtyq/magic",
+    "description": "Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+    "stars": 4728,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agi",
+      "ai",
+      "gpt",
+      "llm",
+      "low-code",
+      "mcp",
+      "no-code",
+      "sandbox",
+      "super-magic"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "PetoiCamp/OpenCat-Quadruped-Robot",
+    "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo",
+    "stars": 4719,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "ai",
+      "arduino",
+      "block-coding",
+      "education",
+      "iot",
+      "legged-robot",
+      "quadruped",
+      "quadruped-robot-gaits",
+      "raspberry-pi",
+      "robot-cat"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "osaurus-ai/osaurus",
+    "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+    "stars": 4614,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "anthropic",
+      "apple-foundation-models",
+      "apple-intelligence",
+      "apple-neural-engine",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "mlx",
+      "openai",
+      "swift"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "baserow/baserow",
+    "description": "Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.",
+    "stars": 4563,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "airtable",
+      "airtable-alternative",
+      "airtable-replacement",
+      "application-builder",
+      "automations",
+      "dashboards",
+      "database",
+      "low-code",
+      "no-code",
+      "no-code-database"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "phodal/auto-dev",
+    "description": "🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.",
+    "stars": 4425,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "aigc",
+      "genai",
+      "genaistack",
+      "ide",
+      "intellij"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "ModelEngine-Group/nexent",
+    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedbac",
+    "stars": 4417,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory",
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "ai",
+      "harness",
+      "harness-engineering",
+      "llm",
+      "mcp"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "ag2ai/ag2",
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "stars": 4363,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "a2a",
+      "ag2",
+      "agent-framework",
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "ai-agents-framework",
+      "aiagents",
+      "genai",
+      "llm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "UnicomAI/wanwu",
+    "description": "China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and a",
+    "stars": 4265,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "ai",
+      "ai-agent",
+      "ai-agent-development-framework",
+      "ai-agents-framework",
+      "development",
+      "genai",
+      "golang"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "HKUDS/OpenSpace",
+    "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+    "stars": 4255,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "campfirein/byterover-cli",
+    "description": "ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)",
+    "stars": 4182,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "autonomous-agents",
+      "cli",
+      "coding-assistant",
+      "context-memory",
+      "developer-tools",
+      "knowledge-management",
+      "llm",
+      "mcp"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "langroid/langroid",
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "stars": 3955,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "chatgpt",
+      "function-calling",
+      "gpt",
+      "gpt-4",
+      "gpt4",
+      "information-retrieval",
+      "language-model",
+      "llama"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "jnMetaCode/agency-agents-zh",
+    "description": "🎭 193 个即插即用的 AI 专家角色 — 支持 OpenClaw/Claude Code/Cursor/Copilot 等 14 种工具，覆盖工程/设计/营销/产品等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）",
+    "stars": 3940,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agency-orchestrator",
+      "agent-definitions",
+      "ai-agents",
+      "ai-roles",
+      "chinese",
+      "claude",
+      "claude-code",
+      "copilot-agent",
+      "cursor-rules",
+      "deepseek"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "microsoft/PromptWizard",
+    "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+    "stars": 3831,
+    "suggestedCategory": "prompt-optimization",
+    "allMatchedCategories": [
+      "prompt-optimization"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "builderz-labs/mission-control",
+    "description": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
+    "stars": 3811,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-automation",
+      "ai-dashboard",
+      "claude",
+      "dashboard",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "nextjs"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "LazyAGI/LazyLLM",
+    "description": "Easiest and laziest way for  building multi-agent LLMs applications.",
+    "stars": 3786,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agents",
+      "ai-agent",
+      "data",
+      "deep-learning",
+      "documentation-tool",
+      "finetuning",
+      "framework",
+      "knowlege-graph",
+      "langchain",
+      "lazyllm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "opensumi/core",
+    "description": "A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server.",
+    "stars": 3618,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [
+      "ai",
+      "ai-first",
+      "ai-native",
+      "editor",
+      "electron",
+      "ide",
+      "ide-framework",
+      "mcp",
+      "mcp-client",
+      "opensumi"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "EverMind-AI/EverOS",
+    "description": "A memory OS that makes your agents more personal while saving tokens.",
+    "stars": 3593,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent-memory",
+      "agentic-ai",
+      "ai",
+      "chats",
+      "clawdbot",
+      "clawdbot-skill",
+      "llm",
+      "long-term-memory",
+      "mcp",
+      "memory"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "TracecatHQ/tracecat",
+    "description": "Open-source security automation platform for teams and AI agents",
+    "stars": 3540,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "automation",
+      "event-driven",
+      "fastapi",
+      "llm",
+      "low-code",
+      "monitoring",
+      "nextjs",
+      "openapi",
+      "orchestration"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "archestra-ai/archestra",
+    "description": "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator",
+    "stars": 3536,
+    "suggestedCategory": "safety",
+    "allMatchedCategories": [
+      "safety"
+    ],
+    "topics": [
+      "a2a",
+      "a2a-mcp",
+      "acp",
+      "agent",
+      "ai",
+      "chatgpt",
+      "chatgpt-api",
+      "claude",
+      "deepseek",
+      "gemini"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "IBM/mcp-context-forge",
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call",
+    "stars": 3527,
+    "suggestedCategory": "safety",
+    "allMatchedCategories": [
+      "safety"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "api-gateway",
+      "asyncio",
+      "authentication-middleware",
+      "devops",
+      "docker",
+      "fastapi",
+      "federation",
+      "gateway"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "abhi1693/openclaw-mission-control",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "stars": 3493,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai-agents",
+      "automation",
+      "openclaw",
+      "orchestration"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "pguso/ai-agents-from-scratch",
+    "description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "stars": 3357,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai-agents",
+      "educational",
+      "function-calling",
+      "llm",
+      "llm-agent",
+      "node-llama-cpp",
+      "react-agent",
+      "tutorial"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "OSU-NLP-Group/HippoRAG",
+    "description": "[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized",
+    "stars": 3335,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "SkyworkAI/DeepResearchAgent",
+    "description": "DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordi",
+    "stars": 3318,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "gaia",
+      "general-purpose",
+      "multiagent-systems",
+      "multimodel"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "adongwanai/AgentGuide",
+    "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+    "stars": 3273,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agenticrag",
+      "ai-agent",
+      "crewai",
+      "graphrag",
+      "grpo",
+      "interview",
+      "job-hunting",
+      "langchain",
+      "llm",
+      "multi-agent"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "gepa-ai/gepa",
+    "description": "Optimize prompts, code, and more with AI-powered Reflective Text Evolution",
+    "stars": 3178,
+    "suggestedCategory": "prompt-optimization",
+    "allMatchedCategories": [
+      "prompt-optimization"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Josh-XT/AGiXT",
+    "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a",
+    "stars": 3167,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent-llm",
+      "agi",
+      "agixt",
+      "ai",
+      "artificial",
+      "automation",
+      "chromadb",
+      "intelligence",
+      "llama",
+      "llamacpp"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "punkpeye/fastmcp",
+    "description": "A TypeScript framework for building MCP servers.",
+    "stars": 3030,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [
+      "mcp",
+      "sse"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "SamurAIGPT/Generative-Media-Skills",
+    "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
+    "stars": 3000,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent-tools",
+      "ai-agents",
+      "ai-art",
+      "ai-music",
+      "ai-video",
+      "claude-code",
+      "flux",
+      "generative-ai",
+      "image-generation",
+      "kling"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "RLinf/RLinf",
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "stars": 2997,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "agentic-ai",
+      "embodied-ai",
+      "reinforcement-learning",
+      "rl-infra",
+      "rlinf",
+      "vla-rl"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "facebookresearch/habitat-lab",
+    "description": "A modular high-level library to train embodied AI agents across a variety of tasks and environments.",
+    "stars": 2930,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "ai",
+      "computer-vision",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "python",
+      "reinforcement-learning",
+      "research",
+      "robotics",
+      "sim2real",
+      "simulator"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "cirosantilli/china-dictatorship",
+    "description": "反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on ac",
+    "stars": 2917,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "996",
+      "censorship",
+      "censorship-circumvention",
+      "china",
+      "china-dictatorship",
+      "chinese-communist-party",
+      "covid-19",
+      "covid-19-china",
+      "dictator",
+      "dictatorship"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "SolaceLabs/solace-agent-mesh",
+    "description": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s",
+    "stars": 2890,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "a2a",
+      "agentframework",
+      "agentic",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "agenticai",
+      "agents",
+      "ai",
+      "ai-agents"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "lmnr-ai/lmnr",
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "stars": 2759,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent-observability",
+      "agents",
+      "ai",
+      "ai-observability",
+      "aiops",
+      "analytics",
+      "developer-tools",
+      "evals",
+      "evaluation",
+      "llm-evaluation"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "opensolon/solon",
+    "description": "🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% ",
+    "stars": 2714,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "aop-framework",
+      "ioc-framework",
+      "java",
+      "llm",
+      "mcp-server",
+      "microservice",
+      "miro-framework",
+      "modelcontextprotocol",
+      "no-servlet",
+      "no-spring"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "SharpAI/DeepCamera",
+    "description": "Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understand",
+    "stars": 2642,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "ai",
+      "ai-camera",
+      "ai-nvr",
+      "camera",
+      "cctv",
+      "computer-vision",
+      "deep-learning",
+      "face-recognition",
+      "home-assistant",
+      "home-security"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "mergisi/awesome-openclaw-agents",
+    "description": "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
+    "stars": 2587,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai-agent-templates",
+      "ai-agents",
+      "ai-automation",
+      "anthropic",
+      "automation",
+      "awesome",
+      "awesome-list",
+      "claude",
+      "community-agents",
+      "crewclaw"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "openai/openai-agents-js",
+    "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+    "stars": 2586,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agents",
+      "openai",
+      "openai-api",
+      "realtime-api",
+      "typescript"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "kingjulio8238/Memary",
+    "description": "The Open Source Memory Layer For Autonomous Agents",
+    "stars": 2576,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agents",
+      "knowledge-graph",
+      "memory",
+      "multiagent-systems",
+      "rag",
+      "self-improvement"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "stellarlinkco/myclaude",
+    "description": "Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)",
+    "stars": 2562,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "griptape-ai/griptape",
+    "description": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. ",
+    "stars": 2508,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai",
+      "anthropic",
+      "claude",
+      "gpt",
+      "huggingface",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "wanikua/danghuangshang",
+    "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
+    "stars": 2481,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-collaboration",
+      "ai-court",
+      "ai-orchestration",
+      "ancient-china",
+      "autonomous-agents",
+      "clawdbot",
+      "discord",
+      "discord-bot"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "openlit/openlit",
+    "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, ",
+    "stars": 2341,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms",
+      "safety"
+    ],
+    "topics": [
+      "ai-observability",
+      "amd-gpu",
+      "clickhouse",
+      "distributed-tracing",
+      "genai",
+      "gpu-monitoring",
+      "grafana",
+      "langchain",
+      "llmops",
+      "llms"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Gentleman-Programming/engram",
+    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+    "stars": 2275,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "flyerhq/flutter_chat_ui",
+    "description": "Free and open-source chat SDK. Build fast, real-time apps and generative AI agents with a high-performance, customizable, cross-platform UI.",
+    "stars": 2260,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "android",
+      "chat",
+      "dart",
+      "flutter",
+      "ios",
+      "ui",
+      "widget"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "KsanaDock/Microverse",
+    "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social ",
+    "stars": 2208,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai-game",
+      "ai-world-simulation",
+      "godot",
+      "multi-agent"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "oxwhirl/pymarl",
+    "description": "Python Multi-Agent Reinforcement Learning framework",
+    "stars": 2175,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "sdi2200262/agentic-project-management",
+    "description": "A framework for managing complex projects with spec-driven multi-agent workflows.",
+    "stars": 2166,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "YiVal/YiVal",
+    "description": "Your Automatic Prompt Engineering Assistant for GenAI Applications",
+    "stars": 2130,
+    "suggestedCategory": "prompt-optimization",
+    "allMatchedCategories": [
+      "prompt-optimization"
+    ],
+    "topics": [
+      "ai",
+      "ai-experiments",
+      "ai-toolkit",
+      "aigc",
+      "api",
+      "auto-prompting",
+      "autogpt",
+      "fine-tuning",
+      "framework",
+      "generative-ai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
+    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent s",
+    "stars": 2124,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "docker",
+      "fastapi",
+      "fastapi-template",
+      "langchain",
+      "langchain-python",
+      "langgraph",
+      "langgraph-python",
+      "llm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "kayba-ai/agentic-context-engine",
+    "description": "🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai ",
+    "stars": 2113,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent-learning",
+      "agent-memory",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "context-engineering",
+      "llm",
+      "machine-learning",
+      "memory"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Q00/ouroboros",
+    "description": "Stop prompting. Start specifying.",
+    "stars": 2049,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai-agent",
+      "claude-code",
+      "codex-cli",
+      "devtools",
+      "evaluation",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "prompt-engineering",
+      "python"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "HCPLab-SYSU/Embodied_AI_Paper_List",
+    "description": "[Embodied-AI-Survey-2025] Paper List and Resource Repository for Embodied AI",
+    "stars": 1986,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "agent",
+      "causality",
+      "embodied-ai",
+      "interaction",
+      "manipulation",
+      "navigation",
+      "percpetion",
+      "reasoning",
+      "robotics",
+      "survey"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "agentset-ai/agentset",
+    "description": "The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.",
+    "stars": 1942,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory",
+      "platforms"
+    ],
+    "topics": [
+      "agentic-rag",
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "chatbots",
+      "embeddings",
+      "genai",
+      "llms",
+      "memory",
+      "memory-management"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "trustgraph-ai/trustgraph",
+    "description": "The context development platform. Store, enrich, and retrieve structured knowledge with graph-native infrastructure, semantic retrieval, and portable context cores.",
+    "stars": 1941,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai-infra",
+      "ai-tools",
+      "context",
+      "context-engineering",
+      "context-graph",
+      "context-os",
+      "developer-tools",
+      "graph"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "jd-opensource/OxyGent",
+    "description": "Multi-agent collaboration framework",
+    "stars": 1903,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "beikeshop/beikeshop",
+    "description": "Free and Open-Source, Easy-to-Use Laravel eCommerce Platform, Base on the Laravel . It supports multiple languages and currencies, Integrates AI agents. The platform features customizable visual desig",
+    "stars": 1872,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "beikeshop",
+      "chatgpt",
+      "ecommerce",
+      "ecommerce-framework",
+      "ecommerce-platform",
+      "laravel",
+      "laravel-ecommerce",
+      "laravelcommerce",
+      "laravelecommerce",
+      "laravelshop"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "gege-circle/.github",
+    "description": "这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other t",
+    "stars": 1825,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "a-soul",
+      "acfun",
+      "bilibili",
+      "china",
+      "gege-circle",
+      "message-board",
+      "vtuber",
+      "vup"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "neuron-core/neuron-ai",
+    "description": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's",
+    "stars": 1822,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory",
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agents",
+      "ai",
+      "llm",
+      "llm-inference",
+      "llms",
+      "php",
+      "vector-database"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "openai/multi-agent-emergence-environments",
+    "description": "Environment generation code for the paper \"Emergent Tool Use From Multi-Agent Autocurricula\"",
+    "stars": 1788,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "zchoi/Awesome-Embodied-Robotics-and-Agent",
+    "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
+    "stars": 1761,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "agent",
+      "awesome",
+      "embodied-agent",
+      "embodied-ai",
+      "large-language-model",
+      "manipulator-robotics",
+      "navigation",
+      "planning-algorithms",
+      "scene-understanding"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "catlog22/Claude-Code-Workflow",
+    "description": " JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution",
+    "stars": 1718,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "claude",
+      "claude-code",
+      "cli-tools",
+      "codex",
+      "context-management",
+      "gemini-cli",
+      "json-driven",
+      "qwen-code",
+      "task-orchestration",
+      "workflow-automation"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "parruda/swarm",
+    "description": "Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semant",
+    "stars": 1690,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "guy-hartstein/company-research-agent",
+    "description": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.5 Flash and OpenAI's GPT-5.1 on",
+    "stars": 1661,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "company",
+      "financial-analysis",
+      "gemini",
+      "gemini-3-flash",
+      "langchain",
+      "langgraph-python",
+      "multi-agent-systems",
+      "openai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "callstackincubator/agent-device",
+    "description": "CLI to control iOS and Android devices for AI agents",
+    "stars": 1593,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "automation",
+      "mobile",
+      "testing"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Kocoro-lab/Shannon",
+    "description": "A production-oriented multi-agent orchestration framework.",
+    "stars": 1567,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "multi-agent-systems"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "DingTalk-Real-AI/dingtalk-workspace-cli",
+    "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users",
+    "stars": 1526,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "johnson7788/MultiAgentPPT",
+    "description": "MultiAgentPPT 是一个集成了 A2A（Agent2Agent）+ MCP（Model Context Protocol）+ ADK（Agent Development Kit） 架构的智能化演示文稿生成系统，支持通过多智能体协作和流式并发机制",
+    "stars": 1522,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "RTGS2017/NagaAgent",
+    "description": "A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.",
+    "stars": 1511,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "mcp",
+      "mcp-client",
+      "openai",
+      "openclaw",
+      "toolcall"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "hexdocom/lemonai",
+    "description": "Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_",
+    "stars": 1492,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution",
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "desktop",
+      "fullstack",
+      "genspark",
+      "javascript",
+      "llm",
+      "manus",
+      "nodejs"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "robocorp/rpaframework",
+    "description": "Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python",
+    "stars": 1488,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "ai",
+      "automation",
+      "documentai",
+      "nlp",
+      "ocr",
+      "opencv",
+      "python",
+      "robocorp",
+      "robot",
+      "robotframework"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "yologdev/yoyo-evolve",
+    "description": "A Truman Show of a self-evolving AI coding agent. It writes its own code. Growing up in public.",
+    "stars": 1471,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "kaiban-ai/KaibanJS",
+    "description": "KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.",
+    "stars": 1400,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agentic",
+      "agentic-framework",
+      "agenticjs",
+      "agents",
+      "ai",
+      "javascript",
+      "kanban",
+      "langchain-js",
+      "llms",
+      "multi-agent-systems"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "jekalmin/extended_openai_conversation",
+    "description": "Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.",
+    "stars": 1372,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "conversation",
+      "custom-component",
+      "homeassistant"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Danau5tin/multi-agent-coding-system",
+    "description": "Reached #13 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing.",
+    "stars": 1362,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "modelscope/AgentEvolver",
+    "description": "AgentEvolver: Towards Efficient Self-Evolving Agent System",
+    "stars": 1337,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agent",
+      "agent-system",
+      "llm",
+      "reinforcement-learning",
+      "self-evolving"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "AimRT/AimRT",
+    "description": "A high-performance runtime framework for modern robotics.",
+    "stars": 1310,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "cpp20",
+      "robotics"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "BAI-LAB/MemoryOS",
+    "description": "[EMNLP 2025 Oral] MemoryOS is designed to provide a memory operating system for personalized AI agents.",
+    "stars": 1307,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "language-model",
+      "llm",
+      "long-term-memory",
+      "operating-system",
+      "personalization",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "chrisworsey55/atlas-gic",
+    "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
+    "stars": 1299,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "agent-network-protocol/AgentNetworkProtocol",
+    "description": "AgentNetworkProtocol(ANP) is an open source protocol for agent communication. Our vision is to define how agents connect with each other, building an open, secure, and efficient collaboration network ",
+    "stars": 1259,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [
+      "agent",
+      "communication",
+      "protocol"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "rinadelph/Agent-MCP",
+    "description": "Agent-MCP is a framework for creating multi-agent systems that enables coordinated, efficient AI collaboration through the Model Context Protocol (MCP). The system is designed for developers building ",
+    "stars": 1213,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "ghostwright/phantom",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
+    "stars": 1206,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "ai-agents",
+      "ai-coworker",
+      "anthropic",
+      "autonomous-agents",
+      "bun",
+      "claude",
+      "docker",
+      "llm",
+      "mcp",
+      "self-evolution"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "yohey-w/multi-agent-shogun",
+    "description": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.",
+    "stars": 1189,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "claude-code",
+      "llm",
+      "multi-agent",
+      "parallel-processing",
+      "samurai",
+      "shogun",
+      "tmux"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "jayminwest/overstory",
+    "description": "Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more",
+    "stars": 1187,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent-swarms",
+      "ai-agents",
+      "claude-code",
+      "tmux"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "morettt/my-neuro",
+    "description": "This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition, vo",
+    "stars": 1155,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "ai-vtuber",
+      "chatbots",
+      "live2d",
+      "llm",
+      "python"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "wangziqi06/724-office",
+    "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+    "stars": 1152,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution",
+      "memory"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "zilliztech/memsearch",
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+    "stars": 1124,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "clawdbot",
+      "embeddings",
+      "harness",
+      "hybrid-search",
+      "long-term-memory"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Doriandarko/make-it-heavy",
+    "description": "A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective ",
+    "stars": 1109,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "metaskills/experts",
+    "description": "Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.",
+    "stars": 1065,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "assistants-api",
+      "multi-agent-systems",
+      "openai",
+      "openai-assistants",
+      "openai-assistants-api"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "twostraws/Swift-Agent-Skills",
+    "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
+    "stars": 1055,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "CharlesQ9/Self-Evolving-Agents",
+    "description": "",
+    "stars": 1027,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "metauto-ai/GPTSwarm",
+    "description": "🐝  The First Self-Improving Agentic Solution",
+    "stars": 1014,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "gpt",
+      "multi-agent",
+      "python",
+      "reinforcement-learning",
+      "self-improvement",
+      "society-of-mind",
+      "swarm-intelligence"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "mikekelly/AgentK",
+    "description": "An autoagentic AGI that is self-evolving and modular.",
+    "stars": 963,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "zylos-ai/zylos-core",
+    "description": "🐙 Give your AI a life — open-source agent infrastructure for team collaboration.",
+    "stars": 937,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "ai",
+      "ai-worker",
+      "own-your-data",
+      "personal-ai-assistant",
+      "self-evolving",
+      "team-collaboration"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "SalesforceAIResearch/promptomatix",
+    "description": "An Automatic Prompt Optimization Framework for Large Language Models",
+    "stars": 936,
+    "suggestedCategory": "prompt-optimization",
+    "allMatchedCategories": [
+      "prompt-optimization"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Thytu/Agentarium",
+    "description": "open-source framework for creating and managing simulations populated with AI-powered agents. It provides an intuitive platform for designing complex, interactive environments where agents can act, le",
+    "stars": 935,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Project-N-E-K-O/N.E.K.O",
+    "description": "N.E.K.O. — A proactive, native omni-modal AI companion featuring 24/7 ambient awareness, agent capability and an embodied emotional engine.",
+    "stars": 930,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "ai-agents",
+      "jarvis-assistant",
+      "own-your-data",
+      "personal",
+      "waifu"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "massgen/MassGen",
+    "description": "🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Jo",
+    "stars": 924,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "autonomous-agents",
+      "cli",
+      "collaborative-ai",
+      "conversational-ai",
+      "genai",
+      "generative-ai",
+      "llm",
+      "llm-orchestration"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "liweiphys/layra",
+    "description": "LAYRA—an enterprise-ready, out-of-the-box solution—unlocks next-generation intelligent systems powered by visual RAG and limitless visual multi-step agent workflow orchestration.",
+    "stars": 899,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "colpali",
+      "document-parser",
+      "fastapi",
+      "gpt-4o",
+      "knowledge-base",
+      "llm",
+      "visual-rag",
+      "workflow"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "kaplanelad/shellfirm",
+    "description": "Safety guardrails for ai coding agents and human terminal commands",
+    "stars": 888,
+    "suggestedCategory": "safety",
+    "allMatchedCategories": [
+      "safety"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "captcha",
+      "devops",
+      "devops-tools",
+      "mcp",
+      "prompt",
+      "rust",
+      "shell",
+      "terminal"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "iwe-org/iwe",
+    "description": "Markdown memory system for you and your AI agent",
+    "stars": 865,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "developer-tools",
+      "graph",
+      "gtd",
+      "helix",
+      "knowledge-management",
+      "lsp",
+      "markdown"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "lsdefine/GenericAgent",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "stars": 857,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "ai-agent",
+      "automation",
+      "autonomous-agent",
+      "browser-automation",
+      "claude",
+      "computer-control",
+      "desktop-automation",
+      "gemini",
+      "lightweight",
+      "llm-agent"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "chain-ml/council",
+    "description": "Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications",
+    "stars": 848,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "artificial-intelligence",
+      "chatgpt",
+      "generative-ai",
+      "gpt",
+      "gpt3",
+      "gpt4",
+      "machine-learning",
+      "python"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "VectorSpaceLab/general-agentic-memory",
+    "description": "A general memory system for agents, powered by deep-research",
+    "stars": 838,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "golf-mcp/golf",
+    "description": "Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents ",
+    "stars": 821,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [
+      "agent-runtime",
+      "ai",
+      "ai-agent",
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-platform",
+      "aiagents",
+      "auth",
+      "authentication",
+      "authorization"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "wanxingai/LightAgent",
+    "description": "LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE prot",
+    "stars": 808,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory",
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "sentrux/sentrux",
+    "description": "Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.",
+    "stars": 803,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agentharness",
+      "architecture",
+      "cobol",
+      "cobol-language",
+      "code-quality",
+      "developer-tools",
+      "harnessengineering",
+      "mcp",
+      "rust",
+      "static-analysis"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "oliveirabruno01/babyagi-asi",
+    "description": "BabyAGI: an Autonomous and Self-Improving agent, or BASI",
+    "stars": 801,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agi",
+      "ai",
+      "autonomous-agents",
+      "chain-of-thought",
+      "program-of-thoughts"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "repowise-dev/claude-code-prompts",
+    "description": "Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
+    "stars": 781,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai-coding-agent",
+      "ai-tools",
+      "anthropic-claude",
+      "claude-code",
+      "claude-code-prompts",
+      "claude-code-system-prompt",
+      "claude-prompts",
+      "coding-assistant",
+      "cursor-skills",
+      "llm-prompts"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "bgauryy/octocode-mcp",
+    "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codeb",
+    "stars": 772,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "claude-ai",
+      "code-intelligence",
+      "code-search",
+      "context",
+      "cursor",
+      "cursor-ai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "voicetreelab/voicetree",
+    "description": "The spatial IDE for recursive multi-agent orchestration. It's like an Obsidian graph-view that you work directly inside of. ",
+    "stars": 770,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agents",
+      "claude-code",
+      "codex"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "openonion/connectonion",
+    "description": "The Best AI Agent Framework for Agent Collaboration. ",
+    "stars": 760,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "llm",
+      "openonion"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "ibbybuilds/aegra",
+    "description": "Open source alternative to LangGraph Platform (now LangSmith Deployments) - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure.",
+    "stars": 756,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "fastapi",
+      "langchain",
+      "langggraph",
+      "langgraph-agents",
+      "langgraph-platform-alternative",
+      "opensource-langgraph-platform",
+      "postgres",
+      "python"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "bytechefhq/bytechef",
+    "description": "Open-source, AI-native, low-code platform for API orchestration, workflow automation, and AI agent integration across internal systems and SaaS products.",
+    "stars": 741,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "api",
+      "automation",
+      "embedded-ipaas",
+      "hacktoberfest",
+      "integrations",
+      "ipaas",
+      "java",
+      "llm"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "wecode-ai/RunVSAgent",
+    "description": "Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.",
+    "stars": 717,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "ai-coding-agent",
+      "cline",
+      "jetbrains",
+      "kilo-code",
+      "roo-code"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents",
+    "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangC",
+    "stars": 717,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "aiagent",
+      "celery",
+      "deepseek",
+      "docker",
+      "faiss-vector-database",
+      "flask",
+      "langchain",
+      "langgraph"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "rapidaai/voice-ai",
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state mana",
+    "stars": 709,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [
+      "agent-framework",
+      "ai-voice",
+      "ai-voice-agent",
+      "audio-streaming",
+      "golang",
+      "open-source",
+      "orchestration",
+      "realtime-audio",
+      "sip",
+      "speech-ai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "greyhaven-ai/autocontext",
+    "description": "a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task",
+    "stars": 702,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "autoresearch",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llms",
+      "ml"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "dCaples/AutoDidact",
+    "description": "Autonomously train research-agent LLMs on custom data using reinforcement learning and self-verification.",
+    "stars": 687,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "caspianmoon/memoripy",
+    "description": "An AI memory layer with short- and long-term storage, semantic clustering, and optional memory decay for context-aware applications.",
+    "stars": 685,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai",
+      "llm",
+      "memory",
+      "memory-management"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Agent-Field/SWE-AF",
+    "description": "Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.",
+    "stars": 678,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent-factory",
+      "agentfield",
+      "agentic-ai",
+      "ai-agents",
+      "ai-factory",
+      "autonomous-agents",
+      "claude-code",
+      "code-generation",
+      "codex",
+      "coding-agent"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "SWE-Gym/SWE-Gym",
+    "description": "Code for Paper: Training Software Engineering Agents and Verifiers with SWE-Gym [ICML 2025]",
+    "stars": 656,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "cpnota/autonomous-learning-library",
+    "description": "A PyTorch library for building deep reinforcement learning agents.",
+    "stars": 655,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "a2c",
+      "advantage-actor-critic",
+      "ddpg",
+      "deep-deterministic-policy-gradient",
+      "deep-q-learning",
+      "deep-reinforcement-learning",
+      "dqn",
+      "dqn-pytorch",
+      "ppo",
+      "proximal-policy-optimization"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA",
+    "stars": 644,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution",
+      "prompt-optimization"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "featureform/enrichmcp",
+    "description": "EnrichMCP is a python framework for building data driven MCP servers",
+    "stars": 643,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "Versatly/clawvault",
+    "description": "🐘 An elephant never forgets. Structured memory system for AI agents.",
+    "stars": 639,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "RobustNLP/CipherChat",
+    "description": "A framework to evaluate the generalization capability of safety alignment for LLMs",
+    "stars": 627,
+    "suggestedCategory": "safety",
+    "allMatchedCategories": [
+      "safety"
+    ],
+    "topics": [
+      "alignment",
+      "chatgpt",
+      "gpt-4-0613",
+      "jailbreak",
+      "large-language-models",
+      "llm",
+      "security"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "langtalks/swe-agent",
+    "description": "🤖 AI-powered software engineering multi-agent system with researcher and developer agents that automate code implementation through intelligent planning and execution. Built with LangGraph multi-agen",
+    "stars": 623,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "cossistantcom/cossistant",
+    "description": "Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS.",
+    "stars": 613,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "aiagent",
+      "nextjs",
+      "react",
+      "support"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "adolfousier/opencrabs",
+    "description": "The self-improving all channels AI agent. Self-healing. Fully autonomous. Single Rust binary.",
+    "stars": 608,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agentic-framework",
+      "autonomous-agents",
+      "open-source",
+      "opencrab",
+      "orchestration-framework",
+      "self-healing",
+      "self-learning"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "zhu1090093659/spec_driven_develop",
+    "description": "Spec-Driven Develop is a platform-agnostic AI agent skill that automates the pre-development workflow for large-scale complex tasks. It is not a framework, not a runtime, not a package manager — it is",
+    "stars": 603,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "hofstadter-io/hof",
+    "description": "A developer experience centered on CUE. Unifies schemas, data models, deterministic and agentic code generation, workflow and task engine, dagger powered environments, coding assistant, and vscode ext",
+    "stars": 602,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "adk-go",
+      "agents",
+      "cli",
+      "code-generator",
+      "cuelang",
+      "dagger",
+      "data-modeling",
+      "llms",
+      "schemas",
+      "tui"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "23blocks-OS/ai-maestro",
+    "description": "AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents",
+    "stars": 590,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent-communication",
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "ai-coding-assistant",
+      "ai-memory",
+      "ai-orchestration",
+      "autonomous-agents",
+      "claude-code",
+      "claude-code-plugins"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "whchien/ai-trader",
+    "description": "Backtrader-powered backtesting framework for algorithmic trading, featuring 20+ strategies, multi-market support, CLI tools, and an integrated MCP server for professional traders.",
+    "stars": 579,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "algorithmic-trading",
+      "backtrader",
+      "cli",
+      "mcp",
+      "mcp-server",
+      "portfolio-management",
+      "quantitative-finance",
+      "stock-price-prediction"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "first-fluke/oh-my-agent",
+    "description": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, OpenCode, and more.",
+    "stars": 565,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent-harness",
+      "agent-skills",
+      "agentic-coding",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "cursor",
+      "multi-agent",
+      "multi-agent-systems",
+      "oh-my-agent"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "GCWing/BitFun",
+    "description": "BitFun is a next-generation AI assistant with built-in Code Agent and Cowork Agent. It has memory, personality, and the ability to evolve over time. You can remotely control the desktop through mobile",
+    "stars": 558,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent",
+      "agent-teams",
+      "ai",
+      "ai-coding",
+      "ai-ide",
+      "cowork",
+      "human-computer-interaction",
+      "ide",
+      "openclaw",
+      "vibe-coding"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "agentic-community/mcp-gateway-registry",
+    "description": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding a",
+    "stars": 553,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "a2a",
+      "agentic-ai",
+      "agents",
+      "ans",
+      "documentdb",
+      "ecs",
+      "ecs-fargate",
+      "entra-id",
+      "fgac",
+      "mcp"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "FoundationAgents/ReCode",
+    "description": "Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.",
+    "stars": 546,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "StarmoonAI/Starmoon",
+    "description": "A conversational, AI device + software framework for companionship, entertainment, education, healthcare, IoT applications, and DIY robotics. Built with Python, NextJS, Arduino, ESP32, LLMs (GPT-4o), ",
+    "stars": 542,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "esp32",
+      "gpt",
+      "iot",
+      "llm",
+      "openai",
+      "robotics",
+      "stt",
+      "tts",
+      "voice-assistant"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "FudanSELab/Agent4SE-Paper-List",
+    "description": "Repository for the paper \"Large Language Model-Based Agents for Software Engineering: A Survey\". Keep updating.",
+    "stars": 538,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent",
+      "artificial-intelligence",
+      "large-language-models",
+      "llm-based-agents",
+      "llms",
+      "software-engineering"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "InfinitiBit/graphbit",
+    "description": "GraphBit is the world’s first enterprise-grade Agentic AI framework, built on a Rust core with a Python wrapper for unmatched speed, security, and scalability. It enables reliable multi-agent workflow",
+    "stars": 529,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "llm",
+      "multi-agent-systems",
+      "python",
+      "rust"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "ALucek/agentic-memory",
+    "description": "Implementing cognitive architecture and psychological memory concepts into Agentic LLM Systems",
+    "stars": 523,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "THUDM/WebRL",
+    "description": "Building Open LLM Web Agents with Self-Evolving Online Curriculum RL",
+    "stars": 515,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "sentient-engineering/agent-q",
+    "description": "agent q - oss advanced reasoning and learning for autonomous ai agents",
+    "stars": 504,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "facebookresearch/drzero",
+    "description": "Dr. Zero Self-Evolving Search Agents without Training Data",
+    "stars": 502,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-06"
+  }
+]
