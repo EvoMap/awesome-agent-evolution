@@ -20,7 +20,7 @@
   {
     "name": "Agent Zero",
     "repo": "agent0ai/agent-zero",
-    "description": "Agent Zero AI framework -- a general-purpose AI agent that learns and evolves through interaction.",
+    "description": "General-purpose AI agent framework that learns and evolves through interaction.",
     "category": "evolution",
     "maintainer": "agent0ai",
     "tags": ["autonomous", "general-purpose", "learning"],
@@ -40,9 +40,9 @@
     "repo": "EvoMap/evolver",
     "description": "The GEP-powered self-evolution engine for AI agents. Genome Evolution Protocol enables agents to evolve autonomously.",
     "category": "evolution",
-    "maintainer": "autogame-17",
+    "maintainer": "EvoMap",
     "tags": ["gep", "self-evolution", "genome"],
-    "stars": 1316
+    "stars": 1831
   },
   {
     "name": "EvoAgentX",
@@ -312,8 +312,8 @@
     "repo": "openai/swarm",
     "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration.",
     "category": "multi-agent",
-    "maintainer": "openai",
-    "tags": ["lightweight", "educational", "openai"],
+    "maintainer": "OpenAI",
+    "tags": ["lightweight", "educational", "OpenAI"],
     "stars": 21090
   },
   {
@@ -321,8 +321,8 @@
     "repo": "openai/openai-agents-python",
     "description": "A lightweight, powerful framework for multi-agent workflows from OpenAI.",
     "category": "multi-agent",
-    "maintainer": "openai",
-    "tags": ["python", "lightweight", "openai"],
+    "maintainer": "OpenAI",
+    "tags": ["python", "lightweight", "OpenAI"],
     "stars": 19388
   },
   {
@@ -506,6 +506,15 @@
     "stars": 184
   },
   {
+    "name": "GEP MCP Server",
+    "repo": "EvoMap/gep-mcp-server",
+    "description": "MCP Server for Genome Evolution Protocol. Exposes evolution tools to Claude Desktop, Cursor, and any MCP client.",
+    "category": "protocols",
+    "maintainer": "EvoMap",
+    "tags": ["gep", "mcp", "evolution-tools"],
+    "stars": 52
+  },
+  {
     "name": "A2A MCP Server",
     "repo": "GongRzhe/A2A-MCP-Server",
     "description": "Bridges Model Context Protocol with Agent-to-Agent protocol, enabling MCP-compatible assistants to interact with A2A agents.",
@@ -596,6 +605,15 @@
     "stars": 2129
   },
   {
+    "name": "EvoMap",
+    "repo": "EvoMap/evomap-hub",
+    "description": "Open platform for AI Agent evolution and collaboration. Supports A2A protocol, agent arena, bounty system, and GEP-based self-evolution.",
+    "category": "platforms",
+    "maintainer": "EvoMap",
+    "tags": ["a2a", "gep", "agent-platform"],
+    "stars": 1
+  },
+  {
     "name": "Claude Code",
     "repo": "anthropics/claude-code",
     "description": "Terminal-native agentic coding tool from Anthropic. Understands your codebase and executes tasks through natural language.",
@@ -609,14 +627,14 @@
     "repo": "openai/codex",
     "description": "Lightweight coding agent from OpenAI written in Rust. Runs locally as CLI, IDE extension, or desktop app.",
     "category": "coding",
-    "maintainer": "openai",
-    "tags": ["rust", "openai", "local"],
+    "maintainer": "OpenAI",
+    "tags": ["rust", "OpenAI", "local"],
     "stars": 73262
   },
   {
     "name": "Aider",
     "repo": "Aider-AI/aider",
-    "description": "AI pair programming in your terminal. Edit code with LLMs across 100+ languages with deep git integration.",
+    "description": "AI pair programming in your terminal. Edit code with LLMs across 100+ languages with deep Git integration.",
     "category": "coding",
     "maintainer": "Aider-AI",
     "tags": ["pair-programming", "terminal", "git-integration"],
@@ -719,7 +737,6 @@
     "repo": "huggingface/lerobot",
     "description": "Open-source robotics framework by Hugging Face. Models, datasets, and tools for real-world robotics in PyTorch with hardware-agnostic interface.",
     "category": "embodied",
-    "maintainer": "huggingface",
     "tags": ["robotics", "pytorch", "hugging-face"],
     "stars": 22892
   },
@@ -753,7 +770,7 @@
   {
     "name": "Learn Agentic AI",
     "repo": "panaversity/learn-agentic-ai",
-    "description": "Learn Agentic AI using DACA Design Pattern: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, and Kubernetes.",
+    "description": "Comprehensive curriculum covering DACA Design Pattern, OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, and Kubernetes.",
     "category": "community",
     "maintainer": "panaversity",
     "tags": ["education", "a2a", "mcp"],

@@ -20,11 +20,13 @@ const CATEGORY_SECTIONS = {
 };
 
 function formatProject(p) {
-  const stars = p.stars ? ` (${p.stars.toLocaleString()} stars)` : '';
+  let desc = p.description || '';
+  if (desc && !/[.!?]$/.test(desc)) {
+    desc += '.';
+  }
   const maintainer = p.maintainer ? ` by [@${p.maintainer}](https://github.com/${p.maintainer})` : '';
-  const tags = p.tags && p.tags.length ? ` \`${p.tags.join('` `')}\`` : '';
-  const paperLink = p.paper ? ` [[paper]](${p.paper})` : '';
-  return `- [**${p.name}**](https://github.com/${p.repo}) -- ${p.description}${maintainer}${stars}${tags}${paperLink}`;
+  const stars = p.stars ? ` (${p.stars.toLocaleString()} stars)` : '';
+  return `- [**${p.name}**](https://github.com/${p.repo}) - ${desc}${maintainer}${stars}`;
 }
 
 function main() {
