@@ -1343,5 +1343,57 @@
       "context-engineering"
     ],
     "stars": 9098
+  },
+  {
+    "name": "HyperAgents",
+    "repo": "facebookresearch/HyperAgents",
+    "description": "Self-referential self-improving agents by Meta that can optimize for any computable task.",
+    "category": "evolution",
+    "maintainer": "facebookresearch",
+    "tags": [
+      "self-referential",
+      "self-improving",
+      "meta-research"
+    ],
+    "stars": 2133
+  },
+  {
+    "name": "MS-Agent",
+    "repo": "modelscope/ms-agent",
+    "description": "Lightweight framework by ModelScope to empower agentic execution of complex tasks with memory and deep research.",
+    "category": "platforms",
+    "maintainer": "modelscope",
+    "tags": [
+      "agentic-search",
+      "memory",
+      "deep-research"
+    ],
+    "stars": 4136
+  },
+  {
+    "name": "LatentMAS",
+    "repo": "Gen-Verse/LatentMAS",
+    "description": "Latent collaboration in multi-agent systems. Agents reason and collaborate in continuous latent space.",
+    "category": "multi-agent",
+    "maintainer": "Gen-Verse",
+    "tags": [
+      "latent-reasoning",
+      "model-collaboration",
+      "continuous-reasoning"
+    ],
+    "stars": 859
+  },
+  {
+    "name": "Mem9",
+    "repo": "mem9-ai/mem9",
+    "description": "Unlimited persistent memory layer for AI agents. Cloud-synced memory across sessions and tools.",
+    "category": "memory",
+    "maintainer": "mem9-ai",
+    "tags": [
+      "persistent-memory",
+      "cloud-sync",
+      "agent-memory"
+    ],
+    "stars": 861
   }
 ]
