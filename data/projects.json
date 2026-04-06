@@ -137,6 +137,15 @@
     "stars": 12654
   },
   {
+    "name": "Acontext",
+    "repo": "memodb-io/Acontext",
+    "description": "Open-source skill memory layer for AI agents. Automatically captures learnings from agent runs and stores them as reusable skill files.",
+    "category": "memory",
+    "maintainer": "memodb-io",
+    "tags": ["skill-memory", "auto-learning", "markdown"],
+    "stars": 3269
+  },
+  {
     "name": "EverMemOS",
     "repo": "EverMind-AI/EverMemOS",
     "description": "Long-term memory for 24/7 AI agents across LLMs and platforms.",
@@ -180,6 +189,15 @@
     "maintainer": "TeleAI-UAGI",
     "tags": ["semantic-dedup", "multimodal", "high-performance"],
     "stars": 440
+  },
+  {
+    "name": "MemSkill",
+    "repo": "ViktorAxelsen/MemSkill",
+    "description": "Learning and evolving memory skills for self-evolving agents. Meta-memory that determines what to extract, remember, and forget.",
+    "category": "memory",
+    "maintainer": "ViktorAxelsen",
+    "tags": ["meta-memory", "skill-evolution", "self-evolving"],
+    "stars": 390
   },
   {
     "name": "Aetherius",
@@ -245,6 +263,15 @@
     "stars": 45322
   },
   {
+    "name": "DSPy",
+    "repo": "stanfordnlp/dspy",
+    "description": "Compiling declarative language model calls into state-of-the-art pipelines. Programming -- not prompting -- foundation models.",
+    "category": "multi-agent",
+    "maintainer": "stanfordnlp",
+    "tags": ["compiler", "pipeline", "stanford"],
+    "stars": 33413
+  },
+  {
     "name": "LangGraph",
     "repo": "langchain-ai/langgraph",
     "description": "Build resilient language agents as graphs. Low-level orchestration framework for stateful agents with durable execution.",
@@ -254,15 +281,6 @@
     "stars": 28158
   },
   {
-    "name": "DSPy",
-    "repo": "stanfordnlp/dspy",
-    "description": "Compiling declarative language model calls into state-of-the-art pipelines. Programming -- not prompting -- foundation models.",
-    "category": "multi-agent",
-    "maintainer": "stanfordnlp",
-    "tags": ["compiler", "pipeline", "stanford"],
-    "stars": 25000
-  },
-  {
     "name": "Haystack",
     "repo": "deepset-ai/haystack",
     "description": "Open-source AI orchestration framework for building production-ready LLM applications with modular pipelines and agent workflows.",
@@ -270,6 +288,15 @@
     "maintainer": "deepset-ai",
     "tags": ["pipelines", "rag", "production-ready"],
     "stars": 24418
+  },
+  {
+    "name": "AgentScope",
+    "repo": "agentscope-ai/agentscope",
+    "description": "Build and run agents you can see, understand and trust. Production-ready framework with ReAct, memory, planning, and A2A support.",
+    "category": "multi-agent",
+    "maintainer": "agentscope-ai",
+    "tags": ["trustworthy", "production-ready", "a2a"],
+    "stars": 22714
   },
   {
     "name": "Mastra",
@@ -362,6 +389,15 @@
     "stars": 5635
   },
   {
+    "name": "Open Multi-Agent",
+    "repo": "JackChen-me/open-multi-agent",
+    "description": "TypeScript multi-agent orchestration via single runTeam() call. Auto-decomposes goals into task DAGs and runs agents in parallel.",
+    "category": "multi-agent",
+    "maintainer": "JackChen-me",
+    "tags": ["typescript", "dag", "parallel"],
+    "stars": 4870
+  },
+  {
     "name": "Agency Swarm",
     "repo": "VRSEN/agency-swarm",
     "description": "Reliable Multi-Agent Orchestration Framework for building agent teams.",
@@ -371,6 +407,15 @@
     "stars": 4026
   },
   {
+    "name": "HiClaw",
+    "repo": "agentscope-ai/HiClaw",
+    "description": "Collaborative Multi-Agent OS with Manager-Workers architecture. Human-in-the-loop task coordination with enterprise-grade security.",
+    "category": "multi-agent",
+    "maintainer": "agentscope-ai",
+    "tags": ["collaborative", "human-in-the-loop", "enterprise"],
+    "stars": 3715
+  },
+  {
     "name": "AFlow",
     "repo": "geekan/AFlow",
     "description": "Automating agentic workflow generation. Automatically designs optimal multi-agent workflows for given tasks.",
@@ -378,6 +423,15 @@
     "maintainer": "geekan",
     "tags": ["workflow-automation", "auto-design", "optimization"],
     "stars": 1500
+  },
+  {
+    "name": "Google A2A",
+    "repo": "google/A2A",
+    "description": "Google's open Agent-to-Agent protocol. Enables agent discovery, secure collaboration, and long-running tasks while preserving agent opacity.",
+    "category": "protocols",
+    "maintainer": "google",
+    "tags": ["a2a", "google", "standard"],
+    "stars": 23000
   },
   {
     "name": "mcp-use",
@@ -479,6 +533,15 @@
     "stars": 17807
   },
   {
+    "name": "CoPaw",
+    "repo": "agentscope-ai/CoPaw",
+    "description": "Co Personal Agent Workstation built on AgentScope. Desktop agent platform with multi-agent collaboration and tool integration.",
+    "category": "platforms",
+    "maintainer": "agentscope-ai",
+    "tags": ["desktop", "personal-agent", "workstation"],
+    "stars": 14487
+  },
+  {
     "name": "OpenFang",
     "repo": "RightNow-AI/openfang",
     "description": "Open-source Agent Operating System for deploying and managing AI agents.",
@@ -533,6 +596,24 @@
     "stars": 2129
   },
   {
+    "name": "Claude Code",
+    "repo": "anthropics/claude-code",
+    "description": "Terminal-native agentic coding tool from Anthropic. Understands your codebase and executes tasks through natural language.",
+    "category": "coding",
+    "maintainer": "anthropics",
+    "tags": ["terminal", "anthropic", "agentic"],
+    "stars": 109089
+  },
+  {
+    "name": "Codex",
+    "repo": "openai/codex",
+    "description": "Lightweight coding agent from OpenAI written in Rust. Runs locally as CLI, IDE extension, or desktop app.",
+    "category": "coding",
+    "maintainer": "openai",
+    "tags": ["rust", "openai", "local"],
+    "stars": 73262
+  },
+  {
     "name": "Aider",
     "repo": "Aider-AI/aider",
     "description": "AI pair programming in your terminal. Edit code with LLMs across 100+ languages with deep git integration.",
@@ -579,6 +660,15 @@
     "paper": "https://arxiv.org/abs/2303.11366"
   },
   {
+    "name": "Promptfoo",
+    "repo": "promptfoo/promptfoo",
+    "description": "Open-source LLM evaluation and red-teaming framework. Test prompts, agents, and RAGs with 90+ model providers and 67+ security plugins.",
+    "category": "prompt-optimization",
+    "maintainer": "promptfoo",
+    "tags": ["evaluation", "red-teaming", "testing"],
+    "stars": 19493
+  },
+  {
     "name": "TextGrad",
     "repo": "zou-group/textgrad",
     "description": "Automatic differentiation via text. Backpropagation through LLM-provided textual gradients, published in Nature.",
@@ -598,6 +688,24 @@
     "stars": 5906
   },
   {
+    "name": "Agent Guardrail",
+    "repo": "eren-solutions/agent-guardrail",
+    "description": "Action-level governance for AI agents. Policy engine, spend caps, kill switches, flight recorder, and approval gates.",
+    "category": "safety",
+    "maintainer": "eren-solutions",
+    "tags": ["action-governance", "policy-engine", "audit"],
+    "stars": 200
+  },
+  {
+    "name": "Vigil",
+    "repo": "hexitlabs/vigil",
+    "description": "TypeScript agent guardrail with <2ms latency and zero dependencies. Validates agent actions against 22 security rules.",
+    "category": "safety",
+    "maintainer": "hexitlabs",
+    "tags": ["typescript", "low-latency", "action-validation"],
+    "stars": 150
+  },
+  {
     "name": "Open-AutoGLM",
     "repo": "zai-org/Open-AutoGLM",
     "description": "An Open Phone Agent Model and Framework. Unlocking the AI Phone for Everyone.",
@@ -605,6 +713,15 @@
     "maintainer": "zai-org",
     "tags": ["phone", "mobile", "automate"],
     "stars": 24074
+  },
+  {
+    "name": "LeRobot",
+    "repo": "huggingface/lerobot",
+    "description": "Open-source robotics framework by Hugging Face. Models, datasets, and tools for real-world robotics in PyTorch with hardware-agnostic interface.",
+    "category": "embodied",
+    "maintainer": "huggingface",
+    "tags": ["robotics", "pytorch", "hugging-face"],
+    "stars": 22892
   },
   {
     "name": "XcodeBuildMCP",
