@@ -10,7 +10,7 @@
       "agent-os",
       "evolution"
     ],
-    "stars": 18106
+    "stars": 18127
   },
   {
     "name": "SuperAGI",
@@ -23,7 +23,7 @@
       "self-improvement",
       "dev-tools"
     ],
-    "stars": 17424
+    "stars": 17428
   },
   {
     "name": "Agent Zero",
@@ -36,7 +36,7 @@
       "general-purpose",
       "learning"
     ],
-    "stars": 16785
+    "stars": 16825
   },
   {
     "name": "OpenEvolve",
@@ -49,7 +49,7 @@
       "alphaevolve",
       "open-source"
     ],
-    "stars": 5865
+    "stars": 5883
   },
   {
     "name": "Agents (aiwaves)",
@@ -75,7 +75,7 @@
       "prompt-optimization",
       "automated"
     ],
-    "stars": 2703
+    "stars": 2710
   },
   {
     "name": "HyperAgents",
@@ -88,7 +88,7 @@
       "self-improving",
       "meta-research"
     ],
-    "stars": 2152
+    "stars": 2164
   },
   {
     "name": "evolver",
@@ -101,7 +101,7 @@
       "self-evolution",
       "genome"
     ],
-    "stars": 1833
+    "stars": 1835
   },
   {
     "name": "Agent0",
@@ -142,7 +142,7 @@
       "autonomous-evolution",
       "self-modifying"
     ],
-    "stars": 470
+    "stars": 479
   },
   {
     "name": "A-Evolve",
@@ -155,7 +155,7 @@
       "domain-agnostic",
       "benchmark-leader"
     ],
-    "stars": 441
+    "stars": 448
   },
   {
     "name": "Alita",
@@ -194,7 +194,7 @@
       "scalable",
       "personalized"
     ],
-    "stars": 52067,
+    "stars": 52174,
     "paper": "https://arxiv.org/abs/2504.19413"
   },
   {
@@ -208,7 +208,7 @@
       "self-editing",
       "memgpt"
     ],
-    "stars": 21919
+    "stars": 21927
   },
   {
     "name": "Cognee",
@@ -221,7 +221,7 @@
       "unstructured-data",
       "ai-memory"
     ],
-    "stars": 14971
+    "stars": 15002
   },
   {
     "name": "Memvid",
@@ -234,7 +234,7 @@
       "serverless",
       "low-latency"
     ],
-    "stars": 14432
+    "stars": 14622
   },
   {
     "name": "memU",
@@ -247,7 +247,7 @@
       "persistent",
       "cross-platform"
     ],
-    "stars": 13313
+    "stars": 13325
   },
   {
     "name": "MemMachine",
@@ -260,7 +260,7 @@
       "episodic",
       "graph-based"
     ],
-    "stars": 5356
+    "stars": 5358
   },
   {
     "name": "EverMemOS",
@@ -273,7 +273,7 @@
       "cross-platform",
       "persistent"
     ],
-    "stars": 3600
+    "stars": 3653
   },
   {
     "name": "Acontext",
@@ -286,7 +286,7 @@
       "auto-learning",
       "reusable"
     ],
-    "stars": 3275
+    "stars": 3281
   },
   {
     "name": "ReMe",
@@ -299,7 +299,7 @@
       "vector-based",
       "benchmark-leader"
     ],
-    "stars": 2616
+    "stars": 2633
   },
   {
     "name": "mcp-memory-service",
@@ -312,7 +312,7 @@
       "knowledge-graph",
       "persistent-memory"
     ],
-    "stars": 1616
+    "stars": 1621
   },
   {
     "name": "A-MEM",
@@ -339,7 +339,7 @@
       "rollbackable",
       "mcp"
     ],
-    "stars": 915
+    "stars": 918
   },
   {
     "name": "Mem9",
@@ -352,7 +352,7 @@
       "cloud-sync",
       "agent-memory"
     ],
-    "stars": 875
+    "stars": 903
   },
   {
     "name": "Awesome-AI-Memory",
@@ -365,7 +365,7 @@
       "knowledge-base",
       "research"
     ],
-    "stars": 665
+    "stars": 678
   },
   {
     "name": "TeleMem",
@@ -392,7 +392,7 @@
       "skill-evolution",
       "self-evolving"
     ],
-    "stars": 393
+    "stars": 398
   },
   {
     "name": "Awesome-Agent-Memory",
@@ -405,7 +405,7 @@
       "benchmarks",
       "research"
     ],
-    "stars": 326
+    "stars": 329
   },
   {
     "name": "Google A2A",
@@ -418,7 +418,7 @@
       "google",
       "standard"
     ],
-    "stars": 23041
+    "stars": 23056
   },
   {
     "name": "mcp-use",
@@ -431,7 +431,7 @@
       "fullstack",
       "chatgpt"
     ],
-    "stars": 9684
+    "stars": 9688
   },
   {
     "name": "GEP MCP Server",
@@ -444,7 +444,7 @@
       "mcp",
       "evolution-tools"
     ],
-    "stars": 0
+    "stars": 1
   },
   {
     "name": "LangChain",
@@ -457,7 +457,7 @@
       "composable",
       "memory"
     ],
-    "stars": 132527
+    "stars": 132645
   },
   {
     "name": "OpenHands",
@@ -470,7 +470,7 @@
       "autonomous",
       "generalist"
     ],
-    "stars": 70672
+    "stars": 70746
   },
   {
     "name": "AgenticSeek",
@@ -483,7 +483,7 @@
       "autonomous",
       "no-api-keys"
     ],
-    "stars": 25824
+    "stars": 25835
   },
   {
     "name": "Coze Studio",
@@ -496,7 +496,7 @@
       "debugging",
       "deployment"
     ],
-    "stars": 20414
+    "stars": 20422
   },
   {
     "name": "Google ADK",
@@ -509,7 +509,7 @@
       "python",
       "deployment"
     ],
-    "stars": 18779
+    "stars": 18790
   },
   {
     "name": "Parlant",
@@ -522,7 +522,7 @@
       "context-engineering",
       "control-layer"
     ],
-    "stars": 17871
+    "stars": 17876
   },
   {
     "name": "OpenFang",
@@ -535,7 +535,7 @@
       "open-source",
       "deployment"
     ],
-    "stars": 16380
+    "stars": 16415
   },
   {
     "name": "PydanticAI",
@@ -548,7 +548,7 @@
       "structured-outputs",
       "pydantic"
     ],
-    "stars": 16124
+    "stars": 16154
   },
   {
     "name": "CoPaw",
@@ -561,7 +561,7 @@
       "personal-agent",
       "workstation"
     ],
-    "stars": 14534
+    "stars": 14662
   },
   {
     "name": "MS-Agent",
@@ -574,7 +574,7 @@
       "deep-research",
       "lightweight"
     ],
-    "stars": 4138
+    "stars": 4139
   },
   {
     "name": "Claude Code",
@@ -587,7 +587,7 @@
       "anthropic",
       "agentic"
     ],
-    "stars": 109738
+    "stars": 110455
   },
   {
     "name": "Codex",
@@ -600,7 +600,7 @@
       "OpenAI",
       "local"
     ],
-    "stars": 73430
+    "stars": 73646
   },
   {
     "name": "Aider",
@@ -613,7 +613,7 @@
       "terminal",
       "git-integration"
     ],
-    "stars": 42897
+    "stars": 42952
   },
   {
     "name": "Goose",
@@ -626,7 +626,7 @@
       "mcp",
       "autonomous"
     ],
-    "stars": 37767
+    "stars": 38716
   },
   {
     "name": "Roo Code",
@@ -639,7 +639,7 @@
       "dev-team",
       "specialized-agents"
     ],
-    "stars": 22998
+    "stars": 23016
   },
   {
     "name": "Devika",
@@ -665,7 +665,7 @@
       "swe-bench",
       "automated-fix"
     ],
-    "stars": 18933
+    "stars": 18942
   },
   {
     "name": "Plandex",
@@ -678,7 +678,7 @@
       "persistent-context",
       "complex-tasks"
     ],
-    "stars": 15213
+    "stars": 15212
   },
   {
     "name": "Trae Agent",
@@ -691,7 +691,7 @@
       "general-purpose",
       "software-engineering"
     ],
-    "stars": 11255
+    "stars": 11266
   },
   {
     "name": "Open SWE",
@@ -704,7 +704,7 @@
       "langchain",
       "open-source"
     ],
-    "stars": 9229
+    "stars": 9278
   },
   {
     "name": "Mini-SWE-Agent",
@@ -717,7 +717,7 @@
       "swe-bench",
       "lightweight"
     ],
-    "stars": 3682
+    "stars": 3697
   },
   {
     "name": "Reflexion",
@@ -744,7 +744,7 @@
       "red-teaming",
       "testing"
     ],
-    "stars": 19589
+    "stars": 19682
   },
   {
     "name": "TextGrad",
@@ -757,7 +757,7 @@
       "optimization",
       "nature-published"
     ],
-    "stars": 3470,
+    "stars": 3474,
     "paper": "https://arxiv.org/abs/2406.07496"
   },
   {
@@ -771,7 +771,7 @@
       "nvidia",
       "policy-engine"
     ],
-    "stars": 5931
+    "stars": 5934
   },
   {
     "name": "Open-AutoGLM",
@@ -784,7 +784,7 @@
       "mobile",
       "automate"
     ],
-    "stars": 24722
+    "stars": 24741
   },
   {
     "name": "LeRobot",
@@ -796,7 +796,7 @@
       "pytorch",
       "hugging-face"
     ],
-    "stars": 22970
+    "stars": 23007
   },
   {
     "name": "Nanobrowser",
@@ -809,7 +809,7 @@
       "web-automation",
       "chrome-extension"
     ],
-    "stars": 12628
+    "stars": 12640
   },
   {
     "name": "XcodeBuildMCP",
@@ -822,7 +822,7 @@
       "ios",
       "macos"
     ],
-    "stars": 5047
+    "stars": 5064
   },
   {
     "name": "Mobile MCP",
@@ -835,7 +835,7 @@
       "automation",
       "mcp"
     ],
-    "stars": 4390
+    "stars": 4409
   },
   {
     "name": "ROS-LLM",
@@ -848,7 +848,7 @@
       "robotics",
       "natural-language"
     ],
-    "stars": 765
+    "stars": 766
   },
   {
     "name": "Awesome-Self-Evolving-Agents",
@@ -861,6 +861,323 @@
       "research",
       "comprehensive"
     ],
-    "stars": 2033
+    "stars": 2036
+  },
+  {
+    "name": "dify",
+    "repo": "langgenius/dify",
+    "description": "Production-ready platform for building agentic AI workflows with visual orchestration.",
+    "category": "platforms",
+    "maintainer": "langgenius",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework"
+    ],
+    "stars": 136569
+  },
+  {
+    "name": "MetaGPT",
+    "repo": "FoundationAgents/MetaGPT",
+    "description": "Multi-agent framework that assigns roles to GPTs to form a collaborative software entity.",
+    "category": "multi-agent",
+    "maintainer": "FoundationAgents",
+    "tags": [
+      "agent",
+      "gpt",
+      "llm"
+    ],
+    "stars": 66760
+  },
+  {
+    "name": "autogen",
+    "repo": "microsoft/autogen",
+    "description": "Programming framework for building agentic AI systems with multi-agent conversations.",
+    "category": "multi-agent",
+    "maintainer": "microsoft",
+    "tags": [
+      "agentic",
+      "agentic-agi",
+      "agents"
+    ],
+    "stars": 56789
+  },
+  {
+    "name": "crewAI",
+    "repo": "crewAIInc/crewAI",
+    "description": "Framework for orchestrating role-playing autonomous AI agents for collaborative task execution.",
+    "category": "multi-agent",
+    "maintainer": "crewAIInc",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents"
+    ],
+    "stars": 48257
+  },
+  {
+    "name": "goose",
+    "repo": "aaif-goose/goose",
+    "description": "Open-source extensible AI coding agent that goes beyond code suggestions.",
+    "category": "coding",
+    "maintainer": "aaif-goose",
+    "tags": [
+      "acp",
+      "ai",
+      "ai-agents"
+    ],
+    "stars": 38717
+  },
+  {
+    "name": "langgraph",
+    "repo": "langchain-ai/langgraph",
+    "description": "Build resilient language agents as stateful graphs with persistence and streaming.",
+    "category": "platforms",
+    "maintainer": "langchain-ai",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents"
+    ],
+    "stars": 28624
+  },
+  {
+    "name": "haystack",
+    "repo": "deepset-ai/haystack",
+    "description": "Open-source AI orchestration framework for building context-engineered production applications.",
+    "category": "platforms",
+    "maintainer": "deepset-ai",
+    "tags": [
+      "agent",
+      "agents",
+      "ai"
+    ],
+    "stars": 24751
+  },
+  {
+    "name": "agentscope",
+    "repo": "agentscope-ai/agentscope",
+    "description": "Multi-agent platform for building agents you can see, understand and trust.",
+    "category": "multi-agent",
+    "maintainer": "agentscope-ai",
+    "tags": [
+      "agent",
+      "chatbot",
+      "large-language-models"
+    ],
+    "stars": 23114
+  },
+  {
+    "name": "mastra",
+    "repo": "mastra-ai/mastra",
+    "description": "TypeScript framework for building AI-powered applications with agent workflows and RAG.",
+    "category": "platforms",
+    "maintainer": "mastra-ai",
+    "tags": [
+      "agents",
+      "ai",
+      "chatbots"
+    ],
+    "stars": 22770
+  },
+  {
+    "name": "swarm",
+    "repo": "openai/swarm",
+    "description": "Educational framework exploring ergonomic lightweight multi-agent orchestration by OpenAI.",
+    "category": "multi-agent",
+    "maintainer": "openai",
+    "tags": [],
+    "stars": 21274
+  },
+  {
+    "name": "openai-agents-python",
+    "repo": "openai/openai-agents-python",
+    "description": "Lightweight framework for multi-agent workflows by OpenAI.",
+    "category": "multi-agent",
+    "maintainer": "openai",
+    "tags": [
+      "agents",
+      "ai",
+      "framework"
+    ],
+    "stars": 20627
+  },
+  {
+    "name": "camel",
+    "repo": "camel-ai/camel",
+    "description": "Multi-agent framework for finding the scaling law of agents through role-playing communication.",
+    "category": "multi-agent",
+    "maintainer": "camel-ai",
+    "tags": [
+      "agent",
+      "ai-societies",
+      "artificial-intelligence"
+    ],
+    "stars": 16622
+  },
+  {
+    "name": "ten-framework",
+    "repo": "TEN-framework/ten-framework",
+    "description": "Open-source framework for building conversational voice AI agents.",
+    "category": "platforms",
+    "maintainer": "TEN-framework",
+    "tags": [
+      "ai",
+      "multi-modal",
+      "real-time"
+    ],
+    "stars": 10402
+  },
+  {
+    "name": "agents",
+    "repo": "livekit/agents",
+    "description": "Framework for building realtime voice AI agents with speech-to-speech pipelines.",
+    "category": "platforms",
+    "maintainer": "livekit",
+    "tags": [
+      "agents",
+      "ai",
+      "openai"
+    ],
+    "stars": 9955
+  },
+  {
+    "name": "agent-framework",
+    "repo": "microsoft/agent-framework",
+    "description": "Framework for building, orchestrating and deploying AI agents and multi-agent systems.",
+    "category": "multi-agent",
+    "maintainer": "microsoft",
+    "tags": [
+      "agent-framework",
+      "agentic-ai",
+      "agents"
+    ],
+    "stars": 9078
+  },
+  {
+    "name": "agent-skills",
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills and best practices for AI coding agents.",
+    "category": "coding",
+    "maintainer": "addyosmani",
+    "tags": [
+      "agent-skills",
+      "antigravity",
+      "antigravity-ide"
+    ],
+    "stars": 7920
+  },
+  {
+    "name": "agent-squad",
+    "repo": "awslabs/agent-squad",
+    "description": "Flexible framework for managing multiple AI agents and handling complex conversations.",
+    "category": "multi-agent",
+    "maintainer": "awslabs",
+    "tags": [
+      "agentic-ai",
+      "agents",
+      "ai-agents"
+    ],
+    "stars": 7557
+  },
+  {
+    "name": "MindSearch",
+    "repo": "InternLM/MindSearch",
+    "description": "LLM-based multi-agent framework for web search engines with deep information seeking.",
+    "category": "multi-agent",
+    "maintainer": "InternLM",
+    "tags": [
+      "ai-search-engine",
+      "gpt",
+      "llm"
+    ],
+    "stars": 6832
+  },
+  {
+    "name": "PraisonAI",
+    "repo": "MervinPraison/PraisonAI",
+    "description": "AI employee team platform that automates and solves complex challenges with multi-agent collaboration.",
+    "category": "multi-agent",
+    "maintainer": "MervinPraison",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agent-framework"
+    ],
+    "stars": 6795
+  },
+  {
+    "name": "swarms",
+    "repo": "kyegomez/swarms",
+    "description": "Enterprise-grade production-ready multi-agent orchestration framework.",
+    "category": "multi-agent",
+    "maintainer": "kyegomez",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agents"
+    ],
+    "stars": 6199
+  },
+  {
+    "name": "open-multi-agent",
+    "repo": "JackChen-me/open-multi-agent",
+    "description": "TypeScript multi-agent framework with one function call from goal to result.",
+    "category": "multi-agent",
+    "maintainer": "JackChen-me",
+    "tags": [
+      "agent-framework",
+      "ai-agents",
+      "anthropic"
+    ],
+    "stars": 5300
+  },
+  {
+    "name": "agency-swarm",
+    "repo": "VRSEN/agency-swarm",
+    "description": "Reliable multi-agent orchestration framework for building AI agent swarms.",
+    "category": "multi-agent",
+    "maintainer": "VRSEN",
+    "tags": [],
+    "stars": 4150
+  },
+  {
+    "name": "BotSharp",
+    "repo": "SciSharp/BotSharp",
+    "description": "AI multi-agent framework built on .NET for enterprise conversational applications.",
+    "category": "multi-agent",
+    "maintainer": "SciSharp",
+    "tags": [
+      "ai-agent",
+      "chatbot",
+      "multi-agent"
+    ],
+    "stars": 3038
+  },
+  {
+    "name": "LLMStack",
+    "repo": "trypromptly/LLMStack",
+    "description": "No-code multi-agent framework for building LLM agent workflows and applications.",
+    "category": "multi-agent",
+    "maintainer": "trypromptly",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents-framework"
+    ],
+    "stars": 2295
+  },
+  {
+    "name": "agentUniverse",
+    "repo": "agentuniverse-ai/agentUniverse",
+    "description": "LLM multi-agent framework for building, customizing and running collaborative agents.",
+    "category": "multi-agent",
+    "maintainer": "agentuniverse-ai",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents"
+    ],
+    "stars": 2187
   }
 ]

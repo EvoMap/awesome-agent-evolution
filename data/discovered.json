@@ -4309,5 +4309,620 @@
     "topics": [],
     "status": "rejected",
     "discoveredAt": "2026-04-06"
+  },
+  {
+    "repo": "langgenius/dify",
+    "description": "Production-ready platform for building agentic AI workflows with visual orchestration.",
+    "stars": 136569,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai",
+      "gpt",
+      "gpt-4"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "description": "Multi-agent framework that assigns roles to GPTs to form a collaborative software entity.",
+    "stars": 66760,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "description": "Programming framework for building agentic AI systems with multi-agent conversations.",
+    "stars": 56789,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agentic",
+      "agentic-agi",
+      "agents",
+      "ai",
+      "autogen",
+      "autogen-ecosystem",
+      "chatgpt",
+      "framework",
+      "llm-agent",
+      "llm-framework"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "description": "Framework for orchestrating role-playing autonomous AI agents for collaborative task execution.",
+    "stars": 48257,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "llms"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "aaif-goose/goose",
+    "description": "Open-source extensible AI coding agent that goes beyond code suggestions.",
+    "stars": 38717,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "acp",
+      "ai",
+      "ai-agents",
+      "mcp"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "description": "Build resilient language agents as stateful graphs with persistence and streaming.",
+    "stars": 28624,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "description": "Open-source AI orchestration framework for building context-engineered production applications.",
+    "stars": 24751,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "memory",
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "gemini",
+      "generative-ai",
+      "gpt-4",
+      "information-retrieval",
+      "large-language-models",
+      "llm",
+      "machine-learning"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "agentscope-ai/agentscope",
+    "description": "Multi-agent platform for building agents you can see, understand and trust.",
+    "stars": 23114,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "chatbot",
+      "large-language-models",
+      "llm",
+      "llm-agent",
+      "mcp",
+      "multi-agent",
+      "multi-modal",
+      "react-agent"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "mastra-ai/mastra",
+    "description": "TypeScript framework for building AI-powered applications with agent workflows and RAG.",
+    "stars": 22770,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "chatbots",
+      "evals",
+      "javascript",
+      "llm",
+      "mcp",
+      "nextjs",
+      "nodejs",
+      "reactjs"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "openai/swarm",
+    "description": "Educational framework exploring ergonomic lightweight multi-agent orchestration by OpenAI.",
+    "stars": 21274,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "description": "Lightweight framework for multi-agent workflows by OpenAI.",
+    "stars": 20627,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "framework",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "camel-ai/camel",
+    "description": "Multi-agent framework for finding the scaling law of agents through role-playing communication.",
+    "stars": 16622,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "ai-societies",
+      "artificial-intelligence",
+      "communicative-ai",
+      "cooperative-ai",
+      "deep-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "natural-language-processing"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "description": "An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face",
+    "stars": 13295,
+    "suggestedCategory": "safety",
+    "allMatchedCategories": [
+      "safety"
+    ],
+    "topics": [
+      "agent",
+      "agent-skill",
+      "agentic-ai",
+      "ai-gateway",
+      "auth",
+      "authentication",
+      "guardrails",
+      "iam",
+      "mcp",
+      "mcp-gateway"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "TEN-framework/ten-framework",
+    "description": "Open-source framework for building conversational voice AI agents.",
+    "stars": 10402,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "ai",
+      "multi-modal",
+      "real-time",
+      "video",
+      "voice"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "livekit/agents",
+    "description": "Framework for building realtime voice AI agents with speech-to-speech pipelines.",
+    "stars": 9955,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "openai",
+      "real-time",
+      "video",
+      "voice"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "microsoft/agent-framework",
+    "description": "Framework for building, orchestrating and deploying AI agents and multi-agent systems.",
+    "stars": 9078,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [
+      "agent-framework",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "dotnet",
+      "multi-agent",
+      "orchestration",
+      "python",
+      "sdk",
+      "workflows"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills and best practices for AI coding agents.",
+    "stars": 7920,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "antigravity-ide",
+      "claude-code",
+      "cursor",
+      "skills"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "awslabs/agent-squad",
+    "description": "Flexible framework for managing multiple AI agents and handling complex conversations.",
+    "stars": 7557,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "ai-agents-framework",
+      "anthropic",
+      "anthropic-claude",
+      "aws",
+      "aws-bedrock",
+      "aws-cdk",
+      "aws-lambda"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "InternLM/MindSearch",
+    "description": "LLM-based multi-agent framework for web search engines with deep information seeking.",
+    "stars": 6832,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [
+      "ai-search-engine",
+      "gpt",
+      "llm",
+      "llms",
+      "multi-agent-systems",
+      "perplexity-ai",
+      "search",
+      "searchgpt",
+      "transformer",
+      "web-search"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "MervinPraison/PraisonAI",
+    "description": "AI employee team platform that automates and solves complex challenges with multi-agent collaboration.",
+    "stars": 6795,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "memory",
+      "multi-agent",
+      "platforms",
+      "safety"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agent-framework",
+      "ai-agent-sdk",
+      "ai-agents",
+      "ai-agents-framework",
+      "ai-agents-sdk",
+      "ai-framwork",
+      "aiagent",
+      "aiagentframework"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "kyegomez/swarms",
+    "description": "Enterprise-grade production-ready multi-agent orchestration framework.",
+    "stars": 6199,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "chatgpt",
+      "gpt4",
+      "gpt4all",
+      "huggingface",
+      "langchain"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "JackChen-me/open-multi-agent",
+    "description": "TypeScript multi-agent framework with one function call from goal to result.",
+    "stars": 5300,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "gemma4",
+      "llm",
+      "model-agnostic",
+      "multi-agent",
+      "nodejs",
+      "ollama"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "casibase/casibase",
+    "description": "⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch",
+    "stars": 4495,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "protocols",
+      "platforms"
+    ],
+    "topics": [
+      "a2a",
+      "agent",
+      "agi",
+      "casibase",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "gpt",
+      "huggingface"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "VRSEN/agency-swarm",
+    "description": "Reliable multi-agent orchestration framework for building AI agent swarms.",
+    "stars": 4150,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "panaversity/learn-agentic-ai",
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes",
+    "stars": 4054,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "a2a",
+      "agentic-ai",
+      "dapr",
+      "dapr-pub-sub",
+      "dapr-service-invocation",
+      "dapr-sidecar",
+      "dapr-workflow",
+      "docker",
+      "kafka",
+      "kubernetes"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "SciSharp/BotSharp",
+    "description": "AI multi-agent framework built on .NET for enterprise conversational applications.",
+    "stars": 3038,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai-agent",
+      "chatbot",
+      "multi-agent"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "trypromptly/LLMStack",
+    "description": "No-code multi-agent framework for building LLM agent workflows and applications.",
+    "stars": 2295,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents-framework",
+      "generative-ai",
+      "llm-agents",
+      "llm-chain",
+      "llm-framework",
+      "llmops",
+      "llms",
+      "no-code-ai"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "agentuniverse-ai/agentUniverse",
+    "description": "LLM multi-agent framework for building, customizing and running collaborative agents.",
+    "stars": 2187,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "autonomous",
+      "awesome",
+      "awesome-list",
+      "llm",
+      "multi-agent",
+      "python"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "themanojdesai/python-a2a",
+    "description": "Python A2A is a powerful, easy-to-use library for implementing Google's [Agent-to-Agent (A2A) protocol](https://google.github.io/A2A/). It enables seamless communication between AI agents, creating in",
+    "stars": 987,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "zubair-trabzada/ai-legal-claude",
+    "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to lear",
+    "stars": 639,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-07"
   }
 ]
