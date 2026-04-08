@@ -36,7 +36,7 @@
       "general-purpose",
       "learning"
     ],
-    "stars": 16840
+    "stars": 16839
   },
   {
     "name": "OpenEvolve",
@@ -194,7 +194,7 @@
       "scalable",
       "personalized"
     ],
-    "stars": 52249,
+    "stars": 52250,
     "paper": "https://arxiv.org/abs/2504.19413"
   },
   {
@@ -208,7 +208,7 @@
       "self-editing",
       "memgpt"
     ],
-    "stars": 21937
+    "stars": 21938
   },
   {
     "name": "Cognee",
@@ -221,7 +221,7 @@
       "unstructured-data",
       "ai-memory"
     ],
-    "stars": 15021
+    "stars": 15022
   },
   {
     "name": "Memvid",
@@ -234,7 +234,7 @@
       "serverless",
       "low-latency"
     ],
-    "stars": 14691
+    "stars": 14693
   },
   {
     "name": "memU",
@@ -260,7 +260,7 @@
       "episodic",
       "graph-based"
     ],
-    "stars": 5360
+    "stars": 5361
   },
   {
     "name": "EverMemOS",
@@ -299,7 +299,7 @@
       "vector-based",
       "benchmark-leader"
     ],
-    "stars": 2638
+    "stars": 2639
   },
   {
     "name": "mcp-memory-service",
@@ -339,7 +339,7 @@
       "rollbackable",
       "mcp"
     ],
-    "stars": 921
+    "stars": 922
   },
   {
     "name": "Mem9",
@@ -431,7 +431,7 @@
       "fullstack",
       "chatgpt"
     ],
-    "stars": 9690
+    "stars": 9692
   },
   {
     "name": "GEP MCP Server",
@@ -457,7 +457,7 @@
       "composable",
       "memory"
     ],
-    "stars": 132739
+    "stars": 132743
   },
   {
     "name": "OpenHands",
@@ -483,7 +483,7 @@
       "autonomous",
       "no-api-keys"
     ],
-    "stars": 25848
+    "stars": 25849
   },
   {
     "name": "Coze Studio",
@@ -496,7 +496,7 @@
       "debugging",
       "deployment"
     ],
-    "stars": 20437
+    "stars": 20436
   },
   {
     "name": "Google ADK",
@@ -535,7 +535,7 @@
       "open-source",
       "deployment"
     ],
-    "stars": 16436
+    "stars": 16435
   },
   {
     "name": "PydanticAI",
@@ -561,7 +561,7 @@
       "personal-agent",
       "workstation"
     ],
-    "stars": 14774
+    "stars": 14779
   },
   {
     "name": "MS-Agent",
@@ -587,7 +587,7 @@
       "anthropic",
       "agentic"
     ],
-    "stars": 110798
+    "stars": 110814
   },
   {
     "name": "Codex",
@@ -600,7 +600,7 @@
       "OpenAI",
       "local"
     ],
-    "stars": 73793
+    "stars": 73799
   },
   {
     "name": "Aider",
@@ -613,7 +613,7 @@
       "terminal",
       "git-integration"
     ],
-    "stars": 42980
+    "stars": 42981
   },
   {
     "name": "Goose",
@@ -626,7 +626,7 @@
       "mcp",
       "autonomous"
     ],
-    "stars": 39191
+    "stars": 39209
   },
   {
     "name": "Roo Code",
@@ -639,7 +639,7 @@
       "dev-team",
       "specialized-agents"
     ],
-    "stars": 23024
+    "stars": 23025
   },
   {
     "name": "Devika",
@@ -665,7 +665,7 @@
       "swe-bench",
       "automated-fix"
     ],
-    "stars": 18948
+    "stars": 18947
   },
   {
     "name": "Plandex",
@@ -691,7 +691,7 @@
       "general-purpose",
       "software-engineering"
     ],
-    "stars": 11276
+    "stars": 11277
   },
   {
     "name": "Open SWE",
@@ -704,7 +704,7 @@
       "langchain",
       "open-source"
     ],
-    "stars": 9299
+    "stars": 9301
   },
   {
     "name": "Mini-SWE-Agent",
@@ -796,7 +796,7 @@
       "pytorch",
       "hugging-face"
     ],
-    "stars": 23029
+    "stars": 23031
   },
   {
     "name": "Nanobrowser",
@@ -874,7 +874,7 @@
       "agentic-ai",
       "agentic-framework"
     ],
-    "stars": 136667
+    "stars": 136670
   },
   {
     "name": "MetaGPT",
@@ -900,7 +900,7 @@
       "agentic-agi",
       "agents"
     ],
-    "stars": 56805
+    "stars": 56808
   },
   {
     "name": "crewAI",
@@ -913,7 +913,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 48302
+    "stars": 48307
   },
   {
     "name": "goose",
@@ -926,7 +926,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 39191
+    "stars": 39209
   },
   {
     "name": "langgraph",
@@ -939,7 +939,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 28667
+    "stars": 28668
   },
   {
     "name": "haystack",
@@ -965,7 +965,7 @@
       "chatbot",
       "large-language-models"
     ],
-    "stars": 23144
+    "stars": 23147
   },
   {
     "name": "mastra",
@@ -978,7 +978,7 @@
       "ai",
       "chatbots"
     ],
-    "stars": 22782
+    "stars": 22783
   },
   {
     "name": "swarm",
@@ -1000,7 +1000,7 @@
       "ai",
       "framework"
     ],
-    "stars": 20641
+    "stars": 20642
   },
   {
     "name": "camel",
@@ -1052,7 +1052,7 @@
       "agentic-ai",
       "agents"
     ],
-    "stars": 9117
+    "stars": 9120
   },
   {
     "name": "agent-skills",
@@ -1065,7 +1065,7 @@
       "antigravity",
       "antigravity-ide"
     ],
-    "stars": 8684
+    "stars": 8703
   },
   {
     "name": "agent-squad",
@@ -1130,7 +1130,7 @@
       "ai-agents",
       "anthropic"
     ],
-    "stars": 5353
+    "stars": 5354
   },
   {
     "name": "agency-swarm",
@@ -1191,6 +1191,6 @@
       "ai-agent",
       "ai-gateway"
     ],
-    "stars": 2185
+    "stars": 2187
   }
 ]
