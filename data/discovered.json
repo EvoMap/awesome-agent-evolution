@@ -4924,5 +4924,73 @@
     "topics": [],
     "status": "rejected",
     "discoveredAt": "2026-04-07"
+  },
+  {
+    "repo": "nextlevelbuilder/goclaw",
+    "description": "OpenClaw rebuilt in Go with multi-tenant isolation, 5-layer security, and native concurrency for deploying AI agent teams at scale.",
+    "stars": 2185,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent-orchestration",
+      "ai-agent",
+      "ai-gateway",
+      "anthropic",
+      "chatbot",
+      "discord-bot",
+      "golang",
+      "llm",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-08",
+    "name": "GoClaw"
+  },
+  {
+    "repo": "brokermr810/QuantDinger",
+    "description": "Open-source AI-driven quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.",
+    "stars": 1099,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "ai-trading",
+      "algorithmic-trading",
+      "backtesting",
+      "binance",
+      "bitcoin",
+      "bitget",
+      "bybit",
+      "cryptocurrency",
+      "deep-learning",
+      "ethereum"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-08"
+  },
+  {
+    "repo": "VoltAgent/awesome-ai-agent-papers",
+    "description": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.",
+    "stars": 502,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "llm",
+      "llm-agents",
+      "memory",
+      "rag",
+      "research-paper"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-08"
   }
 ]
