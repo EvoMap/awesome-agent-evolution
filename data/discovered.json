@@ -4992,5 +4992,30 @@
     ],
     "status": "rejected",
     "discoveredAt": "2026-04-08"
+  },
+  {
+    "repo": "sunbigfly/ppt-agent-skills",
+    "description": "A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。",
+    "stars": 510,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-09"
+  },
+  {
+    "repo": "phodal/routa",
+    "description": "Build Your Agent Team for Real-World AI Development - Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across w",
+    "stars": 502,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-09"
   }
 ]
