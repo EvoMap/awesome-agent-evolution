@@ -5017,5 +5017,51 @@
     "topics": [],
     "status": "rejected",
     "discoveredAt": "2026-04-09"
+  },
+  {
+    "repo": "memgraph/memgraph",
+    "description": "High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.",
+    "stars": 3885,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "context-graph",
+      "cypher",
+      "enterprise-context",
+      "graph",
+      "graph-algorithms",
+      "graph-analysis",
+      "graph-database"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-10"
+  },
+  {
+    "repo": "codefuse-ai/codefuse-chatbot",
+    "description": "An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG,  etc.",
+    "stars": 1285,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "aiops",
+      "chatbot",
+      "code-repo-analysis",
+      "code-repo-generation",
+      "devops",
+      "gpt",
+      "knowledge-graph",
+      "langchain",
+      "multi-agent",
+      "rag"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-10"
   }
 ]
