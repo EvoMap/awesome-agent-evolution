@@ -5063,5 +5063,160 @@
     ],
     "status": "rejected",
     "discoveredAt": "2026-04-10"
+  },
+  {
+    "repo": "NirDiamant/GenAI_Agents",
+    "description": "Comprehensive tutorials and implementations covering 50+ generative AI agent techniques from basic to advanced.",
+    "stars": 21153,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "genai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "llms",
+      "multi-agent",
+      "openai"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-12",
+    "name": "GenAI Agents"
+  },
+  {
+    "repo": "PySpur-Dev/pyspur",
+    "description": "Visual playground for agentic workflows with rapid iteration on multi-agent pipelines.",
+    "stars": 5706,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "builder",
+      "deepseek",
+      "framework",
+      "gemini",
+      "graph",
+      "human-in-the-loop",
+      "llm"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-12",
+    "name": "PySpur"
+  },
+  {
+    "repo": "AgriciDaniel/claude-ads",
+    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 225+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Search Ads with weighted scoring, parallel agen",
+    "stars": 2233,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "ai",
+      "ai-marketing",
+      "claude-code",
+      "claude-code-skill",
+      "marketing-automation",
+      "open-source"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-12"
+  },
+  {
+    "repo": "rcortx/kiwiq",
+    "description": "Production-grade multi-agent orchestration platform - JSON-defined agents, multi-tier memory, and built-in observability. Battle-tested on 200+ enterprise AI agents. Now fully open-sourced (prod at ht",
+    "stars": 983,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent",
+      "platforms"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-12"
+  },
+  {
+    "repo": "Haohao-end/openagent",
+    "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangC",
+    "stars": 732,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "aiagent",
+      "celery",
+      "deepseek",
+      "docker",
+      "faiss-vector-database",
+      "flask",
+      "langchain",
+      "langgraph"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-12"
+  },
+  {
+    "repo": "markdown-viewer/skills",
+    "description": "Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in Markdown. These skills extend agent capabilities across diagram generation, data visualization, and t",
+    "stars": 567,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-12"
+  },
+  {
+    "repo": "SafeRL-Lab/cheetahclaws",
+    "description": "CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Python-Native Personal AI Assistant for Any Model, Inspired by OpenClaw and Claude Code, Built to Work for You Autonomously 24/7.",
+    "stars": 510,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "claude",
+      "claude-code",
+      "memory",
+      "openclaw",
+      "python",
+      "skills"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-12"
+  },
+  {
+    "repo": "24kchengYe/MemoMind",
+    "description": "Give your AI agent a brain that remembers. Local memory system for Claude Code — 100% private, GPU-accelerated, zero cloud dependency.",
+    "stars": 509,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent-memory",
+      "ai",
+      "claude-code",
+      "llm",
+      "local-first",
+      "mcp",
+      "memory"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-12"
   }
 ]
