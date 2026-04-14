@@ -5218,5 +5218,118 @@
     ],
     "status": "rejected",
     "discoveredAt": "2026-04-12"
+  },
+  {
+    "repo": "zhayujie/CowAgent",
+    "description": "Super AI assistant based on LLMs with autonomous thinking, task planning, skill creation, and long-term memory.",
+    "stars": 43103,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt-on-wechat",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-14"
+  },
+  {
+    "repo": "plastic-labs/honcho",
+    "description": "Memory library for building stateful agents with user context management.",
+    "stars": 2304,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent-memory",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "context-engineering",
+      "continual-learning",
+      "embeddings",
+      "fastapi",
+      "langchain"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-14"
+  },
+  {
+    "repo": "holaboss-ai/holaOS",
+    "description": "Agent environment for long-horizon work, continuity, and self-evolution.",
+    "stars": 2222,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "agent-harness",
+      "agent-runtime",
+      "agentic",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "artificial-intelligence",
+      "electron",
+      "holaboss"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-14"
+  },
+  {
+    "repo": "Marktechpost/AI-Agents-Projects-Tutorials",
+    "description": "Multi-agent systems, memory, planning, reasoning loops",
+    "stars": 2211,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "agentic-ai-development",
+      "agentic-coding",
+      "agentic-engineering",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "ai",
+      "aiagent"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-14"
+  },
+  {
+    "repo": "aegra/aegra",
+    "description": "Open source alternative to LangGraph Platform (now LangSmith Deployments) - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure.",
+    "stars": 781,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "fastapi",
+      "langchain",
+      "langggraph",
+      "langgraph-agents",
+      "langgraph-platform-alternative",
+      "opensource-langgraph-platform",
+      "postgres",
+      "python"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-14"
   }
 ]
