@@ -5331,5 +5331,24 @@
     ],
     "status": "rejected",
     "discoveredAt": "2026-04-14"
+  },
+  {
+    "repo": "GeminiLight/MindOS",
+    "description": "MindOS is a Human-AI Collaborative Mind System, where human thinks and agents act. Globally sync your mind for all agents: transparent, controllable, and evolving symbiotically.",
+    "stars": 503,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "context",
+      "knowledge-base",
+      "mcp",
+      "memory",
+      "skill"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-15"
   }
 ]
