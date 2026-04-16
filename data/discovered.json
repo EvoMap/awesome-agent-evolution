@@ -5350,5 +5350,45 @@
     ],
     "status": "rejected",
     "discoveredAt": "2026-04-15"
+  },
+  {
+    "repo": "AprilNEA/AChat",
+    "description": "🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.",
+    "stars": 3258,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "chat",
+      "chatbot",
+      "claude",
+      "deepseek",
+      "enterprise-solutions",
+      "gemini",
+      "llm-client",
+      "openai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-16"
+  },
+  {
+    "repo": "chriswritescode-dev/opencode-manager",
+    "description": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, ",
+    "stars": 500,
+    "suggestedCategory": "embodied",
+    "allMatchedCategories": [
+      "embodied"
+    ],
+    "topics": [
+      "agent",
+      "javascript",
+      "mobile",
+      "web"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-16"
   }
 ]
