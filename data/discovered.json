@@ -5390,5 +5390,117 @@
     ],
     "status": "rejected",
     "discoveredAt": "2026-04-16"
+  },
+  {
+    "repo": "Leonxlnx/taste-skill",
+    "description": "High-Agency frontend skill that helps AI generate less generic, more tasteful outputs.",
+    "stars": 9999,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "coding",
+      "lowcode",
+      "nocode",
+      "skill",
+      "skills",
+      "vibecoding"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-19",
+    "name": "Taste-Skill"
+  },
+  {
+    "repo": "2FastLabs/agent-squad",
+    "description": "Flexible framework for managing multiple AI agents and handling complex conversations.",
+    "stars": 7578,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai-agents",
+      "ai-agents-framework",
+      "anthropic",
+      "anthropic-claude",
+      "aws",
+      "aws-bedrock",
+      "aws-cdk",
+      "aws-lambda"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-19",
+    "name": "Agent-Squad"
+  },
+  {
+    "repo": "ZHangZHengEric/Sage",
+    "description": "Multi-agent system framework for complex tasks.",
+    "stars": 1229,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "llm",
+      "manus",
+      "muilt-agents",
+      "workflow"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-19",
+    "name": "Sage"
+  },
+  {
+    "repo": "AMAP-ML/SkillClaw",
+    "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+    "stars": 730,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agent",
+      "collective-intelligence",
+      "continual-learning",
+      "hermes",
+      "llm",
+      "llms",
+      "openclaw",
+      "self-evolving"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-19"
+  },
+  {
+    "repo": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "stars": 550,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "ai-agent",
+      "autonomous-agent",
+      "claude-code",
+      "deep-learning",
+      "experiment-automation",
+      "gpu",
+      "hyperparameter-tuning",
+      "llm-agent",
+      "machine-learning",
+      "mlops"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-19"
   }
 ]
