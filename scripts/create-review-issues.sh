@@ -1,6 +1,17 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# DEPRECATED 2026-04-23 -- This script bulk-creates "We have included ..." notification
+# issues on external project authors. In practice this reads as bot spam and has caused
+# at least one public complaint (#4). Do NOT run again. If you need to notify an author,
+# open ONE targeted issue after real human review, or leave them alone. To override this
+# guard, export AAE_ALLOW_BULK_REVIEW_ISSUES=1, but reconsider first.
+if [ "${AAE_ALLOW_BULK_REVIEW_ISSUES:-0}" != "1" ]; then
+  echo "ERROR: create-review-issues.sh is deprecated (bulk notifications == spam)." >&2
+  echo "Set AAE_ALLOW_BULK_REVIEW_ISSUES=1 to force-run. See script header for context." >&2
+  exit 2
+fi
+
 REPO="EvoMap/awesome-agent-evolution"
 
 create_issue() {
