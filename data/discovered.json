@@ -5502,5 +5502,228 @@
     ],
     "status": "rejected",
     "discoveredAt": "2026-04-19"
+  },
+  {
+    "repo": "shanraisshan/claude-code-best-practice",
+    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "stars": 47899,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-engineering",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "best-practices",
+      "boris",
+      "claude"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-25"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur",
+    "stars": 40023,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "agent",
+      "agent-context",
+      "agent-memory",
+      "agentic",
+      "ai",
+      "cloud-native",
+      "database",
+      "distributed-database",
+      "distributed-transactions",
+      "go"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-25"
+  },
+  {
+    "repo": "GoogleCloudPlatform/generative-ai",
+    "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
+    "stars": 16714,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "agents",
+      "gcp",
+      "gemini",
+      "gemini-api",
+      "gen-ai",
+      "generative-ai",
+      "google",
+      "google-cloud",
+      "google-gemini",
+      "langchain"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-25"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "stars": 10384,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
+      "mcp",
+      "puppeteer",
+      "rendering",
+      "typescript"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-25"
+  },
+  {
+    "repo": "ChatLab/ChatLab",
+    "description": "Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。",
+    "stars": 6077,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai",
+      "chat-analysis",
+      "chat-history",
+      "data-analysis",
+      "data-visualization",
+      "electron",
+      "nlp",
+      "typescript"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-25",
+    "name": "ChatLab"
+  },
+  {
+    "repo": "golutra/golutra",
+    "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch",
+    "stars": 3289,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "agent",
+      "ai",
+      "automation",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "desktop-app",
+      "developer"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-25",
+    "name": "Golutra"
+  },
+  {
+    "repo": "punkpeye/vitemcp",
+    "description": "A TypeScript framework for building MCP servers.",
+    "stars": 3055,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "protocols"
+    ],
+    "topics": [
+      "mcp",
+      "sse"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-25",
+    "name": "ViteMCP"
+  },
+  {
+    "repo": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "stars": 2412,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [
+      "ai-agent",
+      "algorithmic-trading",
+      "backtesting",
+      "fintech",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "python",
+      "quantitative-finance",
+      "trading"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-25",
+    "name": "Vibe-Trading"
+  },
+  {
+    "repo": "Human-Agent-Society/CORAL",
+    "description": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch.",
+    "stars": 580,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agent-framework",
+      "alpha-evolve",
+      "alphaevolve",
+      "autoresearch",
+      "autoresearcher",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "large-language-models",
+      "llm-agents"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-25"
+  },
+  {
+    "repo": "openmemind/memind",
+    "description": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
+    "stars": 523,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-memory",
+      "context-engineering",
+      "java",
+      "memory",
+      "openclaw",
+      "spring-ai"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-25"
   }
 ]
