@@ -5725,5 +5725,153 @@
     ],
     "status": "rejected",
     "discoveredAt": "2026-04-25"
+  },
+  {
+    "repo": "agno-agi/agno",
+    "description": "Production-ready agent framework that turns agents into deployable services with multi-framework support.",
+    "stars": 39764,
+    "suggestedCategory": "platforms",
+    "allMatchedCategories": [
+      "platforms"
+    ],
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "python"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "mksglu/context-mode",
+    "description": "Context window optimization tool for AI coding agents with sandboxed tool output and 98% token reduction.",
+    "stars": 10960,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "codex",
+      "codex-cli",
+      "context-mode",
+      "copilot"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "the-open-agent/openagent",
+    "description": "Enterprise AI platform with MCP and A2A protocol management, knowledge base, and admin interface.",
+    "stars": 4513,
+    "suggestedCategory": "protocols",
+    "allMatchedCategories": [
+      "multi-agent",
+      "protocols",
+      "platforms"
+    ],
+    "topics": [
+      "a2a",
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agi",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "gpt"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "datachain-ai/datachain",
+    "description": "Operational data context layer for AI agents providing typed and versioned datasets over multimodal content.",
+    "stars": 2737,
+    "suggestedCategory": "memory",
+    "allMatchedCategories": [
+      "memory"
+    ],
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "data-context-layer",
+      "data-memory",
+      "data-processing",
+      "harness-engineering",
+      "knowledge-base",
+      "mlops",
+      "multimodal"
+    ],
+    "status": "added",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "future-agi/future-agi",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+    "stars": 710,
+    "suggestedCategory": "safety",
+    "allMatchedCategories": [
+      "safety"
+    ],
+    "topics": [
+      "ai",
+      "ai-gateway",
+      "evals",
+      "llm",
+      "observability",
+      "simulation"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "ciembor/agent-rules-books",
+    "description": "Ready-to-use Codex, Cursor, and Claude Code rules inspired by classic software engineering books.",
+    "stars": 668,
+    "suggestedCategory": "coding",
+    "allMatchedCategories": [
+      "coding"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "YeQing17-2026/OmniAgent",
+    "description": "An agent capable of self-evolving and dynamically hardening security",
+    "stars": 573,
+    "suggestedCategory": "evolution",
+    "allMatchedCategories": [
+      "evolution"
+    ],
+    "topics": [
+      "agent",
+      "hermes",
+      "open-claw"
+    ],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
+  },
+  {
+    "repo": "gastownhall/gascity",
+    "description": "Orchestration-builder SDK for multi-agent coding workflows",
+    "stars": 517,
+    "suggestedCategory": "multi-agent",
+    "allMatchedCategories": [
+      "multi-agent"
+    ],
+    "topics": [],
+    "status": "rejected",
+    "discoveredAt": "2026-04-29"
   }
 ]
