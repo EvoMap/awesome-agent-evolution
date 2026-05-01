@@ -162,6 +162,7 @@ Projects focused on controlling agent actions, enforcing policies, and preventin
 
 <!-- AUTOGEN:safety -->
 - [**NeMo Guardrails**](https://github.com/NVIDIA/NeMo-Guardrails) - NVIDIA's toolkit for adding programmable guardrails to LLM conversational systems. Policy-based safety controls. by [@NVIDIA](https://github.com/NVIDIA) (6,052 stars)
+- [**Consensus Hardening Protocol**](https://github.com/zan-maker/consensus-hardening-protocol) - Decision-governance layer for multi-agent AI systems: foundation disclosure, adversarial attack defense, R0 gate, and EXPLORING→PROVISIONAL_LOCK→LOCKED workflow with auditable cross-model payload envelopes. by [@zan-maker](https://github.com/zan-maker)
 <!-- /AUTOGEN:safety -->
 
 ## Embodied AI
