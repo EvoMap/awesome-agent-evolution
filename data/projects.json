@@ -1313,7 +1313,7 @@
   {
     "name": "ChatLab",
     "repo": "ChatLab/ChatLab",
-    "description": "Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。",
+    "description": "Rediscover your social memories with local, AI-powered analysis. \u672c\u5730\u5316\u7684\u804a\u5929\u8bb0\u5f55\u5206\u6790\u5de5\u5177\uff0c\u901a\u8fc7 AI Agent \u56de\u987e\u4f60\u7684\u793e\u4ea4\u8bb0\u5fc6\u3002",
     "category": "memory",
     "maintainer": "ChatLab",
     "tags": [
@@ -1412,5 +1412,18 @@
       "codex"
     ],
     "stars": 2737
+  },
+  {
+    "name": "Consensus Hardening Protocol",
+    "repo": "zan-maker/consensus-hardening-protocol",
+    "description": "Decision-governance layer for multi-agent AI systems: foundation disclosure, adversarial attack defense, R0 gate, and EXPLORING\u2192PROVISIONAL_LOCK\u2192LOCKED workflow with auditable cross-model payload envelopes.",
+    "category": "safety",
+    "maintainer": "zan-maker",
+    "tags": [
+      "multi-agent",
+      "safety",
+      "open-source"
+    ],
+    "stars": 0
   }
 ]
