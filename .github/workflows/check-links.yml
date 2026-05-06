@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: read
+  issues: write
 
 jobs:
   check:
@@ -22,6 +23,15 @@ jobs:
           node-version: '24'
 
       - name: Check repository links
+        id: check
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LINK_ISSUES_OUT: ${{ runner.temp }}/link-issues.json
         run: node scripts/check-links.js
+
+      - name: Sync cleanup issue
+        if: always() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LINK_ISSUES_FILE: ${{ runner.temp }}/link-issues.json
+        run: node scripts/sync-link-cleanup-issue.js
