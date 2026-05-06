@@ -40,10 +40,10 @@
   },
   {
     "name": "OpenEvolve",
-    "repo": "codelion/openevolve",
+    "repo": "algorithmicsuperintelligence/openevolve",
     "description": "Open-source evolutionary coding agent inspired by AlphaEvolve. Evolves code solutions through LLM-driven mutation and selection.",
     "category": "evolution",
-    "maintainer": "codelion",
+    "maintainer": "algorithmicsuperintelligence",
     "tags": [
       "evolutionary-coding",
       "alphaevolve",
@@ -118,20 +118,6 @@
     "paper": "https://arxiv.org/abs/2511.16043"
   },
   {
-    "name": "Darwin Godel Machine",
-    "repo": "jennyzzt/darwin-godel-machine",
-    "description": "Open-ended evolution of self-improving agents. Agents that rewrite their own code to improve performance.",
-    "category": "evolution",
-    "maintainer": "jennyzzt",
-    "tags": [
-      "self-improving",
-      "code-rewriting",
-      "open-ended"
-    ],
-    "stars": 800,
-    "paper": "https://arxiv.org/abs/2505.22954"
-  },
-  {
     "name": "Ouroboros",
     "repo": "razzant/ouroboros",
     "description": "Self-creating AI agent that writes its own code and evolves autonomously. Completed 30+ evolution cycles in first 24 hours with zero human intervention.",
@@ -146,7 +132,7 @@
   },
   {
     "name": "A-Evolve",
-    "repo": "A-EVO-Lab/A-EVOLVE",
+    "repo": "A-EVO-Lab/a-evolve",
     "description": "The PyTorch for Agentic AI. Open-source infrastructure that evolves any agent across any domain with zero human intervention. #1 on MCP-Atlas (79.4%).",
     "category": "evolution",
     "maintainer": "A-EVO-Lab",
@@ -156,19 +142,6 @@
       "benchmark-leader"
     ],
     "stars": 530
-  },
-  {
-    "name": "Alita",
-    "repo": "alita-ai/alita",
-    "description": "Generalist Agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution.",
-    "category": "evolution",
-    "maintainer": "alita-ai",
-    "tags": [
-      "generalist",
-      "self-evolution",
-      "scalable"
-    ],
-    "stars": 400
   },
   {
     "name": "SEAgent",
@@ -264,7 +237,7 @@
   },
   {
     "name": "EverMemOS",
-    "repo": "EverMind-AI/EverMemOS",
+    "repo": "EverMind-AI/EverOS",
     "description": "Long-term memory for 24/7 AI agents across LLMs and platforms.",
     "category": "memory",
     "maintainer": "EverMind-AI",
@@ -313,20 +286,6 @@
       "persistent-memory"
     ],
     "stars": 1789
-  },
-  {
-    "name": "A-MEM",
-    "repo": "agentic-memory/a-mem",
-    "description": "Agentic Memory for LLM Agents. Self-organizing memory that autonomously manages what to remember and forget.",
-    "category": "memory",
-    "maintainer": "agentic-memory",
-    "tags": [
-      "agentic",
-      "self-organizing",
-      "autonomous"
-    ],
-    "stars": 1500,
-    "paper": "https://arxiv.org/abs/2502.12110"
   },
   {
     "name": "nocturne_memory",
@@ -409,10 +368,10 @@
   },
   {
     "name": "Google A2A",
-    "repo": "google/A2A",
+    "repo": "a2aproject/A2A",
     "description": "Google's open Agent-to-Agent protocol. Enables agent discovery, secure collaboration, and long-running tasks while preserving agent opacity.",
     "category": "protocols",
-    "maintainer": "google",
+    "maintainer": "a2aproject",
     "tags": [
       "a2a",
       "google",
@@ -461,10 +420,10 @@
   },
   {
     "name": "OpenHands",
-    "repo": "All-Hands-AI/OpenHands",
+    "repo": "OpenHands/OpenHands",
     "description": "Open platform for AI software developers as generalist agents. Autonomous coding, debugging, and deployment.",
     "category": "platforms",
-    "maintainer": "All-Hands-AI",
+    "maintainer": "OpenHands",
     "tags": [
       "coding-agent",
       "autonomous",
@@ -552,7 +511,7 @@
   },
   {
     "name": "CoPaw",
-    "repo": "agentscope-ai/CoPaw",
+    "repo": "agentscope-ai/QwenPaw",
     "description": "Co Personal Agent Workstation built on AgentScope. Desktop agent platform with multi-agent collaboration and tool integration.",
     "category": "platforms",
     "maintainer": "agentscope-ai",
@@ -614,19 +573,6 @@
       "git-integration"
     ],
     "stars": 44399
-  },
-  {
-    "name": "Goose",
-    "repo": "block/goose",
-    "description": "Open-source extensible AI agent that installs, executes, edits, and debugs code autonomously.",
-    "category": "coding",
-    "maintainer": "block",
-    "tags": [
-      "extensible",
-      "mcp",
-      "autonomous"
-    ],
-    "stars": 43887
   },
   {
     "name": "Roo Code",
@@ -762,10 +708,10 @@
   },
   {
     "name": "NeMo Guardrails",
-    "repo": "NVIDIA/NeMo-Guardrails",
+    "repo": "NVIDIA-NeMo/Guardrails",
     "description": "NVIDIA's toolkit for adding programmable guardrails to LLM conversational systems. Policy-based safety controls.",
     "category": "safety",
-    "maintainer": "NVIDIA",
+    "maintainer": "NVIDIA-NeMo",
     "tags": [
       "guardrails",
       "nvidia",
@@ -1068,19 +1014,6 @@
     "stars": 28956
   },
   {
-    "name": "agent-squad",
-    "repo": "awslabs/agent-squad",
-    "description": "Flexible framework for managing multiple AI agents and handling complex conversations.",
-    "category": "multi-agent",
-    "maintainer": "awslabs",
-    "tags": [
-      "agentic-ai",
-      "agents",
-      "ai-agents"
-    ],
-    "stars": 7608
-  },
-  {
     "name": "MindSearch",
     "repo": "InternLM/MindSearch",
     "description": "LLM-based multi-agent framework for web search engines with deep information seeking.",
@@ -1338,7 +1271,7 @@
   },
   {
     "name": "ViteMCP",
-    "repo": "punkpeye/vitemcp",
+    "repo": "punkpeye/fastmcp",
     "description": "A TypeScript framework for building MCP servers.",
     "category": "protocols",
     "maintainer": "punkpeye",
