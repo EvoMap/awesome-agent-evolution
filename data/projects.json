@@ -10,7 +10,7 @@
       "agent-os",
       "evolution"
     ],
-    "stars": 18315
+    "stars": 18316
   },
   {
     "name": "SuperAGI",
@@ -194,7 +194,7 @@
       "scalable",
       "personalized"
     ],
-    "stars": 54888,
+    "stars": 54891,
     "paper": "https://arxiv.org/abs/2504.19413"
   },
   {
@@ -273,7 +273,7 @@
       "cross-platform",
       "persistent"
     ],
-    "stars": 4432
+    "stars": 4433
   },
   {
     "name": "Acontext",
@@ -418,7 +418,7 @@
       "google",
       "standard"
     ],
-    "stars": 23616
+    "stars": 23617
   },
   {
     "name": "mcp-use",
@@ -457,7 +457,7 @@
       "composable",
       "memory"
     ],
-    "stars": 135906
+    "stars": 135908
   },
   {
     "name": "OpenHands",
@@ -587,7 +587,7 @@
       "anthropic",
       "agentic"
     ],
-    "stars": 120844
+    "stars": 120846
   },
   {
     "name": "Codex",
@@ -600,7 +600,7 @@
       "OpenAI",
       "local"
     ],
-    "stars": 80303
+    "stars": 80306
   },
   {
     "name": "Aider",
@@ -613,7 +613,7 @@
       "terminal",
       "git-integration"
     ],
-    "stars": 44398
+    "stars": 44399
   },
   {
     "name": "Goose",
@@ -639,7 +639,7 @@
       "dev-team",
       "specialized-agents"
     ],
-    "stars": 23889
+    "stars": 23891
   },
   {
     "name": "Devika",
@@ -691,7 +691,7 @@
       "general-purpose",
       "software-engineering"
     ],
-    "stars": 11473
+    "stars": 11474
   },
   {
     "name": "Open SWE",
@@ -784,7 +784,7 @@
       "mobile",
       "automate"
     ],
-    "stars": 25198
+    "stars": 25199
   },
   {
     "name": "LeRobot",
@@ -809,7 +809,7 @@
       "web-automation",
       "chrome-extension"
     ],
-    "stars": 12891
+    "stars": 12892
   },
   {
     "name": "XcodeBuildMCP",
@@ -874,7 +874,7 @@
       "agentic-ai",
       "agentic-framework"
     ],
-    "stars": 140271
+    "stars": 140275
   },
   {
     "name": "MetaGPT",
@@ -887,7 +887,7 @@
       "gpt",
       "llm"
     ],
-    "stars": 67726
+    "stars": 67727
   },
   {
     "name": "autogen",
@@ -939,7 +939,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 31308
+    "stars": 31309
   },
   {
     "name": "haystack",
@@ -978,7 +978,7 @@
       "ai",
       "chatbots"
     ],
-    "stars": 23604
+    "stars": 23605
   },
   {
     "name": "swarm",
@@ -1104,7 +1104,7 @@
       "ai",
       "ai-agent-framework"
     ],
-    "stars": 7064
+    "stars": 7065
   },
   {
     "name": "swarms",
@@ -1256,7 +1256,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 3272
+    "stars": 3273
   },
   {
     "name": "holaOS",
@@ -1359,7 +1359,7 @@
       "algorithmic-trading",
       "backtesting"
     ],
-    "stars": 5208
+    "stars": 5209
   },
   {
     "name": "agno",
@@ -1385,7 +1385,7 @@
       "claude",
       "claude-code"
     ],
-    "stars": 13434
+    "stars": 13438
   },
   {
     "name": "openagent",
