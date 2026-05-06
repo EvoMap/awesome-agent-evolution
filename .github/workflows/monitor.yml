@@ -30,5 +30,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/monitor-results.json
-          git diff --staged --quiet || git commit -m "chore: update monitor results $(date -u +%Y-%m-%d)"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update monitor results $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+          echo "push failed after 5 attempts" >&2
+          exit 1
