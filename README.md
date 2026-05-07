@@ -80,6 +80,7 @@ Vector, graph, episodic, and hybrid memory architectures for persistent agent co
 - [**MemSkill**](https://github.com/ViktorAxelsen/MemSkill) - Learning and evolving memory skills for self-evolving agents. Meta-memory that determines what to extract, remember, and forget. by [@ViktorAxelsen](https://github.com/ViktorAxelsen) (462 stars)
 - [**TeleMem**](https://github.com/TeleAI-UAGI/telemem) - High-performance drop-in Mem0 replacement. 19% higher accuracy, 43% fewer tokens, and 2.1x speedup via narrative dynamic extraction. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (454 stars)
 - [**Awesome-Agent-Memory**](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers on memory for LLMs/MLLMs -- long-term context, retrieval, and reasoning. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (394 stars)
+- [**Dakera**](https://github.com/Dakera-AI/dakera-mcp) - Persistent, decay-weighted vector memory MCP server for AI agents. 83 MCP tools for store, recall, hybrid BM25+vector search, knowledge graphs, and cross-agent memory sharing. Built in Rust. by [@Dakera-AI](https://github.com/Dakera-AI) (0 stars)
 <!-- /AUTOGEN:memory -->
 
 ## Agent-to-Agent Protocols
