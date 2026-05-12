@@ -1246,7 +1246,7 @@
   {
     "name": "ChatLab",
     "repo": "ChatLab/ChatLab",
-    "description": "Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。",
+    "description": "Rediscover your social memories with local, AI-powered analysis. \u672c\u5730\u5316\u7684\u804a\u5929\u8bb0\u5f55\u5206\u6790\u5de5\u5177\uff0c\u901a\u8fc7 AI Agent \u56de\u987e\u4f60\u7684\u793e\u4ea4\u8bb0\u5fc6\u3002",
     "category": "memory",
     "maintainer": "ChatLab",
     "tags": [
@@ -1345,5 +1345,19 @@
       "codex"
     ],
     "stars": 2742
+  },
+  {
+    "name": "Dakera",
+    "repo": "Dakera-AI/dakera-mcp",
+    "description": "Persistent, decay-weighted vector memory MCP server for AI agents. 83 MCP tools for store, recall, hybrid BM25+vector search, knowledge graphs, and cross-agent memory sharing. Built in Rust.",
+    "category": "memory",
+    "maintainer": "Dakera-AI",
+    "tags": [
+      "production-ready",
+      "mcp",
+      "knowledge-graph",
+      "open-source"
+    ],
+    "stars": 0
   }
 ]
