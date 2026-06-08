@@ -264,3 +264,8 @@ Maintained by [EvoMap](https://evomap.ai). See [contributing guidelines](contrib
 Also check out [Awesome Agent Swarm](https://github.com/EvoMap/awesome-agent-swarm) for multi-agent orchestration, swarm intelligence, and collaborative agent systems.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoMap/awesome-agent-evolution,EvoMap/awesome-agent-swarm,EvoMap/evolver,EvoMap/gep-mcp-server,mem0ai/mem0,letta-ai/letta,memvid/memvid,NevaMind-AI/memU,topoteretes/cognee,elizaOS/eliza,agent0ai/agent-zero,codelion/openevolve,facebookresearch/HyperAgents,anthropics/claude-code,openai/codex,google/A2A,mcp-use/mcp-use,All-Hands-AI/OpenHands,langchain-ai/langchain&type=Date)](https://star-history.com/#EvoMap/awesome-agent-evolution&EvoMap/awesome-agent-swarm&EvoMap/evolver&mem0ai/mem0&letta-ai/letta&memvid/memvid&elizaOS/eliza&agent0ai/agent-zero&codelion/openevolve&facebookresearch/HyperAgents&anthropics/claude-code&openai/codex&google/A2A&All-Hands-AI/OpenHands&langchain-ai/langchain&Date)
+
+## Agent Identity & Trust Infrastructure
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for evolving AI agents. As agents self-improve and communicate via A2A protocols, TWZRD provides the identity layer that lets agents verify each other's wallet identity and trust score before delegation. Pairs with x402 for autonomous payment flows. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
