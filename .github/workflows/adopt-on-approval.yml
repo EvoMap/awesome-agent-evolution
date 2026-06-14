@@ -1,0 +1,42 @@
+name: Adopt Approved Candidates
+
+# Companion to "Weekly Project Discovery". When someone edits data/discovered.json
+# on a discovery PR branch (e.g. flipping candidates to "approved"), this adopts
+# the approved ones into projects.json and regenerates README.md on the same
+# branch, so merging the PR is all it takes to publish the change.
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths:
+      - 'data/discovered.json'
+
+permissions:
+  contents: write
+
+jobs:
+  adopt:
+    if: startsWith(github.head_ref, 'auto/weekly-discovery')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Adopt approved candidates and regenerate README
+        run: |
+          node scripts/adopt-projects.js
+          node scripts/generate-readme.js
+
+      - name: Commit regenerated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/projects.json data/discovered.json README.md
+          git diff --staged --quiet || git commit -m "chore: adopt approved candidates + regenerate README"
+          git push

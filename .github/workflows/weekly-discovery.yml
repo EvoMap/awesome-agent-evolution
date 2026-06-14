@@ -1,0 +1,89 @@
+name: Weekly Project Discovery
+
+# Runs GitHub-side once a week, searches for new candidate projects, and (when
+# it finds any) pushes a dated branch plus a tracking issue with a one-click
+# link to open the review PR. Curation stays human: approve candidates in the
+# PR and the "Adopt Approved Candidates" workflow regenerates the README.
+#
+# NOTE: the EvoMap enterprise forbids GITHUB_TOKEN from creating pull requests,
+# so this opens an issue with a compare link instead of opening the PR directly.
+
+on:
+  schedule:
+    - cron: '0 8 * * 1' # Mondays 08:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Discover new projects
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/discover-projects.js
+
+      - name: Detect new candidates
+        id: check
+        run: |
+          if git diff --quiet -- data/discovered.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No new candidates this week."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Push discovery branch
+        if: steps.check.outputs.changed == 'true'
+        env:
+          BRANCH: auto/weekly-discovery-${{ steps.check.outputs.date }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add data/discovered.json
+          git commit -m "chore: weekly project discovery ${{ steps.check.outputs.date }}"
+          git push origin "HEAD:$BRANCH"
+
+      - name: Open review issue
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: auto/weekly-discovery-${{ steps.check.outputs.date }}
+          DATE: ${{ steps.check.outputs.date }}
+        run: |
+          node -e '
+            const fs = require("fs");
+            const d = require("./data/discovered.json");
+            const repo = process.env.GITHUB_REPOSITORY;
+            const branch = process.env.BRANCH;
+            const p = d.filter(x => x.status === "pending").sort((a, b) => b.stars - a.stars);
+            let b = "";
+            b += "Discovery found **" + p.length + "** new candidate(s) (>=500 stars, not already listed and not previously rejected).\n\n";
+            b += "### How to adopt\n";
+            b += "1. [**Open the review PR from `" + branch + "`**](https://github.com/" + repo + "/compare/main..." + branch + "?expand=1).\n";
+            b += "2. In that PR, edit `data/discovered.json` and set `\"status\": \"approved\"` on the candidates worth adding (tune `suggestedCategory`, `name`, or `description` to taste). Leave the rest `pending`.\n";
+            b += "3. Push your edit. The **Adopt Approved Candidates** workflow regenerates `README.md` on the PR branch.\n";
+            b += "4. Review the rendered diff and merge. Reject the rest by leaving them as-is.\n\n";
+            b += "Curation guidance: only add real, on-scope, reputable repos. Skip gamed star counts, marketing/meme repos, near-duplicates, and archived/dead projects.\n\n";
+            b += "### Candidates\n\n";
+            b += "| Stars | Suggested category | Repo | Description |\n|---:|---|---|---|\n";
+            for (const c of p) {
+              const desc = (c.description || "").replace(/\|/g, "/").replace(/\r?\n/g, " ").slice(0, 140);
+              b += "| " + c.stars.toLocaleString() + " | " + c.suggestedCategory + " | [" + c.repo + "](https://github.com/" + c.repo + ") | " + desc + " |\n";
+            }
+            fs.writeFileSync("issue-body.md", b);
+          '
+          gh issue create \
+            --title "🔭 Weekly discovery — $DATE" \
+            --body-file issue-body.md
