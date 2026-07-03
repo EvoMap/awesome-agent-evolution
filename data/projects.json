@@ -549,6 +549,19 @@
     "stars": 94795
   },
   {
+    "name": "Autohand Code",
+    "repo": "autohandai/code-cli",
+    "description": "Ultra-fast self-evolving coding agent that runs in your terminal.",
+    "category": "coding",
+    "maintainer": "autohandai",
+    "tags": [
+      "terminal",
+      "self-evolving",
+      "coding-agent"
+    ],
+    "stars": 140
+  },
+  {
     "name": "Aider",
     "repo": "Aider-AI/aider",
     "description": "AI pair programming in your terminal. Edit code with LLMs across 100+ languages with deep Git integration.",
