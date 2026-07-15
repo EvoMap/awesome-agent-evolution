@@ -10,7 +10,7 @@
       "agent-os",
       "evolution"
     ],
-    "stars": 18713
+    "stars": 18747
   },
   {
     "name": "SuperAGI",
@@ -23,7 +23,7 @@
       "self-improvement",
       "dev-tools"
     ],
-    "stars": 17609
+    "stars": 17620
   },
   {
     "name": "Agent Zero",
@@ -36,7 +36,7 @@
       "general-purpose",
       "learning"
     ],
-    "stars": 18362
+    "stars": 18429
   },
   {
     "name": "OpenEvolve",
@@ -49,7 +49,7 @@
       "alphaevolve",
       "open-source"
     ],
-    "stars": 6658
+    "stars": 6716
   },
   {
     "name": "Agents (aiwaves)",
@@ -62,7 +62,7 @@
       "autonomous",
       "data-centric"
     ],
-    "stars": 5938
+    "stars": 5943
   },
   {
     "name": "EvoAgentX",
@@ -75,7 +75,7 @@
       "prompt-optimization",
       "automated"
     ],
-    "stars": 3127
+    "stars": 3141
   },
   {
     "name": "HyperAgents",
@@ -88,7 +88,7 @@
       "self-improving",
       "meta-research"
     ],
-    "stars": 2625
+    "stars": 2637
   },
   {
     "name": "evolver",
@@ -101,7 +101,7 @@
       "self-evolution",
       "genome"
     ],
-    "stars": 8871
+    "stars": 8896
   },
   {
     "name": "Agent0",
@@ -128,7 +128,7 @@
       "autonomous-evolution",
       "self-modifying"
     ],
-    "stars": 705
+    "stars": 715
   },
   {
     "name": "A-Evolve",
@@ -141,7 +141,7 @@
       "domain-agnostic",
       "benchmark-leader"
     ],
-    "stars": 679
+    "stars": 692
   },
   {
     "name": "SEAgent",
@@ -154,7 +154,7 @@
       "computer-use",
       "autonomous-learning"
     ],
-    "stars": 255
+    "stars": 257
   },
   {
     "name": "Mem0",
@@ -167,7 +167,7 @@
       "scalable",
       "personalized"
     ],
-    "stars": 60367,
+    "stars": 60865,
     "paper": "https://arxiv.org/abs/2504.19413"
   },
   {
@@ -181,7 +181,7 @@
       "self-editing",
       "memgpt"
     ],
-    "stars": 23704
+    "stars": 23803
   },
   {
     "name": "Cognee",
@@ -194,7 +194,7 @@
       "unstructured-data",
       "ai-memory"
     ],
-    "stars": 27329
+    "stars": 27915
   },
   {
     "name": "Memvid",
@@ -207,7 +207,7 @@
       "serverless",
       "low-latency"
     ],
-    "stars": 15736
+    "stars": 15815
   },
   {
     "name": "memU",
@@ -220,7 +220,7 @@
       "persistent",
       "cross-platform"
     ],
-    "stars": 13995
+    "stars": 14025
   },
   {
     "name": "MemMachine",
@@ -233,7 +233,7 @@
       "episodic",
       "graph-based"
     ],
-    "stars": 3295
+    "stars": 3302
   },
   {
     "name": "EverMemOS",
@@ -246,7 +246,7 @@
       "cross-platform",
       "persistent"
     ],
-    "stars": 10539
+    "stars": 11029
   },
   {
     "name": "Acontext",
@@ -259,7 +259,7 @@
       "auto-learning",
       "reusable"
     ],
-    "stars": 3572
+    "stars": 3579
   },
   {
     "name": "ReMe",
@@ -272,7 +272,7 @@
       "vector-based",
       "benchmark-leader"
     ],
-    "stars": 3163
+    "stars": 3190
   },
   {
     "name": "nocturne_memory",
@@ -285,7 +285,7 @@
       "rollbackable",
       "mcp"
     ],
-    "stars": 1257
+    "stars": 1269
   },
   {
     "name": "Mem9",
@@ -298,7 +298,7 @@
       "cloud-sync",
       "agent-memory"
     ],
-    "stars": 1163
+    "stars": 1167
   },
   {
     "name": "Awesome-AI-Memory",
@@ -311,7 +311,7 @@
       "knowledge-base",
       "research"
     ],
-    "stars": 1060
+    "stars": 1079
   },
   {
     "name": "TeleMem",
@@ -324,7 +324,7 @@
       "multimodal",
       "high-performance"
     ],
-    "stars": 471,
+    "stars": 474,
     "paper": "https://arxiv.org/abs/2601.06037"
   },
   {
@@ -338,7 +338,7 @@
       "skill-evolution",
       "self-evolving"
     ],
-    "stars": 542
+    "stars": 544
   },
   {
     "name": "Awesome-Agent-Memory",
@@ -351,7 +351,7 @@
       "benchmarks",
       "research"
     ],
-    "stars": 518
+    "stars": 533
   },
   {
     "name": "Google A2A",
@@ -364,7 +364,7 @@
       "google",
       "standard"
     ],
-    "stars": 24685
+    "stars": 24792
   },
   {
     "name": "mcp-use",
@@ -377,7 +377,7 @@
       "fullstack",
       "chatgpt"
     ],
-    "stars": 10266
+    "stars": 10303
   },
   {
     "name": "GEP MCP Server",
@@ -403,7 +403,7 @@
       "composable",
       "memory"
     ],
-    "stars": 141275
+    "stars": 141809
   },
   {
     "name": "OpenHands",
@@ -416,7 +416,7 @@
       "autonomous",
       "generalist"
     ],
-    "stars": 79937
+    "stars": 80838
   },
   {
     "name": "AgenticSeek",
@@ -429,7 +429,7 @@
       "autonomous",
       "no-api-keys"
     ],
-    "stars": 26612
+    "stars": 26632
   },
   {
     "name": "Coze Studio",
@@ -442,7 +442,7 @@
       "debugging",
       "deployment"
     ],
-    "stars": 21130
+    "stars": 21170
   },
   {
     "name": "Google ADK",
@@ -455,7 +455,7 @@
       "python",
       "deployment"
     ],
-    "stars": 20517
+    "stars": 20617
   },
   {
     "name": "Parlant",
@@ -468,7 +468,7 @@
       "context-engineering",
       "control-layer"
     ],
-    "stars": 18168
+    "stars": 18177
   },
   {
     "name": "OpenFang",
@@ -481,7 +481,7 @@
       "open-source",
       "deployment"
     ],
-    "stars": 17982
+    "stars": 18014
   },
   {
     "name": "PydanticAI",
@@ -494,7 +494,7 @@
       "structured-outputs",
       "pydantic"
     ],
-    "stars": 18270
+    "stars": 18537
   },
   {
     "name": "CoPaw",
@@ -507,7 +507,7 @@
       "personal-agent",
       "workstation"
     ],
-    "stars": 21383
+    "stars": 22578
   },
   {
     "name": "MS-Agent",
@@ -520,7 +520,7 @@
       "deep-research",
       "lightweight"
     ],
-    "stars": 4330
+    "stars": 4333
   },
   {
     "name": "Claude Code",
@@ -533,7 +533,7 @@
       "anthropic",
       "agentic"
     ],
-    "stars": 136782
+    "stars": 137917
   },
   {
     "name": "Codex",
@@ -546,7 +546,7 @@
       "OpenAI",
       "local"
     ],
-    "stars": 96187
+    "stars": 98227
   },
   {
     "name": "Aider",
@@ -559,7 +559,7 @@
       "terminal",
       "git-integration"
     ],
-    "stars": 47170
+    "stars": 47396
   },
   {
     "name": "Devika",
@@ -585,7 +585,7 @@
       "swe-bench",
       "automated-fix"
     ],
-    "stars": 19733
+    "stars": 19813
   },
   {
     "name": "Plandex",
@@ -598,7 +598,7 @@
       "persistent-context",
       "complex-tasks"
     ],
-    "stars": 15510
+    "stars": 15527
   },
   {
     "name": "Trae Agent",
@@ -611,7 +611,7 @@
       "general-purpose",
       "software-engineering"
     ],
-    "stars": 11810
+    "stars": 11844
   },
   {
     "name": "Open SWE",
@@ -624,7 +624,7 @@
       "langchain",
       "open-source"
     ],
-    "stars": 10124
+    "stars": 10299
   },
   {
     "name": "Mini-SWE-Agent",
@@ -637,7 +637,7 @@
       "swe-bench",
       "lightweight"
     ],
-    "stars": 5642
+    "stars": 5800
   },
   {
     "name": "Reflexion",
@@ -650,7 +650,7 @@
       "reinforcement-learning",
       "reasoning"
     ],
-    "stars": 3197,
+    "stars": 3204,
     "paper": "https://arxiv.org/abs/2303.11366"
   },
   {
@@ -664,7 +664,7 @@
       "red-teaming",
       "testing"
     ],
-    "stars": 23027
+    "stars": 23273
   },
   {
     "name": "TextGrad",
@@ -677,7 +677,7 @@
       "optimization",
       "nature-published"
     ],
-    "stars": 3644,
+    "stars": 3649,
     "paper": "https://arxiv.org/abs/2406.07496"
   },
   {
@@ -691,7 +691,7 @@
       "nvidia",
       "policy-engine"
     ],
-    "stars": 6633
+    "stars": 6702
   },
   {
     "name": "Open-AutoGLM",
@@ -704,7 +704,7 @@
       "mobile",
       "automate"
     ],
-    "stars": 25721
+    "stars": 25780
   },
   {
     "name": "LeRobot",
@@ -716,7 +716,7 @@
       "pytorch",
       "hugging-face"
     ],
-    "stars": 25617
+    "stars": 25815
   },
   {
     "name": "Nanobrowser",
@@ -729,7 +729,7 @@
       "web-automation",
       "chrome-extension"
     ],
-    "stars": 13439
+    "stars": 13465
   },
   {
     "name": "XcodeBuildMCP",
@@ -742,7 +742,7 @@
       "ios",
       "macos"
     ],
-    "stars": 6044
+    "stars": 6075
   },
   {
     "name": "Mobile MCP",
@@ -755,7 +755,7 @@
       "automation",
       "mcp"
     ],
-    "stars": 5390
+    "stars": 5453
   },
   {
     "name": "ROS-LLM",
@@ -768,7 +768,7 @@
       "robotics",
       "natural-language"
     ],
-    "stars": 806
+    "stars": 808
   },
   {
     "name": "Awesome-Self-Evolving-Agents",
@@ -781,7 +781,7 @@
       "research",
       "comprehensive"
     ],
-    "stars": 2328
+    "stars": 2353
   },
   {
     "name": "dify",
@@ -794,7 +794,7 @@
       "agentic-ai",
       "agentic-framework"
     ],
-    "stars": 148134
+    "stars": 148882
   },
   {
     "name": "MetaGPT",
@@ -807,7 +807,7 @@
       "gpt",
       "llm"
     ],
-    "stars": 69261
+    "stars": 69379
   },
   {
     "name": "autogen",
@@ -820,7 +820,7 @@
       "agentic-agi",
       "agents"
     ],
-    "stars": 59574
+    "stars": 59741
   },
   {
     "name": "crewAI",
@@ -833,7 +833,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 55130
+    "stars": 55549
   },
   {
     "name": "goose",
@@ -846,7 +846,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 50819
+    "stars": 51229
   },
   {
     "name": "langgraph",
@@ -859,7 +859,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 36775
+    "stars": 37333
   },
   {
     "name": "haystack",
@@ -872,7 +872,7 @@
       "agents",
       "ai"
     ],
-    "stars": 25848
+    "stars": 25901
   },
   {
     "name": "agentscope",
@@ -885,7 +885,7 @@
       "chatbot",
       "large-language-models"
     ],
-    "stars": 27566
+    "stars": 27876
   },
   {
     "name": "mastra",
@@ -898,7 +898,7 @@
       "ai",
       "chatbots"
     ],
-    "stars": 25934
+    "stars": 26181
   },
   {
     "name": "swarm",
@@ -907,7 +907,7 @@
     "category": "multi-agent",
     "maintainer": "openai",
     "tags": [],
-    "stars": 21773
+    "stars": 21798
   },
   {
     "name": "openai-agents-python",
@@ -920,7 +920,7 @@
       "ai",
       "framework"
     ],
-    "stars": 27729
+    "stars": 27918
   },
   {
     "name": "camel",
@@ -933,7 +933,7 @@
       "ai-societies",
       "artificial-intelligence"
     ],
-    "stars": 17343
+    "stars": 17390
   },
   {
     "name": "ten-framework",
@@ -946,7 +946,7 @@
       "multi-modal",
       "real-time"
     ],
-    "stars": 10858
+    "stars": 10902
   },
   {
     "name": "agents",
@@ -959,7 +959,7 @@
       "ai",
       "openai"
     ],
-    "stars": 11279
+    "stars": 11365
   },
   {
     "name": "agent-framework",
@@ -972,7 +972,7 @@
       "agentic-ai",
       "agents"
     ],
-    "stars": 11940
+    "stars": 12129
   },
   {
     "name": "agent-skills",
@@ -985,7 +985,7 @@
       "antigravity",
       "antigravity-ide"
     ],
-    "stars": 72552
+    "stars": 78402
   },
   {
     "name": "MindSearch",
@@ -998,7 +998,7 @@
       "gpt",
       "llm"
     ],
-    "stars": 6885
+    "stars": 6888
   },
   {
     "name": "PraisonAI",
@@ -1011,7 +1011,7 @@
       "ai",
       "ai-agent-framework"
     ],
-    "stars": 8360
+    "stars": 8449
   },
   {
     "name": "swarms",
@@ -1024,7 +1024,7 @@
       "agentic-workflow",
       "agents"
     ],
-    "stars": 6926
+    "stars": 6944
   },
   {
     "name": "open-multi-agent",
@@ -1037,7 +1037,7 @@
       "ai-agents",
       "anthropic"
     ],
-    "stars": 6536
+    "stars": 6581
   },
   {
     "name": "agency-swarm",
@@ -1046,7 +1046,7 @@
     "category": "multi-agent",
     "maintainer": "VRSEN",
     "tags": [],
-    "stars": 4477
+    "stars": 4481
   },
   {
     "name": "BotSharp",
@@ -1072,7 +1072,7 @@
       "ai",
       "ai-agents-framework"
     ],
-    "stars": 2304
+    "stars": 2306
   },
   {
     "name": "agentUniverse",
@@ -1085,7 +1085,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 2294
+    "stars": 2303
   },
   {
     "name": "GoClaw",
@@ -1098,7 +1098,7 @@
       "ai-agent",
       "ai-gateway"
     ],
-    "stars": 3405
+    "stars": 3438
   },
   {
     "name": "memgraph",
@@ -1111,7 +1111,7 @@
       "ai-agents",
       "ai-memory"
     ],
-    "stars": 4221
+    "stars": 4240
   },
   {
     "name": "GenAI Agents",
@@ -1124,7 +1124,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 23038
+    "stars": 23165
   },
   {
     "name": "PySpur",
@@ -1137,7 +1137,7 @@
       "agents",
       "ai"
     ],
-    "stars": 5749
+    "stars": 5756
   },
   {
     "name": "CowAgent",
@@ -1150,7 +1150,7 @@
       "ai-agent",
       "chatgpt-on-wechat"
     ],
-    "stars": 45865
+    "stars": 45981
   },
   {
     "name": "honcho",
@@ -1163,7 +1163,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 5846
+    "stars": 5973
   },
   {
     "name": "holaOS",
@@ -1176,7 +1176,7 @@
       "agent-harness",
       "agent-runtime"
     ],
-    "stars": 5492
+    "stars": 5497
   },
   {
     "name": "Taste-Skill",
@@ -1189,7 +1189,7 @@
       "ai",
       "coding"
     ],
-    "stars": 60344
+    "stars": 63638
   },
   {
     "name": "Agent-Squad",
@@ -1202,7 +1202,7 @@
       "agents",
       "ai-agents"
     ],
-    "stars": 7687
+    "stars": 7702
   },
   {
     "name": "Sage",
@@ -1215,7 +1215,7 @@
       "ai",
       "llm"
     ],
-    "stars": 1208
+    "stars": 1210
   },
   {
     "name": "ChatLab",
@@ -1228,7 +1228,7 @@
       "chat-analysis",
       "chat-history"
     ],
-    "stars": 6903
+    "stars": 6946
   },
   {
     "name": "Golutra",
@@ -1241,7 +1241,7 @@
       "ai",
       "automation"
     ],
-    "stars": 3746
+    "stars": 3759
   },
   {
     "name": "ViteMCP",
@@ -1253,7 +1253,7 @@
       "mcp",
       "sse"
     ],
-    "stars": 3217
+    "stars": 3222
   },
   {
     "name": "Vibe-Trading",
@@ -1266,7 +1266,7 @@
       "algorithmic-trading",
       "backtesting"
     ],
-    "stars": 18617
+    "stars": 23169
   },
   {
     "name": "agno",
@@ -1279,7 +1279,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 41047
+    "stars": 41168
   },
   {
     "name": "context-mode",
@@ -1292,7 +1292,7 @@
       "claude",
       "claude-code"
     ],
-    "stars": 18686
+    "stars": 18950
   },
   {
     "name": "openagent",
@@ -1305,7 +1305,7 @@
       "agent",
       "agentic"
     ],
-    "stars": 5361
+    "stars": 5401
   },
   {
     "name": "datachain",
@@ -1318,7 +1318,7 @@
       "claude-code",
       "codex"
     ],
-    "stars": 2794
+    "stars": 2795
   },
   {
     "name": "Cline",
@@ -1327,7 +1327,7 @@
     "category": "coding",
     "maintainer": "cline",
     "tags": [],
-    "stars": 64436
+    "stars": 64675
   },
   {
     "name": "Pi",
@@ -1336,7 +1336,7 @@
     "category": "coding",
     "maintainer": "earendil-works",
     "tags": [],
-    "stars": 68516
+    "stars": 71194
   },
   {
     "name": "Qwen Code",
@@ -1345,7 +1345,7 @@
     "category": "coding",
     "maintainer": "QwenLM",
     "tags": [],
-    "stars": 25857
+    "stars": 26028
   },
   {
     "name": "agentmemory",
@@ -1358,7 +1358,7 @@
       "agents",
       "ai"
     ],
-    "stars": 24802
+    "stars": 25160
   },
   {
     "name": "TencentDB Agent Memory",
@@ -1371,7 +1371,7 @@
       "ai-agent",
       "embedding"
     ],
-    "stars": 7275
+    "stars": 8908
   },
   {
     "name": "agent-device",
@@ -1384,7 +1384,7 @@
       "agentic-ai",
       "agents"
     ],
-    "stars": 3168
+    "stars": 3366
   },
   {
     "name": "SIA",
@@ -1393,7 +1393,7 @@
     "category": "evolution",
     "maintainer": "hexo-ai",
     "tags": [],
-    "stars": 1969
+    "stars": 2018
   },
   {
     "name": "arcade-mcp",
@@ -1406,7 +1406,7 @@
       "arcade",
       "arcade-ai"
     ],
-    "stars": 952
+    "stars": 965
   },
   {
     "name": "AgentDoG",
@@ -1415,7 +1415,7 @@
     "category": "safety",
     "maintainer": "AI45Lab",
     "tags": [],
-    "stars": 653
+    "stars": 666
   },
   {
     "name": "RAI",
@@ -1428,7 +1428,7 @@
       "ai-agents-framework",
       "embodied-agent"
     ],
-    "stars": 534
+    "stars": 545
   },
   {
     "name": "A2A x402",
@@ -1437,6 +1437,6 @@
     "category": "protocols",
     "maintainer": "google-agentic-commerce",
     "tags": [],
-    "stars": 535
+    "stars": 536
   }
 ]
