@@ -1438,5 +1438,18 @@
     "maintainer": "google-agentic-commerce",
     "tags": [],
     "stars": 536
+  },
+  {
+    "name": "Orkas",
+    "repo": "Orkas-AI/Orkas",
+    "description": "Local-first multi-agent desktop application whose specialist agents improve through reflection and crystallize successful approaches into private reusable skills.",
+    "category": "evolution",
+    "maintainer": "Orkas-AI",
+    "tags": [
+      "self-evolving",
+      "multi-agent",
+      "skill-memory"
+    ],
+    "stars": 349
   }
 ]
