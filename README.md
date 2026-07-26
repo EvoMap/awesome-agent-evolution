@@ -257,6 +257,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [WebArena](https://github.com/web-arena-x/webarena) (ICLR'24) - Realistic web environment for autonomous agents.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) (NeurIPS'24) - Open-ended tasks in real computer environments.
 - [GAIA](https://huggingface.co/gaia-benchmark) (ICLR'23) - General AI assistant capabilities benchmark.
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) ([arXiv'26](https://arxiv.org/abs/2604.08523)) - Live-web evaluation with 283 everyday tasks, isolated execution, and replayable five-layer traces.
 - [EvoClaw](https://github.com/FSoft-AI4Code/EvoClaw) (arXiv'26) - Evaluating agents on continuous software evolution.
 - [LoCoMo](https://github.com/snap-research/locomo) (arXiv'25) - Long-context memory benchmark for agent memory systems.
 
