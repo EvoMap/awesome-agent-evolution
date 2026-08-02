@@ -120,15 +120,15 @@
   {
     "name": "Ouroboros",
     "repo": "razzant/ouroboros",
-    "description": "Self-creating AI agent that writes its own code and evolves autonomously. Completed 30+ evolution cycles in first 24 hours with zero human intervention.",
+    "description": "General-purpose AI agent with persistent identity and memory, reviewed self-modification, and desktop and CLI interfaces.",
     "category": "evolution",
     "maintainer": "razzant",
     "tags": [
-      "self-creating",
-      "autonomous-evolution",
-      "self-modifying"
+      "autonomous",
+      "self-evolving",
+      "open-source"
     ],
-    "stars": 961
+    "stars": 1072
   },
   {
     "name": "A-Evolve",
