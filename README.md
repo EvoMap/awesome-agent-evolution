@@ -260,6 +260,8 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [EvoClaw](https://github.com/FSoft-AI4Code/EvoClaw) (arXiv'26) - Evaluating agents on continuous software evolution.
 - [LoCoMo](https://github.com/snap-research/locomo) (arXiv'25) - Long-context memory benchmark for agent memory systems.
 
+- [agent-capability-manifest](https://github.com/liulingfei-1/agent-capability-manifest) - Cross-runtime regression suite for agent memory systems (FIX-005 aging/digest-identity, FIX-006 promote-after-aging-boundary): digest-verified fixtures, zero-dependency runners (Python 3.8+), verified on 3 independent runtimes with byte-identical digests. Also hosts the Capability Manifest v0.1 (agent capability claims decoupled from execution authority).
+
 ## Community and Knowledge
 
 <!-- AUTOGEN:community -->
