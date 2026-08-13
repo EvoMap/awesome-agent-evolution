@@ -157,6 +157,19 @@
     "stars": 262
   },
   {
+    "name": "OpenProgram",
+    "repo": "Fzkuji/OpenProgram",
+    "description": "Self-programming AI agent framework whose agents create, run, and refine their own workflows while the runtime manages models, tools, memory, context, and multi-agent collaboration.",
+    "category": "evolution",
+    "maintainer": "Fzkuji",
+    "tags": [
+      "self-programming",
+      "self-improving",
+      "open-source"
+    ],
+    "stars": 102
+  },
+  {
     "name": "Mem0",
     "repo": "mem0ai/mem0",
     "description": "Production-ready AI agent memory with scalable long-term memory. 26% improvement over baseline on LOCOMO benchmark with 91% latency reduction.",
