@@ -82,6 +82,7 @@ Vector, graph, episodic, and hybrid memory architectures for persistent agent co
 - [**Awesome-Agent-Memory**](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers on memory for LLMs/MLLMs -- long-term context, retrieval, and reasoning. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (576 stars)
 - [**MemSkill**](https://github.com/ViktorAxelsen/MemSkill) - Learning and evolving memory skills for self-evolving agents. Meta-memory that determines what to extract, remember, and forget. by [@ViktorAxelsen](https://github.com/ViktorAxelsen) (560 stars)
 - [**TeleMem**](https://github.com/TeleAI-UAGI/telemem) - High-performance drop-in Mem0 replacement. 19% higher accuracy, 43% fewer tokens, and 2.1x speedup via narrative dynamic extraction. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (481 stars)
+- [**LWC**](https://github.com/JanYork/llm-wiki-cli) - Proactive, source-grounded project memory for coding agents with immutable sources, citations, provenance, SQLite full-text retrieval, and optional document and code graphs. by [@JanYork](https://github.com/JanYork) (31 stars)
 <!-- /AUTOGEN:memory -->
 
 ## Agent-to-Agent Protocols

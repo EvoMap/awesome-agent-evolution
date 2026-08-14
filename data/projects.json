@@ -1374,6 +1374,19 @@
     "stars": 20108
   },
   {
+    "name": "LWC",
+    "repo": "JanYork/llm-wiki-cli",
+    "description": "Proactive, source-grounded project memory for coding agents with immutable sources, citations, provenance, SQLite full-text retrieval, and optional document and code graphs.",
+    "category": "memory",
+    "maintainer": "JanYork",
+    "tags": [
+      "mcp",
+      "open-source",
+      "lightweight"
+    ],
+    "stars": 31
+  },
+  {
     "name": "agent-device",
     "repo": "callstack/agent-device",
     "description": "CLI that lets AI agents drive real iOS and Android devices — taps, text input, screenshots, and app control for mobile automation",
