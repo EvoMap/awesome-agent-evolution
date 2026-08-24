@@ -259,6 +259,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [GAIA](https://huggingface.co/gaia-benchmark) (ICLR'23) - General AI assistant capabilities benchmark.
 - [EvoClaw](https://github.com/FSoft-AI4Code/EvoClaw) (arXiv'26) - Evaluating agents on continuous software evolution.
 - [LoCoMo](https://github.com/snap-research/locomo) (arXiv'25) - Long-context memory benchmark for agent memory systems.
+- [ATM-Bench](https://github.com/atmbench/atmbench.github.io) (arXiv'26) - First multimodal, multi-source benchmark for personalized referential memory QA over ~4 years of personal records (emails, images, videos).
 
 ## Community and Knowledge
 
