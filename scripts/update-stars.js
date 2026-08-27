@@ -10,7 +10,7 @@
  * Requires: gh CLI authenticated
  */
 
-const { execSync } = require('child_process');
+const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
@@ -24,9 +24,9 @@ function sleep(ms) {
 
 function fetchStars(repo) {
   try {
-    const cmd = `gh api repos/${repo} --jq '.stargazers_count'`;
-    const result = execSync(cmd, { encoding: 'utf-8', timeout: 15000 }).trim();
-    return parseInt(result, 10);
+    const result = execFileSync('gh', ['api', `repos/${repo}`, '--jq', '.stargazers_count'], { encoding: 'utf-8', timeout: 15000 }).trim();
+    const stars = Number.parseInt(result, 10);
+    return Number.isInteger(stars) && stars >= 0 ? stars : null;
   } catch (e) {
     console.warn(`  Failed to fetch ${repo}: ${e.message.split('\n')[0]}`);
     return null;
@@ -70,6 +70,12 @@ async function main() {
   }
 
   console.log(`\nResults: ${updated} updated, ${failed} failed`);
+
+  if (failed > 0) {
+    console.error('Star refresh incomplete; refusing to write a partial snapshot.');
+    process.exitCode = 1;
+    return;
+  }
 
   if (!dryRun && updated > 0) {
     fs.writeFileSync(PROJECTS_PATH, JSON.stringify(projects, null, 2) + '\n', 'utf-8');
