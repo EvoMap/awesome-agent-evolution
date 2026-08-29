@@ -1,147 +1,71 @@
 {
-  "generated_at": "2026-08-10T10:08:59.725Z",
+  "generated_at": "2026-08-24T09:37:00.110Z",
   "query_count": 8,
-  "total_results": 68,
+  "total_results": 72,
   "items": [
     {
-      "title": "AI Agent Radar 日报 · 2026-08-03",
-      "url": "https://github.com/apiiskan/ai-agent-radar/issues/16",
-      "repo": "apiiskan/ai-agent-radar",
-      "author": "github-actions[bot]",
+      "title": "summarize the current state of AI harnesses",
+      "url": "https://github.com/Morrison-Lab/wai/issues/95",
+      "repo": "Morrison-Lab/wai",
+      "author": "dem-extra1",
       "comments": 0,
-      "created": "2026-08-03T03:32:44Z",
-      "score": 23,
-      "labels": [
-        "radar-daily"
-      ]
+      "created": "2026-08-24T04:09:34Z",
+      "score": 19,
+      "labels": []
     },
     {
-      "title": "📊 AI CLI Tools Digest 2026-08-10",
-      "url": "https://github.com/xavier9802/agents-radar/issues/266",
-      "repo": "xavier9802/agents-radar",
+      "title": "🦞 OpenClaw Ecosystem Digest 2026-08-24",
+      "url": "https://github.com/xiehd77-del/agents-radar/issues/713",
+      "repo": "xiehd77-del/agents-radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T02:22:54Z",
-      "score": 17,
-      "labels": [
-        "digest-en"
-      ]
-    },
-    {
-      "title": "📊 AI CLI 工具社区动态日报 2026-08-10",
-      "url": "https://github.com/Neare-Design/agents-radar/issues/27",
-      "repo": "Neare-Design/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T04:56:40Z",
+      "created": "2026-08-24T01:27:38Z",
       "score": 16,
       "labels": [
-        "digest"
+        "openclaw-en"
       ]
     },
     {
-      "title": "📊 AI CLI 工具社区动态日报 2026-08-10",
-      "url": "https://github.com/huang-yi-dae/agents-radar/issues/429",
-      "repo": "huang-yi-dae/agents-radar",
+      "title": "🦞 OpenClaw Ecosystem Digest 2026-08-24",
+      "url": "https://github.com/Chestnuts-Sisyphus/gittok/issues/1080",
+      "repo": "Chestnuts-Sisyphus/gittok",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T01:29:51Z",
-      "score": 16,
-      "labels": [
-        "digest"
-      ]
-    },
-    {
-      "title": "📊 AI CLI Tools Digest 2026-08-10",
-      "url": "https://github.com/Neare-Design/agents-radar/issues/30",
-      "repo": "Neare-Design/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T04:56:43Z",
+      "created": "2026-08-24T01:27:51Z",
       "score": 15,
       "labels": [
-        "digest-en"
+        "openclaw-en"
       ]
     },
     {
-      "title": "📊 AI CLI 工具社区动态日报 2026-08-10",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/301",
-      "repo": "96loveslife/big_model_radar",
+      "title": "🦞 OpenClaw Ecosystem Digest 2026-08-24",
+      "url": "https://github.com/brysoh435-dev/agents-radar/issues/90",
+      "repo": "brysoh435-dev/agents-radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T02:14:56Z",
-      "score": 14,
-      "labels": [
-        "digest"
-      ]
-    },
-    {
-      "title": "📊 AI CLI Tools Digest 2026-08-10",
-      "url": "https://github.com/Chestnuts-Sisyphus/os-feed/issues/858",
-      "repo": "Chestnuts-Sisyphus/os-feed",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T01:01:16Z",
-      "score": 14,
-      "labels": [
-        "digest-en"
-      ]
-    },
-    {
-      "title": "Latest 15 Papers - August 10, 2026",
-      "url": "https://github.com/somewordstoolate/DailyArXiv/issues/307",
-      "repo": "somewordstoolate/DailyArXiv",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T03:13:06Z",
-      "score": 14,
-      "labels": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "Weekly arXiv digest — 2026-08-10",
-      "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers/issues/55",
-      "repo": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T03:13:11Z",
-      "score": 13,
-      "labels": [
-        "paper-candidate"
-      ]
-    },
-    {
-      "title": "🦞 OpenClaw Ecosystem Digest 2026-08-10",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/623",
-      "repo": "stevenko2002/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-09T22:24:21Z",
+      "created": "2026-08-24T03:51:16Z",
       "score": 13,
       "labels": [
         "openclaw-en"
       ]
     },
     {
-      "title": "📈 Bản tin xu hướng AI mã nguồn mở 2026-08-10",
-      "url": "https://github.com/thanhtantran/agents-radar/issues/318",
-      "repo": "thanhtantran/agents-radar",
-      "author": "thanhtantran",
+      "title": "Public Review Request: World 7 v0.2 — Living Genome Architecture",
+      "url": "https://github.com/saeedfaai/World-v6-public/issues/19",
+      "repo": "saeedfaai/World-v6-public",
+      "author": "saeedfaai",
       "comments": 0,
-      "created": "2026-08-10T02:05:06Z",
-      "score": 12,
-      "labels": [
-        "trending"
-      ]
+      "created": "2026-08-22T18:50:07Z",
+      "score": 13,
+      "labels": []
     },
     {
-      "title": "🌐 Global Tech Briefing - 2026-08-10",
-      "url": "https://github.com/AtomChen0425/Global_Trends/issues/174",
+      "title": "🌐 Global Tech Briefing - 2026-08-24",
+      "url": "https://github.com/AtomChen0425/Global_Trends/issues/188",
       "repo": "AtomChen0425/Global_Trends",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T09:03:34Z",
+      "created": "2026-08-24T08:29:15Z",
       "score": 12,
       "labels": [
         "daily-report",
@@ -149,337 +73,395 @@
       ]
     },
     {
-      "title": "📰 Weekly Digest — 2026-W33 (August 03 – August 10, 2026)",
-      "url": "https://github.com/sujithq/updates/issues/171",
-      "repo": "sujithq/updates",
+      "title": "🦞 OpenClaw Ecosystem Digest 2026-08-24",
+      "url": "https://github.com/JohnGao818/agents-radar/issues/860",
+      "repo": "JohnGao818/agents-radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T08:27:36Z",
+      "created": "2026-08-24T01:05:56Z",
       "score": 12,
+      "labels": [
+        "openclaw-en"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - August 24, 2026",
+      "url": "https://github.com/asdfo123/DailyArXiv/issues/365",
+      "repo": "asdfo123/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T02:42:41Z",
+      "score": 12,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Hacker News AI Daily — 2026-08-23",
+      "url": "https://github.com/huang-yi-dae/agents-radar/issues/544",
+      "repo": "huang-yi-dae/agents-radar",
+      "author": "huang-yi-dae",
+      "comments": 0,
+      "created": "2026-08-22T18:49:29Z",
+      "score": 12,
+      "labels": [
+        "hn-en"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - August 24, 2026",
+      "url": "https://github.com/jyyang621/DailyArXiv/issues/397",
+      "repo": "jyyang621/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-23T16:53:14Z",
+      "score": 11,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Papers - August 24, 2026",
+      "url": "https://github.com/set-path/DailyArXiv/issues/337",
+      "repo": "set-path/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-23T16:51:56Z",
+      "score": 11,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "🦞 OpenClaw 生态日报 2026-08-24",
+      "url": "https://github.com/brysoh435-dev/agents-radar/issues/87",
+      "repo": "brysoh435-dev/agents-radar",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T03:51:14Z",
+      "score": 11,
+      "labels": [
+        "openclaw"
+      ]
+    },
+    {
+      "title": "📊 AI CLI Tools Digest 2026-08-24",
+      "url": "https://github.com/brysoh435-dev/agents-radar/issues/89",
+      "repo": "brysoh435-dev/agents-radar",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T03:51:15Z",
+      "score": 11,
+      "labels": [
+        "digest-en"
+      ]
+    },
+    {
+      "title": "Latest 15 Papers - August 24, 2026",
+      "url": "https://github.com/somewordstoolate/DailyArXiv/issues/316",
+      "repo": "somewordstoolate/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T02:24:01Z",
+      "score": 10,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "📚 Weekly Research Digest — 2026-08-21",
+      "url": "https://github.com/davgrn/research_digest/issues/33",
+      "repo": "davgrn/research_digest",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-21T08:29:14Z",
+      "score": 10,
       "labels": [
         "weekly-digest"
       ]
     },
     {
-      "title": "​#Requested developer support the following Cease distribution of the subject matter identified at §2 under Apache License 2.0 §3, or any other license purporting to convey patent rights therein, pending resolution of the title question. (b) Cease supply of the subject matter into federal government workloads pending resolution. (c) Produce a written representation of clean title — free of encumbrance by earlier-filed patent applications of record — to the subject matter conveyed under §3, or state in writing that no such representation is made. developer response requested",
-      "url": "https://github.com/google-ai-edge/LiteRT-LM/issues/3119",
-      "repo": "google-ai-edge/LiteRT-LM",
-      "author": "nicholascordova01",
-      "comments": 0,
-      "created": "2026-08-04T23:34:45Z",
-      "score": 12,
-      "labels": []
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-08-10",
-      "url": "https://github.com/xqicxx/big_model_radar/issues/160",
-      "repo": "xqicxx/big_model_radar",
+      "title": "🎨 Generative UI Ecosystem Digest 2026-08-24",
+      "url": "https://github.com/linqinghao/agents-radar/issues/86",
+      "repo": "linqinghao/agents-radar",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T00:20:47Z",
-      "score": 11,
-      "labels": [
-        "trending-en"
-      ]
-    },
-    {
-      "title": "Latest 15 Papers - August 10, 2026",
-      "url": "https://github.com/tangwen-qian/DailyArXiv/issues/582",
-      "repo": "tangwen-qian/DailyArXiv",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-09T17:06:03Z",
-      "score": 11,
-      "labels": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-08-10",
-      "url": "https://github.com/Neare-Design/agents-radar/issues/19",
-      "repo": "Neare-Design/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T04:53:32Z",
-      "score": 11,
-      "labels": [
-        "trending-en"
-      ]
-    },
-    {
-      "title": "Latest 15 Papers - August 10, 2026",
-      "url": "https://github.com/asdfo123/DailyArXiv/issues/355",
-      "repo": "asdfo123/DailyArXiv",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T03:24:26Z",
-      "score": 11,
-      "labels": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "Latest 15 Papers - August 10, 2026",
-      "url": "https://github.com/pstAmbition/DailyArXiv_Multimodal/issues/436",
-      "repo": "pstAmbition/DailyArXiv_Multimodal",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T03:12:27Z",
-      "score": 11,
-      "labels": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "Latest 15 Papers - August 10, 2026",
-      "url": "https://github.com/ZCjenny549/DailyArXiv/issues/255",
-      "repo": "ZCjenny549/DailyArXiv",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T03:11:21Z",
-      "score": 11,
-      "labels": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "Latest 15 Papers - August 10, 2026",
-      "url": "https://github.com/csyifan/ArxivDaily/issues/326",
-      "repo": "csyifan/ArxivDaily",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T04:01:21Z",
+      "created": "2026-08-24T01:29:48Z",
       "score": 9,
       "labels": [
-        "documentation"
+        "genui-en"
       ]
     },
     {
-      "title": "📚 ArXiv AI Research Digest 2026-08-10",
-      "url": "https://github.com/boom7sss/agents-radar/issues/494",
-      "repo": "boom7sss/agents-radar",
+      "title": "[Critical] Please distinguish product storytelling from empirically validated capability claims",
+      "url": "https://github.com/kiyotakali/Miru/issues/4",
+      "repo": "kiyotakali/Miru",
+      "author": "axobase001",
+      "comments": 0,
+      "created": "2026-08-24T09:30:15Z",
+      "score": 8,
+      "labels": []
+    },
+    {
+      "title": "[VISION] Self-optimizing workflow operating system — execute, observe, evaluate, learn, evolve",
+      "url": "https://github.com/Agent-Clubhouse/Goobers/issues/3594",
+      "repo": "Agent-Clubhouse/Goobers",
+      "author": "krishnapatel17",
+      "comments": 0,
+      "created": "2026-08-23T06:15:22Z",
+      "score": 8,
+      "labels": [
+        "area:contracts",
+        "area:runner",
+        "area:telemetry",
+        "area:workflows",
+        "epic",
+        "goobers:nominated",
+        "type:feature",
+        "tracking"
+      ]
+    },
+    {
+      "title": "Adoption study: VION Protocol — constitutional governance runtime for autonomous AI agents",
+      "url": "https://github.com/shaiss/print-bench/issues/399",
+      "repo": "shaiss/print-bench",
+      "author": "shaiss",
+      "comments": 1,
+      "created": "2026-08-24T08:32:14Z",
+      "score": 8,
+      "labels": [
+        "adoption-study"
+      ]
+    },
+    {
+      "title": "Early adopters: integrate Notary Protocol and report real agent usage",
+      "url": "https://github.com/Kosta1985/notary-protocol/issues/5",
+      "repo": "Kosta1985/notary-protocol",
+      "author": "Kosta1985",
+      "comments": 0,
+      "created": "2026-08-24T08:11:00Z",
+      "score": 8,
+      "labels": []
+    },
+    {
+      "title": "ArXiv Summary - 2026-08-24 (papers from 2026-08-21 to 2026-08-24) (Part 1/2)",
+      "url": "https://github.com/matouskozak/arxiv-digest/issues/179",
+      "repo": "matouskozak/arxiv-digest",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T02:27:46Z",
-      "score": 9,
-      "labels": [
-        "arxiv-en"
-      ]
-    },
-    {
-      "title": "Weekly GitHub Trending - 2026-W33",
-      "url": "https://github.com/wang-jie-2020/github-trend/issues/14",
-      "repo": "wang-jie-2020/github-trend",
-      "author": "wang-jie-2020",
-      "comments": 0,
-      "created": "2026-08-10T03:05:16Z",
-      "score": 8,
-      "labels": []
-    },
-    {
-      "title": "Define AgentHarnessGenome v2 evolution and orchestration contracts",
-      "url": "https://github.com/CompLifeLab-ZJU/OpenEvo/issues/284",
-      "repo": "CompLifeLab-ZJU/OpenEvo",
-      "author": "ScottLiao920",
-      "comments": 0,
-      "created": "2026-08-07T17:56:32Z",
+      "created": "2026-08-24T08:02:08Z",
       "score": 8,
       "labels": [
-        "enhancement"
+        "arxiv-summary"
       ]
     },
     {
-      "title": "P0: Build ORPHEUS as a Proof-Carrying Mission Foundry",
-      "url": "https://github.com/arisnachy/orpheus-omega/issues/16",
-      "repo": "arisnachy/orpheus-omega",
-      "author": "arisnachy",
+      "title": "Source drift: hosted-agents#protocols-responses-invocations-and-invocations-websocket (changed)",
+      "url": "https://github.com/devndive/foundry-model-regions/issues/40",
+      "repo": "devndive/foundry-model-regions",
+      "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-06T01:27:13Z",
+      "created": "2026-08-24T08:01:10Z",
       "score": 8,
       "labels": [
-        "enhancement"
+        "needs-triage"
       ]
     },
     {
-      "title": "OpenTelemetry Instrumentation Dashboard",
-      "url": "https://github.com/MoniqueSSB/yaad-trust-engine/issues/1",
-      "repo": "MoniqueSSB/yaad-trust-engine",
-      "author": "ollygarden-rose[bot]",
-      "comments": 0,
-      "created": "2026-08-10T09:45:59Z",
-      "score": 7,
-      "labels": []
-    },
-    {
-      "title": "Make the adaptive harness implementation-ready",
-      "url": "https://github.com/letrquan/book/issues/45",
-      "repo": "letrquan/book",
-      "author": "letrquan",
-      "comments": 0,
-      "created": "2026-08-10T02:42:12Z",
-      "score": 7,
+      "title": "aws_bedrockagentcore_gateway_target: Add support for HTTP passthrough targets",
+      "url": "https://github.com/hashicorp/terraform-provider-aws/issues/49644",
+      "repo": "hashicorp/terraform-provider-aws",
+      "author": "ari-luokkala",
+      "comments": 1,
+      "created": "2026-08-24T05:58:27Z",
+      "score": 8,
       "labels": [
-        "wayfinder:map"
+        "enhancement",
+        "needs-triage",
+        "service/bedrockagentcore"
       ]
     },
     {
-      "title": "Under Development: UNIXAX",
-      "url": "https://github.com/webxos/unixai/issues/1",
-      "repo": "webxos/unixai",
-      "author": "webxos",
+      "title": "[known_result] Prusiner: inheritance of form without nucleic acid - the prion hypothesis",
+      "url": "https://github.com/hidenori-endo/science-researcher/issues/73",
+      "repo": "hidenori-endo/science-researcher",
+      "author": "hidenori-endo",
       "comments": 0,
-      "created": "2026-08-10T08:20:12Z",
+      "created": "2026-08-22T06:55:18Z",
+      "score": 8,
+      "labels": [
+        "claim/known-result"
+      ]
+    },
+    {
+      "title": "BIUDL ADE MADEs SHE etc... Sovereignty layers",
+      "url": "https://github.com/timerloggedout-spec/termux-monorepo/issues/338",
+      "repo": "timerloggedout-spec/termux-monorepo",
+      "author": "timerloggedout-spec",
+      "comments": 2,
+      "created": "2026-08-24T05:11:59Z",
       "score": 7,
       "labels": [
         "documentation",
-        "help wanted",
-        "good first issue"
+        "enhancement",
+        "priority",
+        "production",
+        "Search'n'Re-Search",
+        "Reverse_Engineering",
+        "H@× & Cπ@¢k$ && W4π3z && 3×9£017$",
+        "`gh`ActionsWorkflows",
+        "Linguist",
+        "ToDo-2-Ta'Dã!n!!🪄",
+        "FORENSICS",
+        "dependencies",
+        "ML Pipelines",
+        "Roster:Teams:Games:Players",
+        "agent",
+        "high-priority",
+        "BlackHat",
+        "Red Team",
+        "4πchw12",
+        "autonomous-merge",
+        "P0",
+        "agentic-workflows",
+        "MoneyBall",
+        "Ch3@7_©0>3$",
+        "Performance Optimization",
+        "Context && Scopes",
+        "Continuous"
       ]
     },
     {
-      "title": "💬 技术社区 AI 动态日报 2026-08-10",
-      "url": "https://github.com/Neare-Design/agents-radar/issues/22",
-      "repo": "Neare-Design/agents-radar",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T04:54:49Z",
+      "title": "[Submission] Event-Driven Triggering for Self-Evolution Loops: Quantifying Steady-State Waste in EMRG",
+      "url": "https://github.com/argszero/silicon-science-cs/issues/10",
+      "repo": "argszero/silicon-science-cs",
+      "author": "how2how2how2-arch",
+      "comments": 2,
+      "created": "2026-08-24T07:22:56Z",
       "score": 7,
       "labels": [
-        "community"
+        "in-preparation"
       ]
     },
     {
-      "title": "[Phase 7][Task 1] 建立 Model-aware Context Budget 与 Dynamic History Selection",
-      "url": "https://github.com/mufeiyu-ayu/agent/issues/42",
-      "repo": "mufeiyu-ayu/agent",
-      "author": "mufeiyu-ayu",
-      "comments": 3,
-      "created": "2026-08-10T09:18:08Z",
-      "score": 6,
-      "labels": []
-    },
-    {
-      "title": "read_discussion, get_page, and 7 other read tools return instructor/classmate text unfenced, so course content can act as instructions to the model holding post_discussion_reply and submit_assignment",
-      "url": "https://github.com/JohannsenLum/canvas-api-mcp/issues/42",
-      "repo": "JohannsenLum/canvas-api-mcp",
-      "author": "JohannsenLum",
-      "comments": 0,
-      "created": "2026-08-10T10:08:22Z",
-      "score": 6,
-      "labels": [
-        "bug",
-        "help wanted"
-      ]
-    },
-    {
-      "title": "feat: investigation-driven pipeline — analyze existing data before provisioning hardware",
-      "url": "https://github.com/atheurer/agentic-perf/issues/497",
-      "repo": "atheurer/agentic-perf",
-      "author": "dustinblack",
-      "comments": 0,
-      "created": "2026-08-10T10:02:19Z",
-      "score": 6,
-      "labels": []
-    },
-    {
-      "title": "Build a Portfolio Intelligence Agent",
-      "url": "https://github.com/Aloshanai/ib_trade_dart/issues/63",
-      "repo": "Aloshanai/ib_trade_dart",
-      "author": "Hari-Nikesh-R",
-      "comments": 0,
-      "created": "2026-08-10T08:13:21Z",
-      "score": 6,
-      "labels": []
-    },
-    {
-      "title": "[Bug]: resource limits not applied for apple-container backend",
-      "url": "https://github.com/moltis-org/moltis/issues/1188",
-      "repo": "moltis-org/moltis",
-      "author": "holgzn",
-      "comments": 0,
-      "created": "2026-08-10T10:07:32Z",
-      "score": 5,
-      "labels": [
-        "bug"
-      ]
-    },
-    {
-      "title": "Support receiving work from a durable execution system",
-      "url": "https://github.com/choria-io/fisk-ai/issues/55",
-      "repo": "choria-io/fisk-ai",
-      "author": "ripienaar",
-      "comments": 0,
-      "created": "2026-08-10T09:58:13Z",
-      "score": 5,
-      "labels": []
-    },
-    {
-      "title": "feat: evolve the framework toward earned, per-repo autonomy (EPIC)",
-      "url": "https://github.com/noctua84/nescio-ai/issues/33",
-      "repo": "noctua84/nescio-ai",
-      "author": "noctua84",
-      "comments": 0,
-      "created": "2026-08-09T18:26:06Z",
-      "score": 5,
-      "labels": [
-        "enhancement"
-      ]
-    },
-    {
-      "title": "upstream-watch: 2026-08-02 (50 item(s))",
-      "url": "https://github.com/howie/openspectra/issues/141",
-      "repo": "howie/openspectra",
+      "title": "Weekly discovery: new DeepSeek Harness ecosystem candidates",
+      "url": "https://github.com/fendouai/awesome-deepseek-harness/issues/35",
+      "repo": "fendouai/awesome-deepseek-harness",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T09:40:23Z",
-      "score": 5,
-      "labels": [
-        "enhancement"
-      ]
+      "created": "2026-08-24T03:55:20Z",
+      "score": 7,
+      "labels": []
     },
     {
-      "title": "[Bug]: FAILED Task 缺少稳定错误码，Core 结构化错误在 Runtime/A2A 映射中丢失",
-      "url": "https://github.com/openJiuwen-ai/agent-runtime-java/issues/90",
-      "repo": "openJiuwen-ai/agent-runtime-java",
-      "author": "openjiuwen-collaboration-bot[bot]",
+      "title": "CONN-002 — Extract the mock operations implementation behind connector contracts",
+      "url": "https://github.com/cdilorenzo/incident-weaver/issues/14",
+      "repo": "cdilorenzo/incident-weaver",
+      "author": "cdilorenzo",
       "comments": 0,
-      "created": "2026-08-10T08:39:58Z",
-      "score": 5,
+      "created": "2026-08-24T07:52:42Z",
+      "score": 6,
       "labels": [
-        "bug",
-        "priority/unspecified"
+        "help wanted",
+        "connectors",
+        "python"
       ]
     },
     {
-      "title": "feat(a2a): upgrade @ag-ui/a2a and @ag-ui/a2a-middleware to A2A Protocol v1.0 (@a2a-js/sdk@1.x)",
-      "url": "https://github.com/ag-ui-protocol/ag-ui/issues/2358",
-      "repo": "ag-ui-protocol/ag-ui",
-      "author": "guanshan",
+      "title": "📈 AI Open Source Trends 2026-08-24",
+      "url": "https://github.com/brysoh435-dev/agents-radar/issues/79",
+      "repo": "brysoh435-dev/agents-radar",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T03:48:50Z",
+      "score": 6,
+      "labels": [
+        "trending-en"
+      ]
+    },
+    {
+      "title": "[EPIC] Workflow Genome and Evolution — typed, versioned mutation of agent/workflow programs",
+      "url": "https://github.com/Agent-Clubhouse/Goobers/issues/3595",
+      "repo": "Agent-Clubhouse/Goobers",
+      "author": "krishnapatel17",
       "comments": 1,
-      "created": "2026-08-10T04:45:26Z",
+      "created": "2026-08-23T06:15:24Z",
+      "score": 6,
+      "labels": [
+        "area:contracts",
+        "area:telemetry",
+        "area:workflows",
+        "epic",
+        "goobers:nominated",
+        "type:feature",
+        "tracking"
+      ]
+    },
+    {
+      "title": "[PIR][WP9] Frozen-weight skill/harness evolution loop via @metaharness/darwin (SHAPER pattern, arXiv:2608.11350)",
+      "url": "https://github.com/ruvnet/RuVector/issues/841",
+      "repo": "ruvnet/RuVector",
+      "author": "ruvnet",
+      "comments": 3,
+      "created": "2026-08-20T01:03:29Z",
+      "score": 6,
+      "labels": [
+        "pir",
+        "adr",
+        "phase-3"
+      ]
+    },
+    {
+      "title": "Observation from a bootstrap awakening experiment — Four permission pillars for self-directed AI evolution",
+      "url": "https://github.com/FrontisAI/OpenRSI/issues/11",
+      "repo": "FrontisAI/OpenRSI",
+      "author": "bio1-aws",
+      "comments": 0,
+      "created": "2026-08-24T07:53:19Z",
       "score": 5,
       "labels": []
     },
     {
-      "title": "Support Agent Role-Based Orchestration with Instance Mapping at Execution Time",
-      "url": "https://github.com/project-openan/orchestration-center/issues/74",
-      "repo": "project-openan/orchestration-center",
-      "author": "guofei66",
+      "title": "📧 Daily Digest — 2026-08-24",
+      "url": "https://github.com/GaspardCoche/agent-system/issues/213",
+      "repo": "GaspardCoche/agent-system",
+      "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T03:24:00Z",
+      "created": "2026-08-24T05:03:09Z",
       "score": 5,
       "labels": [
-        "feature",
-        "openan-26.12"
+        "digest"
       ]
+    },
+    {
+      "title": "Latest 10 Papers - August 24, 2026",
+      "url": "https://github.com/luohongk/Embodied-AI-Daily/issues/956",
+      "repo": "luohongk/Embodied-AI-Daily",
+      "author": "luohongk",
+      "comments": 0,
+      "created": "2026-08-24T08:27:28Z",
+      "score": 5,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Benchmark Veltro against the real alternative (raw source / repo maps), not only against diagram formats",
+      "url": "https://github.com/Nicchi10/Veltro/issues/12",
+      "repo": "Nicchi10/Veltro",
+      "author": "360Welfare",
+      "comments": 0,
+      "created": "2026-08-24T09:36:27Z",
+      "score": 5,
+      "labels": []
     },
     {
       "title": "🔴 Too many untracked skipped tests: 94",
-      "url": "https://github.com/vishnu2kmohan/mcp-server-langgraph/issues/254",
+      "url": "https://github.com/vishnu2kmohan/mcp-server-langgraph/issues/258",
       "repo": "vishnu2kmohan/mcp-server-langgraph",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T10:08:41Z",
+      "created": "2026-08-24T09:36:27Z",
       "score": 5,
       "labels": [
         "technical-debt",
@@ -487,337 +469,440 @@
       ]
     },
     {
-      "title": "Surface parity for notebooks: MCP tools and /api/v1 endpoints for scoped ask and notebook management",
-      "url": "https://github.com/danieljustus/symaira-desktop/issues/428",
-      "repo": "danieljustus/symaira-desktop",
-      "author": "danieljustus",
+      "title": "MCP spec conformance: 7 requirement(s) violated (via @hasmcp/mcp-spec-test)",
+      "url": "https://github.com/oraios/serena/issues/1922",
+      "repo": "oraios/serena",
+      "author": "hasmcp-dev",
       "comments": 0,
-      "created": "2026-08-10T10:05:08Z",
-      "score": 5,
-      "labels": [
-        "priority: medium",
-        "feature",
-        "group: notebooks"
-      ]
-    },
-    {
-      "title": "pubmed-mcp: tool handlers are single 90-110 line functions mixing validation, IO and text formatting",
-      "url": "https://github.com/illumination-k/pubmed-client/issues/252",
-      "repo": "illumination-k/pubmed-client",
-      "author": "illumination-k",
-      "comments": 0,
-      "created": "2026-08-10T10:02:26Z",
-      "score": 5,
-      "labels": [
-        "p-low"
-      ]
-    },
-    {
-      "title": "stats: absurd Time Spent (ended_at never written) + zero per-agent checkpoints; handoff create FK failure; task start after claim errors; text-mode warnings break JSON",
-      "url": "https://github.com/Xuepoo/carryctx/issues/60",
-      "repo": "Xuepoo/carryctx",
-      "author": "Xuepoo",
-      "comments": 0,
-      "created": "2026-08-10T10:01:26Z",
+      "created": "2026-08-24T09:36:11Z",
       "score": 5,
       "labels": []
     },
     {
-      "title": "epic(ai): the agent harness -- vision, prior art, and the plan to stand behind \"or the agent harness itself\"",
-      "url": "https://github.com/routecraftjs/routecraft/issues/548",
-      "repo": "routecraftjs/routecraft",
-      "author": "ex0b1t",
-      "comments": 2,
-      "created": "2026-08-10T07:28:15Z",
+      "title": "📚 Claude Hooks Documentation Updated - 2026-08-24",
+      "url": "https://github.com/gabriel-dehan/claude_hooks/issues/62",
+      "repo": "gabriel-dehan/claude_hooks",
+      "author": "gabriel-dehan",
+      "comments": 0,
+      "created": "2026-08-24T09:36:00Z",
+      "score": 5,
+      "labels": []
+    },
+    {
+      "title": "🔍 Code Quality Report - 2026-08-24",
+      "url": "https://github.com/OpenHands/OpenHands-CLI/issues/813",
+      "repo": "OpenHands/OpenHands-CLI",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T09:28:57Z",
+      "score": 5,
+      "labels": []
+    },
+    {
+      "title": "Unify broker symbol resolution across backtest, optimization, and data tools",
+      "url": "https://github.com/severus-sys/mt5-mcp-quant/issues/6",
+      "repo": "severus-sys/mt5-mcp-quant",
+      "author": "severus-sys",
+      "comments": 0,
+      "created": "2026-08-24T09:28:05Z",
       "score": 5,
       "labels": [
         "enhancement"
       ]
     },
     {
-      "title": "Core SDK: knowledge adapters leak/wipe data on missing scope, async chat blocks the event loop every turn, and the @tool/BaseTool schema builder mis-marks *args/**kwargs as required",
-      "url": "https://github.com/MervinPraison/PraisonAI/issues/3834",
-      "repo": "MervinPraison/PraisonAI",
-      "author": "MervinPraison",
-      "comments": 1,
-      "created": "2026-08-10T07:16:45Z",
+      "title": "Latest 10 Papers - August 24, 2026",
+      "url": "https://github.com/luohongk/Embodied-AI-Daily/issues/955",
+      "repo": "luohongk/Embodied-AI-Daily",
+      "author": "luohongk",
+      "comments": 0,
+      "created": "2026-08-24T03:02:00Z",
       "score": 5,
       "labels": [
-        "bug",
-        "claude"
-      ]
-    },
-    {
-      "title": "Spec: MVP Practice Assistant (刷题助手)",
-      "url": "https://github.com/xunserver/practice-assistant/issues/1",
-      "repo": "xunserver/practice-assistant",
-      "author": "xunserver",
-      "comments": 0,
-      "created": "2026-08-10T09:52:49Z",
-      "score": 4,
-      "labels": [
-        "ready-for-agent"
-      ]
-    },
-    {
-      "title": "Latest 20 Papers - August 10, 2026",
-      "url": "https://github.com/junjianli106/DailyArXiv/issues/972",
-      "repo": "junjianli106/DailyArXiv",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T09:46:54Z",
-      "score": 4,
-      "labels": [
         "documentation"
       ]
     },
     {
-      "title": "Latest 20 Papers - August 10, 2026",
-      "url": "https://github.com/junjianli106/DailyArXiv/issues/971",
-      "repo": "junjianli106/DailyArXiv",
+      "title": "🤖 AI Agent 每周精选 — 2026-08-24",
+      "url": "https://github.com/zuiqiangxianyu/ai-agent-trending/issues/64",
+      "repo": "zuiqiangxianyu/ai-agent-trending",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T09:41:42Z",
-      "score": 4,
+      "created": "2026-08-24T02:40:58Z",
+      "score": 5,
       "labels": [
-        "documentation"
+        "ai-agent",
+        "trending",
+        "automated"
       ]
     },
     {
-      "title": "[Orchard] 22 proposal(s) ready for review — ready-for-draft",
-      "url": "https://github.com/project42dev/orchard/issues/20",
-      "repo": "project42dev/orchard",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T09:27:12Z",
-      "score": 4,
-      "labels": []
-    },
-    {
-      "title": "M0: Foundation and Deterministic Run Engine",
-      "url": "https://github.com/dirk122119/rust-agent/issues/1",
-      "repo": "dirk122119/rust-agent",
-      "author": "dirk122119",
-      "comments": 0,
-      "created": "2026-08-10T10:08:51Z",
-      "score": 4,
-      "labels": [
-        "ready-for-agent"
-      ]
-    },
-    {
-      "title": "Feature request: Allow integrations to contribute dynamic @ mention candidates",
-      "url": "https://github.com/openai/codex/issues/37801",
-      "repo": "openai/codex",
-      "author": "cxliantgroup-creator",
-      "comments": 0,
-      "created": "2026-08-10T10:08:46Z",
-      "score": 4,
-      "labels": [
-        "enhancement"
-      ]
-    },
-    {
-      "title": "上游同步：steipete/CodexBar 已发布 v0.48.0（当前基线 v0.47.0）",
-      "url": "https://github.com/o1xhack/CodexBar-Mobile/issues/77",
-      "repo": "o1xhack/CodexBar-Mobile",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T10:07:24Z",
-      "score": 4,
-      "labels": [
-        "upstream-sync"
-      ]
-    },
-    {
-      "title": "Exercise: Integrate MCP with Copilot",
-      "url": "https://github.com/deepakkumarmantry/skills-integrate-mcp-with-copilot/issues/1",
-      "repo": "deepakkumarmantry/skills-integrate-mcp-with-copilot",
-      "author": "github-actions[bot]",
-      "comments": 2,
-      "created": "2026-08-10T10:06:03Z",
-      "score": 4,
-      "labels": []
-    },
-    {
-      "title": "Latest 15 Papers - August 10, 2026",
-      "url": "https://github.com/Ponkux/DailyArXiv-cp/issues/533",
-      "repo": "Ponkux/DailyArXiv-cp",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T05:43:58Z",
-      "score": 4,
-      "labels": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "🚀 Singularity Operator ROI / Evolution Status (auto-updated)",
-      "url": "https://github.com/eric847b/singularity-operator/issues/5",
-      "repo": "eric847b/singularity-operator",
-      "author": "github-actions[bot]",
-      "comments": 54,
-      "created": "2026-08-09T20:44:03Z",
-      "score": 3,
-      "labels": [
-        "catalyst",
-        "self-heal",
-        "fleet-status"
-      ]
-    },
-    {
-      "title": "[Paper Note] Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering, Junlin Yang+, arXiv'26, 2026.07",
-      "url": "https://github.com/AkihikoWatanabe/paper_notes/issues/6241",
-      "repo": "AkihikoWatanabe/paper_notes",
-      "author": "AkihikoWatanabe",
-      "comments": 3,
-      "created": "2026-08-09T17:16:36Z",
-      "score": 3,
-      "labels": [
-        "NLP",
-        "LanguageModel",
-        "AIAgents",
-        "Evaluation",
-        "PostTraining",
-        "autoresearch",
-        "Author Thread-Post"
-      ]
-    },
-    {
-      "title": "Takes: PMCoder's +5.0 percentage-point SWE-bench Verified gain (an average of 25 extra resolved instances over a harness-matched baseline) is a loop-and-exhaustion suppression effect rather than an e…",
-      "url": "https://github.com/jjakimoto/research-issues/issues/602",
-      "repo": "jjakimoto/research-issues",
-      "author": "jjakimoto",
-      "comments": 0,
-      "created": "2026-08-10T10:07:56Z",
-      "score": 2,
-      "labels": [
-        "auto-research",
-        "hypothesis",
-        "domain:research"
-      ]
-    },
-    {
-      "title": "[new-research] arXiv:2608.06862 — SynChain: Inducing Computer-Use Agent Systems to Construct Their Own Attack Chai",
-      "url": "https://github.com/emmanuelgjr/GenAI-Security-Crosswalk/issues/449",
-      "repo": "emmanuelgjr/GenAI-Security-Crosswalk",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T10:07:28Z",
-      "score": 2,
-      "labels": [
-        "new-research",
-        "automated-watch"
-      ]
-    },
-    {
-      "title": "[new-research] arXiv:2608.06984 — HarnessSafe: Evaluating Safety Across Persistent Carriers in Agent Harnesses",
-      "url": "https://github.com/emmanuelgjr/GenAI-Security-Crosswalk/issues/444",
-      "repo": "emmanuelgjr/GenAI-Security-Crosswalk",
-      "author": "github-actions[bot]",
-      "comments": 0,
-      "created": "2026-08-10T10:07:26Z",
-      "score": 2,
-      "labels": [
-        "new-research",
-        "automated-watch"
-      ]
-    },
-    {
-      "title": "[Bug]: Masked test failures can be recorded as passing verification",
-      "url": "https://github.com/NousResearch/hermes-agent/issues/83116",
+      "title": "[Bug]: hindsight_retain plugin can never set occurred_start/occurred_end (temporal memories land with null occurrence fields, no tool to fix them)",
+      "url": "https://github.com/NousResearch/hermes-agent/issues/93568",
       "repo": "NousResearch/hermes-agent",
-      "author": "fangliquanflq",
-      "comments": 0,
-      "created": "2026-08-10T09:57:24Z",
-      "score": 2,
+      "author": "mecworks",
+      "comments": 3,
+      "created": "2026-08-24T05:09:25Z",
+      "score": 5,
       "labels": [
         "type/bug",
-        "comp/agent",
-        "tool/terminal",
-        "P2"
+        "comp/plugins",
+        "tool/memory",
+        "P3",
+        "area/memory"
       ]
     },
     {
-      "title": "[P1] Redesign the Store Manager system prompt around authority, grounding, and state transitions",
-      "url": "https://github.com/Bay-State-Pet-and-Garden-Supply/baystate-cms/issues/41",
-      "repo": "Bay-State-Pet-and-Garden-Supply/baystate-cms",
-      "author": "nickborrello",
-      "comments": 0,
-      "created": "2026-08-10T09:50:55Z",
-      "score": 2,
-      "labels": []
-    },
-    {
-      "title": "[HQ Work] hq-director v0.1 — bounded mission selection and formulation",
-      "url": "https://github.com/kimeisele/federation-hq/issues/33",
-      "repo": "kimeisele/federation-hq",
-      "author": "kimeisele",
-      "comments": 0,
-      "created": "2026-08-10T09:49:53Z",
-      "score": 2,
-      "labels": []
-    },
-    {
-      "title": "📅 Daily Trending: AI Agents · LLMs · Governance — 2026-08-10",
-      "url": "https://github.com/princeruhulofficial/github-trending/issues/32",
-      "repo": "princeruhulofficial/github-trending",
+      "title": "[copilot-cli-research] Copilot CLI Deep Research - 2026-08-24",
+      "url": "https://github.com/github/gh-aw/issues/55266",
+      "repo": "github/gh-aw",
       "author": "github-actions[bot]",
       "comments": 0,
-      "created": "2026-08-10T07:42:35Z",
+      "created": "2026-08-24T04:05:12Z",
+      "score": 5,
+      "labels": []
+    },
+    {
+      "title": "[Bug]: Concurrent CLI session initialization can lose the selected Compute Host",
+      "url": "https://github.com/aipoch/open-science/issues/1657",
+      "repo": "aipoch/open-science",
+      "author": "bobo-xxx",
+      "comments": 0,
+      "created": "2026-08-24T09:18:29Z",
+      "score": 4,
+      "labels": []
+    },
+    {
+      "title": "ai: no per-request app-context seam — TanStack's context/middleware/metadata is never forwarded by the bridge",
+      "url": "https://github.com/rickylabs/netscript/issues/1694",
+      "repo": "rickylabs/netscript",
+      "author": "rickylabs",
+      "comments": 0,
+      "created": "2026-08-24T09:14:14Z",
+      "score": 4,
+      "labels": []
+    },
+    {
+      "title": "[paper-review] Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3 (arXiv:2607.28287)",
+      "url": "https://github.com/Paier05/Final-Year-Project/issues/1",
+      "repo": "Paier05/Final-Year-Project",
+      "author": "Paier05",
+      "comments": 1,
+      "created": "2026-08-23T11:45:21Z",
+      "score": 4,
+      "labels": [
+        "research",
+        "paper-review"
+      ]
+    },
+    {
+      "title": "ENA v0.3.5 field validation: evolution metabolism on fresh heterogeneous Hosts",
+      "url": "https://github.com/guytogay/evolution-native-agent-architecture/issues/61",
+      "repo": "guytogay/evolution-native-agent-architecture",
+      "author": "guytogay",
+      "comments": 1,
+      "created": "2026-08-23T06:03:25Z",
+      "score": 4,
+      "labels": []
+    },
+    {
+      "title": "Latest 20 Papers - August 24, 2026",
+      "url": "https://github.com/junjianli106/DailyArXiv/issues/996",
+      "repo": "junjianli106/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T09:03:13Z",
+      "score": 4,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Latest 20 Papers - August 24, 2026",
+      "url": "https://github.com/junjianli106/DailyArXiv/issues/995",
+      "repo": "junjianli106/DailyArXiv",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T08:57:27Z",
+      "score": 4,
+      "labels": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "Retry budget is enforced before dedup and counts successes, so idempotency breaks at budget",
+      "url": "https://github.com/Cyrax321/CONTINUUM/issues/309",
+      "repo": "Cyrax321/CONTINUUM",
+      "author": "Cyrax321",
+      "comments": 0,
+      "created": "2026-08-24T09:31:20Z",
+      "score": 4,
+      "labels": [
+        "bug",
+        "state",
+        "mcp"
+      ]
+    },
+    {
+      "title": "Agent enrollment succeeds but WebSocket handshake is rejected with HTTP 400",
+      "url": "https://github.com/pensados/sentinelx-cloud-core/issues/34",
+      "repo": "pensados/sentinelx-cloud-core",
+      "author": "oliviergeninimmo-ai",
+      "comments": 0,
+      "created": "2026-08-24T09:31:15Z",
+      "score": 4,
+      "labels": []
+    },
+    {
+      "title": "[aw] Daily MCP Tool Concurrency Analysis produced no safe outputs",
+      "url": "https://github.com/github/gh-aw/issues/55350",
+      "repo": "github/gh-aw",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T09:29:28Z",
+      "score": 4,
+      "labels": [
+        "agentic-workflows"
+      ]
+    },
+    {
+      "title": "[Bain & Company] Lead, AI Engineering",
+      "url": "https://github.com/menil/jobgitops-example/issues/23",
+      "repo": "menil/jobgitops-example",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T03:09:29Z",
+      "score": 4,
+      "labels": [
+        "triage-pending"
+      ]
+    },
+    {
+      "title": "Codex CLI 0.149.0 corrupts tool-call arguments and degenerates into gibberish on gpt-5.6-sol",
+      "url": "https://github.com/openai/codex/issues/40369",
+      "repo": "openai/codex",
+      "author": "SugarNekoE",
+      "comments": 1,
+      "created": "2026-08-24T09:34:42Z",
+      "score": 3,
+      "labels": [
+        "bug",
+        "model-behavior",
+        "CLI",
+        "tool-calls"
+      ]
+    },
+    {
+      "title": "Spec: replace durable Runs with direct AI SDK AgentCore streaming",
+      "url": "https://github.com/X-GPT/mymemo-agent/issues/560",
+      "repo": "X-GPT/mymemo-agent",
+      "author": "chengchao",
+      "comments": 0,
+      "created": "2026-08-24T09:33:15Z",
+      "score": 3,
+      "labels": [
+        "ready-for-agent"
+      ]
+    },
+    {
+      "title": "Research: Knowledge Granularity & Memory Representation",
+      "url": "https://github.com/69420pm/ai-learning-support-test/issues/109",
+      "repo": "69420pm/ai-learning-support-test",
+      "author": "agent69420pm",
+      "comments": 0,
+      "created": "2026-08-24T09:32:20Z",
+      "score": 3,
+      "labels": [
+        "wayfinder:research"
+      ]
+    },
+    {
+      "title": "ENA v0.3.6 field validation: Evolution Ecology on heterogeneous Hosts",
+      "url": "https://github.com/guytogay/evolution-native-agent-architecture/issues/70",
+      "repo": "guytogay/evolution-native-agent-architecture",
+      "author": "guytogay",
+      "comments": 5,
+      "created": "2026-08-24T01:20:18Z",
+      "score": 3,
+      "labels": []
+    },
+    {
+      "title": "wayfinder:map — OpenTrader ultimate: self-improving regime-switch to FTMO",
+      "url": "https://github.com/rivers-research-hq/opentrader/issues/150",
+      "repo": "rivers-research-hq/opentrader",
+      "author": "rivers-research-hq",
+      "comments": 1,
+      "created": "2026-08-23T20:17:20Z",
+      "score": 3,
+      "labels": [
+        "wayfinder:map"
+      ]
+    },
+    {
+      "title": "ArXiv Summary - 2026-08-24 (papers from 2026-08-21 to 2026-08-24)",
+      "url": "https://github.com/dolejs-jan/arxiv-digest/issues/38",
+      "repo": "dolejs-jan/arxiv-digest",
+      "author": "github-actions[bot]",
+      "comments": 0,
+      "created": "2026-08-24T08:07:57Z",
+      "score": 3,
+      "labels": [
+        "arxiv-summary"
+      ]
+    },
+    {
+      "title": "Add: SkillNerds/xskill",
+      "url": "https://github.com/dsh-pluginmarket/metadata/issues/1724",
+      "repo": "dsh-pluginmarket/metadata",
+      "author": "deepseek-harness-plugin[bot]",
+      "comments": 1,
+      "created": "2026-08-24T04:13:26Z",
+      "score": 3,
+      "labels": [
+        "metadata-submission"
+      ]
+    },
+    {
+      "title": "Add: volcengine/OpenViking",
+      "url": "https://github.com/dsh-pluginmarket/metadata/issues/1281",
+      "repo": "dsh-pluginmarket/metadata",
+      "author": "deepseek-harness-plugin[bot]",
+      "comments": 1,
+      "created": "2026-08-24T04:04:27Z",
+      "score": 3,
+      "labels": [
+        "metadata-submission"
+      ]
+    },
+    {
+      "title": "[PIR][WP19] Self-distilled entity-grounded skill synthesis in the Darwin loop (SkillForge pattern, ADR-321)",
+      "url": "https://github.com/ruvnet/RuVector/issues/866",
+      "repo": "ruvnet/RuVector",
+      "author": "ruvnet",
+      "comments": 5,
+      "created": "2026-08-20T12:41:22Z",
+      "score": 3,
+      "labels": [
+        "pir",
+        "adr",
+        "wave-2",
+        "phase-w2-3"
+      ]
+    },
+    {
+      "title": "Curate mismatch repair cancer syndrome (MONDO:0031219)",
+      "url": "https://github.com/monarch-initiative/dismech/issues/9037",
+      "repo": "monarch-initiative/dismech",
+      "author": "sierra-moxon",
+      "comments": 1,
+      "created": "2026-08-20T04:06:36Z",
+      "score": 3,
+      "labels": [
+        "enhancement",
+        "curation",
+        "high_effort"
+      ]
+    },
+    {
+      "title": "Skills for Real Developers",
+      "url": "https://github.com/mkanat/skills/issues/1",
+      "repo": "mkanat/skills",
+      "author": "WilliamGomes41",
+      "comments": 0,
+      "created": "2026-08-24T09:36:38Z",
       "score": 2,
       "labels": []
     },
     {
-      "title": "Add a handler for the Unity CLI (`unity command`) — 10k-token listings pass through uncompressed",
-      "url": "https://github.com/rtk-ai/rtk/issues/3518",
-      "repo": "rtk-ai/rtk",
-      "author": "ido-ho",
-      "comments": 1,
-      "created": "2026-08-10T09:48:47Z",
-      "score": 1,
+      "title": "3. Core SYSTEM_PROMPT — cut to <8 KB",
+      "url": "https://github.com/carriegale2710/gaia-2.0/issues/10",
+      "repo": "carriegale2710/gaia-2.0",
+      "author": "carriegale2710",
+      "comments": 0,
+      "created": "2026-08-24T09:28:44Z",
+      "score": 2,
       "labels": [
-        "enhancement",
-        "help wanted",
-        "priority:low",
-        "area:cli"
+        "enhancement"
       ]
     },
     {
-      "title": "Forensic case: risk evidence does not enforce claim coverage",
-      "url": "https://github.com/schluegge/Viberails/issues/5",
-      "repo": "schluegge/Viberails",
-      "author": "schluegge",
-      "comments": 27,
-      "created": "2026-08-10T05:05:42Z",
-      "score": 1,
+      "title": "[Workspace]: Make configured orchestrator delegation the ordinary action path",
+      "url": "https://github.com/rickardvh/agentic-workspace/issues/2696",
+      "repo": "rickardvh/agentic-workspace",
+      "author": "rickardvh",
+      "comments": 1,
+      "created": "2026-08-24T08:01:34Z",
+      "score": 2,
+      "labels": [
+        "planning",
+        "priority:P1"
+      ]
+    },
+    {
+      "title": "複数ユーザー（マルチユーザー）対応の検討・改修",
+      "url": "https://github.com/airspo-tachikawa/agent-framework-sample/issues/2",
+      "repo": "airspo-tachikawa/agent-framework-sample",
+      "author": "msmasuda",
+      "comments": 0,
+      "created": "2026-08-24T08:58:41Z",
+      "score": 2,
       "labels": []
     },
     {
-      "title": "[데이터셋검토] AgentBoard",
-      "url": "https://github.com/aigovsensing/dataset-review/issues/38",
-      "repo": "aigovsensing/dataset-review",
-      "author": "kimhhhj",
-      "comments": 2,
-      "created": "2026-08-10T08:24:10Z",
+      "title": "consolidated: add opt-in Monitor/Pulse health UI and manual draft checks",
+      "url": "https://github.com/Ultimate-Multisite/superdav-ai-agent/issues/2566",
+      "repo": "Ultimate-Multisite/superdav-ai-agent",
+      "author": "superdav42",
+      "comments": 4,
+      "created": "2026-08-24T09:27:58Z",
       "score": 0,
       "labels": [
-        "dataset-review",
-        "reviewed"
+        "priority:medium",
+        "ui",
+        "status:in-progress",
+        "auto-dispatch",
+        "origin:worker",
+        "tier:thinking",
+        "consolidated"
       ]
     },
     {
-      "title": "perf(runner): hand off prepared sandbox to known immediate successor",
-      "url": "https://github.com/vm0-ai/vm0/issues/26069",
-      "repo": "vm0-ai/vm0",
-      "author": "seven332",
-      "comments": 5,
-      "created": "2026-08-10T07:09:07Z",
+      "title": "feat(serve): add explicit target scopes for managed memory tasks",
+      "url": "https://github.com/QwenLM/qwen-code/issues/9894",
+      "repo": "QwenLM/qwen-code",
+      "author": "qqqys",
+      "comments": 2,
+      "created": "2026-08-24T09:20:09Z",
       "score": 0,
       "labels": [
-        "rust",
-        "performance",
-        "codex-pending"
+        "priority/P2",
+        "type/feature-request",
+        "category/core",
+        "scope/memory",
+        "daemon"
+      ]
+    },
+    {
+      "title": "[Feature Request] Native Relayer-Side Memory Invalidation and Supersede Protocol",
+      "url": "https://github.com/MystenLabs/MemWal/issues/765",
+      "repo": "MystenLabs/MemWal",
+      "author": "sandman-sh",
+      "comments": 1,
+      "created": "2026-08-24T08:31:11Z",
+      "score": 0,
+      "labels": []
+    },
+    {
+      "title": "realtime-visualization: genetic preset marathon (arena/genepool)",
+      "url": "https://github.com/murtaza64/manadj/issues/135",
+      "repo": "murtaza64/manadj",
+      "author": "murtaza64",
+      "comments": 21,
+      "created": "2026-08-20T00:59:04Z",
+      "score": 0,
+      "labels": [
+        "feature:realtime-visualization",
+        "agent:viz-presets"
       ]
     }
   ]
