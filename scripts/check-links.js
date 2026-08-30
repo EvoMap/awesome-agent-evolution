@@ -10,7 +10,7 @@
  * Requires: gh CLI authenticated
  */
 
-const { execSync } = require('child_process');
+const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
@@ -18,8 +18,7 @@ const PROJECTS_PATH = path.join(__dirname, '..', 'data', 'projects.json');
 
 function checkRepo(repo) {
   try {
-    const cmd = `gh api repos/${repo} --jq '{archived: .archived, disabled: .disabled, full_name: .full_name}'`;
-    const result = JSON.parse(execSync(cmd, { encoding: 'utf-8', timeout: 15000 }));
+    const result = JSON.parse(execFileSync('gh', ['api', `repos/${repo}`, '--jq', '{archived: .archived, disabled: .disabled, full_name: .full_name}'], { encoding: 'utf-8', timeout: 15000 }));
 
     if (result.archived) return { status: 'archived', repo };
     if (result.disabled) return { status: 'disabled', repo };
