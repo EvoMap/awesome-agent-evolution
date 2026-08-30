@@ -21,9 +21,19 @@ Projects should meet the following criteria:
 1. Fork this repository
 2. Add the project to `data/projects.json` following the schema below
 3. Run `node scripts/generate-readme.js` to regenerate the README
-4. Submit a pull request with a brief description of the project
+4. Run `node scripts/validate.js` and `node scripts/check-links.js`
+5. Submit a pull request with a brief description of the project and why it belongs in this list
 
-## Project JSON Schema
+## Scope and Cross-List Entries
+
+This list focuses on self-evolution, memory, agent infrastructure, coding, optimization, safety, and embodied agents. Multi-agent systems whose primary contribution is swarm coordination or team orchestration should normally be submitted to [awesome-agent-swarm](https://github.com/EvoMap/awesome-agent-swarm).
+
+A project may appear in both lists only when it makes a substantial, independently relevant contribution to both scopes. Explain that contribution in the pull request; popularity alone is not a reason for duplicate inclusion.
+
+## Curation Standard
+
+Meeting the minimum checks does not guarantee inclusion. Maintainers also review technical relevance, evidence for claims, maintenance quality, licensing, documentation, distinctiveness, and whether the description is objective. Discovery scripts produce candidates for human review and never imply endorsement.
+
 
 Each entry in `data/projects.json` should follow this format:
 
@@ -32,7 +42,7 @@ Each entry in `data/projects.json` should follow this format:
   "name": "Project Name",
   "repo": "owner/repo",
   "description": "One-line description of the project",
-  "category": "evolution|memory|protocols|platforms|coding|prompt-optimization|safety|embodied|community",
+  "category": "evolution|memory|protocols|platforms|coding|multi-agent|prompt-optimization|safety|embodied|community",
   "maintainer": "github-username",
   "tags": ["tag1", "tag2", "tag3"],
   "stars": 0,
@@ -49,6 +59,7 @@ Each entry in `data/projects.json` should follow this format:
 | `protocols` | A2A, MCP, and inter-agent communication protocols |
 | `platforms` | Agent development and deployment platforms |
 | `coding` | Agent coding and software engineering tools |
+| `multi-agent` | Multi-agent frameworks relevant to evolution and shared agent infrastructure |
 | `prompt-optimization` | Prompt and behaviour optimization frameworks |
 | `safety` | Agent safety, guardrails, and alignment |
 | `embodied` | Embodied AI, robotics, and device control |

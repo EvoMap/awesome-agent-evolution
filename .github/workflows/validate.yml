@@ -1,0 +1,30 @@
+name: Validate curated data
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'data/**'
+      - 'scripts/generate-readme.js'
+      - 'scripts/validate.js'
+      - 'CONTRIBUTING.md'
+      - '.github/workflows/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Validate curated data and generated README
+        run: node scripts/validate.js
+      - name: Confirm generated README is clean
+        run: |
+          node scripts/generate-readme.js
+          git diff --exit-code -- README.md
