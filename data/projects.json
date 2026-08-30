@@ -1471,5 +1471,57 @@
       "protocol"
     ],
     "stars": 553
+  },
+  {
+    "name": "agent-qa",
+    "repo": "vostride/agent-qa",
+    "description": "Self-improving QA agent for natural-language web and mobile tests, using persistent run memory to adapt to UI changes and catch regressions. Source-available under FSL-1.1-ALv2: use is permitted except to provide a competing commercial product or service, and each release converts to Apache-2.0 after two years.",
+    "category": "evolution",
+    "maintainer": "vostride",
+    "tags": [
+      "self-improving",
+      "memory",
+      "source-available"
+    ],
+    "stars": 896
+  },
+  {
+    "name": "OpenProgram",
+    "repo": "Fzkuji/OpenProgram",
+    "description": "Self-programming AI agent framework whose agents create, run, and refine their own workflows while the runtime manages models, tools, memory, context, and multi-agent collaboration.",
+    "category": "evolution",
+    "maintainer": "Fzkuji",
+    "tags": [
+      "self-programming",
+      "self-improving",
+      "open-source"
+    ],
+    "stars": 324
+  },
+  {
+    "name": "Orkas",
+    "repo": "Orkas-AI/Orkas",
+    "description": "Local-first multi-agent desktop application whose specialist agents improve through reflection and crystallize successful approaches into private reusable skills.",
+    "category": "evolution",
+    "maintainer": "Orkas-AI",
+    "tags": [
+      "self-evolving",
+      "multi-agent",
+      "skill-memory"
+    ],
+    "stars": 1545
+  },
+  {
+    "name": "Autohand Code",
+    "repo": "autohandai/code-cli",
+    "description": "Self-evolving coding agent that runs in your terminal.",
+    "category": "coding",
+    "maintainer": "autohandai",
+    "tags": [
+      "terminal",
+      "self-evolving",
+      "coding-agent"
+    ],
+    "stars": 181
   }
 ]
