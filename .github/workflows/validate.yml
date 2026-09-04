@@ -9,6 +9,16 @@ on:
       - 'scripts/validate.js'
       - 'CONTRIBUTING.md'
       - '.github/workflows/**'
+  push:
+    branches:
+      - 'chore/**'
+    paths:
+      - 'README.md'
+      - 'data/**'
+      - 'scripts/generate-readme.js'
+      - 'scripts/validate.js'
+      - 'CONTRIBUTING.md'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 permissions:
