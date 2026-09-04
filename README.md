@@ -128,6 +128,7 @@ Platforms and tools for building, deploying, and managing AI agents.
 - [**Agent-Squad**](https://github.com/2FastLabs/agent-squad#readme) - Flexible framework for managing multiple AI agents and handling complex conversations. by [@2FastLabs](https://github.com/2FastLabs) (7,752 stars)
 - [**PySpur**](https://github.com/PySpur-Dev/pyspur#readme) - Visual playground for agentic workflows with rapid iteration on multi-agent pipelines. by [@PySpur-Dev](https://github.com/PySpur-Dev) (5,779 stars)
 - [**MS-Agent**](https://github.com/modelscope/ms-agent#readme) - Lightweight framework by ModelScope to empower agentic execution of complex tasks with memory and deep research. by [@modelscope](https://github.com/modelscope) (4,374 stars)
+- [**SandBase Harness**](https://github.com/sandbaseai/sandbase-harness#readme) - Local-first, self-hosted AI agent runtime with sandboxed sessions, MCP tool governance, persistent memory, credentials, audit and replay, and a local Console. by [@sandbaseai](https://github.com/sandbaseai) (642 stars)
 <!-- /AUTOGEN:platforms -->
 
 ## Agent Coding and Software Engineering

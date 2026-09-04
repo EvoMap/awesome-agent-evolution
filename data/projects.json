@@ -1536,5 +1536,18 @@
       "coding-agent"
     ],
     "stars": 181
+  },
+  {
+    "name": "SandBase Harness",
+    "repo": "sandbaseai/sandbase-harness",
+    "description": "Local-first, self-hosted AI agent runtime with sandboxed sessions, MCP tool governance, persistent memory, credentials, audit and replay, and a local Console.",
+    "category": "platforms",
+    "maintainer": "sandbaseai",
+    "tags": [
+      "local",
+      "mcp",
+      "open-source"
+    ],
+    "stars": 642
   }
 ]
