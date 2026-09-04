@@ -1512,6 +1512,19 @@
     "stars": 1626
   },
   {
+    "name": "Reef",
+    "repo": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents. Serves agent traffic, turns matched feedback into model-weight or harness updates, and publishes accepted updates as versioned artifacts.",
+    "category": "evolution",
+    "maintainer": "Human-Agent-Society",
+    "tags": [
+      "evolution",
+      "continual-learning",
+      "agent-infrastructure"
+    ],
+    "stars": 343
+  },
+  {
     "name": "Autohand Code",
     "repo": "autohandai/code-cli",
     "description": "Self-evolving coding agent that runs in your terminal.",
