@@ -227,7 +227,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 ### Self-Evolution and Lifelong Learning
 
 - [Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646) (arXiv'25) - First live agent that autonomously evolves itself during runtime. 77.4% on SWE-bench Verified.
-- [EvoClaw: Evaluating AI Agents on Continuous Software Evolution](https://arxiv.org/abs/2603.13428) (arXiv'26) - Benchmark revealing performance drops from >80% to at most 38% in continuous evolution settings.
+- [SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution](https://arxiv.org/abs/2603.13428) (ICML'26) - Benchmark revealing performance drops from >80% on isolated tasks to 38.03% in continuous evolution settings.
 - [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/abs/2406.18532) (arXiv'24) - Agents that evolve through symbolic representation learning.
 - [Building Self-Evolving Agents via Experience-Driven Lifelong Learning](https://arxiv.org/abs/2504.01072) (arXiv'25) - Framework and benchmark for lifelong agent learning.
 - [Darwin Godel Machine](https://arxiv.org/abs/2505.22954) (arXiv'25) - Agents that rewrite their own code through evolutionary pressure.
@@ -292,7 +292,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [WebArena](https://github.com/web-arena-x/webarena) (ICLR'24) - Realistic web environment for autonomous agents.
 - [OSWorld](https://github.com/xlang-ai/OSWorld) (NeurIPS'24) - Open-ended tasks in real computer environments.
 - [GAIA](https://huggingface.co/gaia-benchmark) (ICLR'23) - General AI assistant capabilities benchmark.
-- [EvoClaw](https://github.com/FSoft-AI4Code/EvoClaw) (arXiv'26) - Evaluating agents on continuous software evolution.
+- [SWE-Milestone](https://github.com/DeepCommit-ai/SWE-Milestone) (ICML'26) - Evaluating agents on continuous software evolution.
 - [LoCoMo](https://github.com/snap-research/locomo) (arXiv'25) - Long-context memory benchmark for agent memory systems.
 - [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) ([arXiv'26](https://arxiv.org/abs/2604.08523)) - Live-web evaluation with 281 total tasks (V1: 152; V2: 129), isolated execution, and replayable five-layer traces.
 - [ATM-Bench](https://github.com/JingbiaoMei/ATM-Bench) (arXiv'26) - First multimodal, multi-source benchmark for personalized referential memory QA over ~4 years of personal records (emails, images, videos).
