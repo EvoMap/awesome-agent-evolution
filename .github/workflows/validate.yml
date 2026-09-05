@@ -2,13 +2,8 @@ name: Validate curated data
 
 on:
   pull_request:
-    paths:
-      - 'README.md'
-      - 'data/**'
-      - 'scripts/generate-readme.js'
-      - 'scripts/validate.js'
-      - 'CONTRIBUTING.md'
-      - '.github/workflows/**'
+    branches:
+      - main
   push:
     branches:
       - 'chore/**'
