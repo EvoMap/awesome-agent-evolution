@@ -67,7 +67,7 @@ function main() {
   console.log(`\nResults: ${ok} ok, ${failures.length} failures, ${warnings.length} warnings`);
 
   const issuesOut = process.env.LINK_ISSUES_OUT;
-  if (issuesOut && issues.length > 0) {
+  if (issuesOut) {
     fs.writeFileSync(issuesOut, JSON.stringify(issues, null, 2) + '\n');
     console.log(`\nWrote ${issues.length} issue(s) to ${issuesOut}`);
   }
