@@ -1525,6 +1525,19 @@
     "stars": 343
   },
   {
+    "name": "AgentDescent",
+    "repo": "Birfy/agentdescent",
+    "description": "Parallel, asynchronous optimizer for self-evolving agents: workers propose diffs to a shared library of skills, prompts and harnesses, and an aggregator resolves conflicts and accepts merges on a Beta posterior over held-out reward.",
+    "category": "evolution",
+    "maintainer": "Birfy",
+    "tags": [
+      "self-evolving",
+      "self-improving",
+      "research"
+    ],
+    "stars": 203
+  },
+  {
     "name": "Autohand Code",
     "repo": "autohandai/code-cli",
     "description": "Self-evolving coding agent that runs in your terminal.",

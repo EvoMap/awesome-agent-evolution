@@ -58,6 +58,7 @@ Projects focused on enabling AI agents to evolve, learn, and improve autonomousl
 - [**OpenProgram**](https://github.com/Fzkuji/OpenProgram#readme) - Self-programming AI agent framework whose agents create, run, and refine their own workflows while the runtime manages models, tools, memory, context, and multi-agent collaboration. by [@Fzkuji](https://github.com/Fzkuji) (350 stars)
 - [**Reef**](https://github.com/Human-Agent-Society/reef#readme) - Continual learning infra for self-improving agents. Serves agent traffic, turns matched feedback into model-weight or harness updates, and publishes accepted updates as versioned artifacts. by [@Human-Agent-Society](https://github.com/Human-Agent-Society) (343 stars)
 - [**SEAgent**](https://github.com/SunzeY/SEAgent#readme) - Self-Evolving Computer Use Agent with Autonomous Learning from Experience. by [@SunzeY](https://github.com/SunzeY) (263 stars)
+- [**AgentDescent**](https://github.com/Birfy/agentdescent#readme) - Parallel, asynchronous optimizer for self-evolving agents: workers propose diffs to a shared library of skills, prompts and harnesses, and an aggregator resolves conflicts and accepts merges on a Beta posterior over held-out reward. by [@Birfy](https://github.com/Birfy) (203 stars)
 <!-- /AUTOGEN:evolution -->
 
 ## Memory Systems
