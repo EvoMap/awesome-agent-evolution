@@ -190,6 +190,7 @@ Tools and frameworks for automatically optimizing agent prompts, instructions, a
 <!-- AUTOGEN:prompt-optimization -->
 - [**Promptfoo**](https://github.com/promptfoo/promptfoo#readme) - Open-source LLM evaluation and red-teaming framework. Test prompts, agents, and RAGs with 90+ model providers and 67+ security plugins. by [@promptfoo](https://github.com/promptfoo) (24,949 stars)
 - [**TextGrad**](https://github.com/zou-group/textgrad#readme) - Automatic differentiation via text. Backpropagation through LLM-provided textual gradients, published in Nature. by [@zou-group](https://github.com/zou-group) (3,721 stars)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 <!-- /AUTOGEN:prompt-optimization -->
 
 ## Agent Safety and Guardrails
