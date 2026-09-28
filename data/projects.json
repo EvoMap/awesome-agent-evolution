@@ -1549,5 +1549,14 @@
       "open-source"
     ],
     "stars": 647
-  }
+  },
+  {
+  "name": "Okto Pulse",
+  "repo": "OktoLabsAI/okto-pulse",
+  "description": "Local-first, spec-driven SDLC workbench that gates AI coding agent work behind evidence checks and independent validation, connected over MCP.",
+  "category": "safety",
+  "maintainer": "OktoLabsAI",
+  "tags": ["mcp", "multi-agent"],
+  "stars": 0
+}
 ]
