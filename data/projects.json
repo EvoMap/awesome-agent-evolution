@@ -1549,5 +1549,14 @@
       "open-source"
     ],
     "stars": 647
-  }
+  },
+  {
+  "name": "Okto Nexus",
+  "repo": "OktoLabsAI/okto-nexus",
+  "description": "Local-first MCP coordination hub for teams of AI coding agents, with single-winner task claims, human approval on risky actions, and durable handoff history.",
+  "category": "multi-agent",
+  "maintainer": "OktoLabsAI",
+  "tags": ["mcp", "multi-agent", "orchestration"],
+  "stars": 55
+}
 ]
