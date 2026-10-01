@@ -86,6 +86,7 @@ Vector, graph, episodic, and hybrid memory architectures for persistent agent co
 - [**Mem9**](https://github.com/mem9-ai/mem9#readme) - Unlimited persistent memory layer for AI agents. Cloud-synced memory across sessions and tools. by [@mem9-ai](https://github.com/mem9-ai) (1,216 stars)
 - [**Awesome-Agent-Memory**](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory#readme) - Curated systems, benchmarks, and papers on memory for LLMs/MLLMs -- long-term context, retrieval, and reasoning. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (634 stars)
 - [**MemSkill**](https://github.com/ViktorAxelsen/MemSkill#readme) - Learning and evolving memory skills for self-evolving agents. Meta-memory that determines what to extract, remember, and forget. by [@ViktorAxelsen](https://github.com/ViktorAxelsen) (576 stars)
+- [**Caura**](https://github.com/caura-ai/caura#readme) - Governed shared memory for AI agent fleets with scoped recall, trust tiers, audit trails, and a knowledge graph over MCP. by [@caura-ai](https://github.com/caura-ai) (516 stars)
 - [**TeleMem**](https://github.com/TeleAI-UAGI/telemem#readme) - High-performance drop-in Mem0 replacement. 19% higher accuracy, 43% fewer tokens, and 2.1x speedup via narrative dynamic extraction. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (491 stars)
 <!-- /AUTOGEN:memory -->
 

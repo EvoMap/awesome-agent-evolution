@@ -1549,5 +1549,18 @@
       "open-source"
     ],
     "stars": 647
+  },
+  {
+    "name": "Caura",
+    "repo": "caura-ai/caura",
+    "description": "Governed shared memory for AI agent fleets with scoped recall, trust tiers, audit trails, and a knowledge graph over MCP.",
+    "category": "memory",
+    "maintainer": "caura-ai",
+    "tags": [
+      "agent-memory",
+      "mcp",
+      "open-source"
+    ],
+    "stars": 516
   }
 ]
