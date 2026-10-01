@@ -733,8 +733,8 @@
     "stars": 13802
   },
   {
-    "name": "XcodeBuildMCP",
-    "repo": "getsentry/XcodeBuildMCP",
+    "name": "MobileBuildMCP",
+    "repo": "getsentry/MobileBuildMCP",
     "description": "A MCP server and CLI for agent use when working on iOS and macOS projects.",
     "category": "embodied",
     "maintainer": "getsentry",
@@ -1484,19 +1484,6 @@
       "source-available"
     ],
     "stars": 911
-  },
-  {
-    "name": "OpenProgram",
-    "repo": "Fzkuji/OpenProgram",
-    "description": "Self-programming AI agent framework whose agents create, run, and refine their own workflows while the runtime manages models, tools, memory, context, and multi-agent collaboration.",
-    "category": "evolution",
-    "maintainer": "Fzkuji",
-    "tags": [
-      "self-programming",
-      "self-improving",
-      "open-source"
-    ],
-    "stars": 495
   },
   {
     "name": "Orkas",
