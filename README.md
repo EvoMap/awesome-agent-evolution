@@ -58,6 +58,7 @@ Projects focused on enabling AI agents to evolve, learn, and improve autonomousl
 - [**A-Evolve**](https://github.com/A-EVO-Lab/a-evolve#readme) - The PyTorch for Agentic AI. Open-source infrastructure that evolves any agent across any domain with zero human intervention. #1 on MCP-Atlas (79.4%). by [@A-EVO-Lab](https://github.com/A-EVO-Lab) (790 stars)
 - [**OpenProgram**](https://github.com/Fzkuji/OpenProgram#readme) - Self-programming AI agent framework whose agents create, run, and refine their own workflows while the runtime manages models, tools, memory, context, and multi-agent collaboration. by [@Fzkuji](https://github.com/Fzkuji) (495 stars)
 - [**SEAgent**](https://github.com/SunzeY/SEAgent#readme) - Self-Evolving Computer Use Agent with Autonomous Learning from Experience. by [@SunzeY](https://github.com/SunzeY) (262 stars)
+- [**AgentDescent**](https://github.com/Birfy/agentdescent#readme) - Parallel, asynchronous optimizer for self-evolving agents: workers propose diffs to a shared library of skills, prompts and harnesses, and an aggregator resolves conflicts and accepts merges on a Beta posterior over held-out reward. by [@Birfy](https://github.com/Birfy) (203 stars)
 <!-- /AUTOGEN:evolution -->
 
 ## Memory Systems
