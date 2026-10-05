@@ -1525,6 +1525,19 @@
     "stars": 192
   },
   {
+    "name": "Orbi",
+    "repo": "orbi-build/orbi",
+    "description": "Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and a tagged release.",
+    "category": "coding",
+    "maintainer": "orbi-build",
+    "tags": [
+      "autonomous",
+      "coding-agent",
+      "github"
+    ],
+    "stars": 195
+  },
+  {
     "name": "SandBase Harness",
     "repo": "sandbaseai/sandbase-harness",
     "description": "Local-first, self-hosted AI agent runtime with sandboxed sessions, MCP tool governance, persistent memory, credentials, audit and replay, and a local Console.",
