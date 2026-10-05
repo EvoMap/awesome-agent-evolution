@@ -1562,5 +1562,18 @@
       "research"
     ],
     "stars": 203
+  },
+  {
+    "name": "Statewave",
+    "repo": "smaramwbc/statewave",
+    "description": "Memory runtime that compiles agent events into reproducible, provenance-tagged context bundles. Self-hosted on Postgres + pgvector.",
+    "category": "memory",
+    "maintainer": "smaramwbc",
+    "tags": [
+      "agent-memory",
+      "provenance",
+      "open-source"
+    ],
+    "stars": 366
   }
 ]
