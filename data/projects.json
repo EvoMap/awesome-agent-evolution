@@ -733,8 +733,8 @@
     "stars": 13802
   },
   {
-    "name": "XcodeBuildMCP",
-    "repo": "getsentry/XcodeBuildMCP",
+    "name": "MobileBuildMCP",
+    "repo": "getsentry/MobileBuildMCP",
     "description": "A MCP server and CLI for agent use when working on iOS and macOS projects.",
     "category": "embodied",
     "maintainer": "getsentry",
@@ -1486,19 +1486,6 @@
     "stars": 911
   },
   {
-    "name": "OpenProgram",
-    "repo": "Fzkuji/OpenProgram",
-    "description": "Self-programming AI agent framework whose agents create, run, and refine their own workflows while the runtime manages models, tools, memory, context, and multi-agent collaboration.",
-    "category": "evolution",
-    "maintainer": "Fzkuji",
-    "tags": [
-      "self-programming",
-      "self-improving",
-      "open-source"
-    ],
-    "stars": 495
-  },
-  {
     "name": "Orkas",
     "repo": "Orkas-AI/Orkas",
     "description": "Local-first multi-agent desktop application whose specialist agents improve through reflection and crystallize successful approaches into private reusable skills.",
@@ -1551,6 +1538,32 @@
     "stars": 647
   },
   {
+    "name": "Caura",
+    "repo": "caura-ai/caura",
+    "description": "Governed shared memory for AI agent fleets with scoped recall, trust tiers, audit trails, and a knowledge graph over MCP.",
+    "category": "memory",
+    "maintainer": "caura-ai",
+    "tags": [
+      "agent-memory",
+      "mcp",
+      "open-source"
+    ],
+    "stars": 516
+  },
+  {
+    "name": "AgentDescent",
+    "repo": "Birfy/agentdescent",
+    "description": "Parallel, asynchronous optimizer for self-evolving agents: workers propose diffs to a shared library of skills, prompts and harnesses, and an aggregator resolves conflicts and accepts merges on a Beta posterior over held-out reward.",
+    "category": "evolution",
+    "maintainer": "Birfy",
+    "tags": [
+      "self-evolving",
+      "self-improving",
+      "research"
+    ],
+    "stars": 203
+  },
+  {
     "name": "Mnemoverse",
     "repo": "mnemoverse/mcp-memory-server",
     "description": "Persistent memory for AI agents over MCP. Hosted remote server with OAuth or local npx with a key; recall is re-ranked by feedback on whether a memory helped.",
@@ -1561,7 +1574,7 @@
       "open-source",
       "memory"
     ],
-    "stars": 21,
+    "stars": 26,
     "paper": "https://arxiv.org/abs/2603.08965"
   }
 ]
