@@ -88,6 +88,7 @@ Vector, graph, episodic, and hybrid memory architectures for persistent agent co
 - [**MemSkill**](https://github.com/ViktorAxelsen/MemSkill#readme) - Learning and evolving memory skills for self-evolving agents. Meta-memory that determines what to extract, remember, and forget. by [@ViktorAxelsen](https://github.com/ViktorAxelsen) (576 stars)
 - [**Caura**](https://github.com/caura-ai/caura#readme) - Governed shared memory for AI agent fleets with scoped recall, trust tiers, audit trails, and a knowledge graph over MCP. by [@caura-ai](https://github.com/caura-ai) (516 stars)
 - [**TeleMem**](https://github.com/TeleAI-UAGI/telemem#readme) - High-performance drop-in Mem0 replacement. 19% higher accuracy, 43% fewer tokens, and 2.1x speedup via narrative dynamic extraction. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (491 stars)
+- [**Mnemoverse**](https://github.com/mnemoverse/mcp-memory-server#readme) - Persistent memory for AI agents over MCP. Hosted remote server with OAuth or local npx with a key; recall is re-ranked by feedback on whether a memory helped. by [@mnemoverse](https://github.com/mnemoverse) (26 stars)
 <!-- /AUTOGEN:memory -->
 
 ## Agent-to-Agent Protocols
