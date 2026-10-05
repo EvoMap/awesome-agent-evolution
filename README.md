@@ -154,6 +154,7 @@ AI agents that write, debug, and maintain code autonomously.
 - [**Open SWE**](https://github.com/langchain-ai/open-swe#readme) - Open-source asynchronous coding agent by LangChain for software engineering tasks. by [@langchain-ai](https://github.com/langchain-ai) (10,722 stars)
 - [**Mini-SWE-Agent**](https://github.com/SWE-agent/mini-swe-agent#readme) - The 100-line AI agent that solves GitHub issues. Radically simple but scores >74% on SWE-bench verified. by [@SWE-agent](https://github.com/SWE-agent) (7,636 stars)
 - [**Reflexion**](https://github.com/noahshinn/reflexion#readme) - Language agents with verbal reinforcement learning. Agents that learn from mistakes through self-reflection. by [@noahshinn](https://github.com/noahshinn) (3,267 stars)
+- [**Orbi**](https://github.com/orbi-build/orbi#readme) - Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and a tagged release. by [@orbi-build](https://github.com/orbi-build) (195 stars)
 - [**Autohand Code**](https://github.com/autohandai/code-cli#readme) - Self-evolving coding agent that runs in your terminal. by [@autohandai](https://github.com/autohandai) (192 stars)
 <!-- /AUTOGEN:coding -->
 
