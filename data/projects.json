@@ -1438,5 +1438,21 @@
     "maintainer": "google-agentic-commerce",
     "tags": [],
     "stars": 553
+  },
+  {
+    "name": "Awareness Local",
+    "repo": "everest-an/Awareness-Market",
+    "description": "Local-first MCP memory server for AI coding agents. Persistent cross-session memory built from Markdown + SQLite FTS5 + local embeddings (hybrid RRF); 96.0% Recall@5 on LongMemEval with zero LLM calls at retrieval time and fully offline operation.",
+    "category": "memory",
+    "maintainer": "everest-an",
+    "tags": [
+      "local-first",
+      "mcp",
+      "offline",
+      "sqlite",
+      "agent-memory"
+    ],
+    "stars": 12,
+    "paper": "https://arxiv.org/abs/2410.10813"
   }
 ]
