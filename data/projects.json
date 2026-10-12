@@ -1562,5 +1562,18 @@
       "research"
     ],
     "stars": 252
+  },
+  {
+    "name": "OrcaReplay",
+    "repo": "Continuum-AI-Corp/OrcaReplay",
+    "description": "Records a coding agent's exchange with its model provider and replays the run without calling the provider; replay can fork from available checkpoints onto a different model. Recorded tool calls still execute on replay.",
+    "category": "coding",
+    "maintainer": "Continuum-AI-Corp",
+    "tags": [
+      "record-replay",
+      "observability",
+      "cli"
+    ],
+    "stars": 268
   }
 ]
