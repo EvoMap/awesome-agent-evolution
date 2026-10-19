@@ -1562,5 +1562,17 @@
       "research"
     ],
     "stars": 187
+  },
+  {
+    "name": "Frink",
+    "repo": "benord-labs/frink",
+    "description": "Fine-tuned automation for everyone: visual workflows where AI coding agents (Claude Code, Codex, OpenCode, GitHub Copilot, Cursor) act on your tickets, errors and schedules, and ask before they change anything.",
+    "category": "coding",
+    "maintainer": "benord-labs",
+    "tags": [
+      "orchestration",
+      "open-source"
+    ],
+    "stars": 50
   }
 ]
