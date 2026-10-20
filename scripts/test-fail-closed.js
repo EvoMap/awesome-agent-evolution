@@ -53,7 +53,12 @@ else if (scenario === 'check-mixed') {
 } else if (scenario === 'check-auth') fail('HTTP 401: Bad credentials');
 else if (scenario === 'check-timeout') count === 1 ? hang() : okRepo();
 else if (scenario === 'check-invalid') count === 1 ? process.stdout.write('{not-json}\\n') : okRepo();
+else if (scenario === 'check-missing-flags') count === 1 ? process.stdout.write(JSON.stringify({ full_name: repo() }) + '\\n') : okRepo();
+else if (scenario === 'check-empty-canonical') count === 1 ? process.stdout.write(JSON.stringify({ archived: false, disabled: false, full_name: '' }) + '\\n') : okRepo();
+else if (scenario === 'check-archived') count === 1 ? process.stdout.write(JSON.stringify({ archived: true, disabled: false, full_name: repo() }) + '\\n') : okRepo();
+else if (scenario === 'check-disabled') count === 1 ? process.stdout.write(JSON.stringify({ archived: false, disabled: true, full_name: repo() }) + '\\n') : okRepo();
 else if (scenario === 'monitor-empty') emptySearch();
+else if (scenario === 'monitor-empty-stdout') {}
 else if (scenario === 'monitor-mixed') count === 2 ? fail('HTTP 502: Bad Gateway') : emptySearch();
 else if (scenario === 'monitor-auth') fail('HTTP 401: Bad credentials');
 else if (scenario === 'monitor-timeout') count === 1 ? hang() : emptySearch();
@@ -149,6 +154,25 @@ test('check-links fails closed for an invalid GitHub payload', () => withWorkspa
   assert.ok(reportAt(output).some(issue => issue.status === 'error'));
 }));
 
+for (const scenario of ['check-missing-flags', 'check-empty-canonical']) {
+  test(`check-links fails closed for ${scenario.replace('check-', '').replace(/-/g, ' ')} metadata`, () => withWorkspace(workspace => {
+    const output = path.join(workspace.dir, 'issues.json');
+    const result = run(workspace, 'scripts/check-links.js', [], { GH_SHIM_SCENARIO: scenario, LINK_ISSUES_OUT: output });
+    assert.notStrictEqual(result.status, 0);
+    assert.ok(reportAt(output).some(issue => issue.status === 'error'));
+    assert.doesNotMatch(result.stdout, /REDIRECTED/);
+  }));
+}
+
+for (const scenario of ['check-archived', 'check-disabled']) {
+  test(`check-links preserves ${scenario.replace('check-', '')} failures`, () => withWorkspace(workspace => {
+    const output = path.join(workspace.dir, 'issues.json');
+    const result = run(workspace, 'scripts/check-links.js', [], { GH_SHIM_SCENARIO: scenario, LINK_ISSUES_OUT: output });
+    assert.notStrictEqual(result.status, 0);
+    assert.ok(reportAt(output).some(issue => issue.status === scenario.replace('check-', '')));
+  }));
+}
+
 test('monitor writes a verified empty search result', () => withWorkspace(workspace => {
   const output = path.join(workspace.dir, 'monitor.json');
   const result = run(workspace, 'scripts/monitor-github.js', ['--output', output], { GH_SHIM_SCENARIO: 'monitor-empty' });
@@ -159,7 +183,7 @@ test('monitor writes a verified empty search result', () => withWorkspace(worksp
   assert.deepStrictEqual(monitor.items, []);
 }));
 
-for (const scenario of ['monitor-mixed', 'monitor-auth', 'monitor-timeout', 'monitor-invalid']) {
+for (const scenario of ['monitor-mixed', 'monitor-auth', 'monitor-timeout', 'monitor-invalid', 'monitor-empty-stdout']) {
   test(`monitor preserves its previous snapshot on ${scenario.replace('monitor-', '')} failure`, () => withWorkspace(workspace => {
     const output = path.join(workspace.dir, 'monitor.json');
     const previous = '{"previous":true}\n';

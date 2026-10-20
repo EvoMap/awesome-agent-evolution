@@ -28,7 +28,14 @@ function checkRepo(repo) {
     const output = execFileSync('gh', ['api', `repos/${repo}`, '--jq', '{archived: .archived, disabled: .disabled, full_name: .full_name}'], { encoding: 'utf-8', timeout: 15000 });
     const result = JSON.parse(output);
 
-    if (!result || typeof result !== 'object' || typeof result.full_name !== 'string') {
+    if (
+      !result ||
+      typeof result !== 'object' ||
+      typeof result.archived !== 'boolean' ||
+      typeof result.disabled !== 'boolean' ||
+      typeof result.full_name !== 'string' ||
+      !/^[^/\s]+\/[^/\s]+$/.test(result.full_name)
+    ) {
       return { status: 'error', repo, error: 'Invalid response from GitHub API' };
     }
     if (result.archived) return { status: 'archived', repo };

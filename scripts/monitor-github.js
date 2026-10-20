@@ -67,7 +67,7 @@ function ghSearch(query, maxAgeDays = 7) {
   try {
     const cmd = `gh api search/issues --method GET -f q="${fullQuery}" -f sort=created -f order=desc -f per_page=${MAX_RESULTS_PER_QUERY} --jq '.items'`;
     const result = execSync(cmd, { encoding: 'utf-8', timeout: 30000 });
-    const items = JSON.parse(result || '[]');
+    const items = JSON.parse(result);
     if (!Array.isArray(items)) {
       throw new Error('Invalid GitHub search response: expected an array');
     }
