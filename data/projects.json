@@ -1574,5 +1574,44 @@
       "open-source"
     ],
     "stars": 50
+  },
+  {
+    "name": "Kongnitive EdgeMCP",
+    "repo": "Kongnitive/Kongnitive-ESP32-Harness",
+    "description": "ESP32 MCP server with an embedded Lua runtime for agents to update SPIFFS device scripts, switch Lua dependency bindings, restart the VM, inspect logs, and manage firmware OTA.",
+    "category": "embodied",
+    "maintainer": "Kongnitive",
+    "tags": [
+      "mcp",
+      "embodied-agent",
+      "embedded"
+    ],
+    "stars": 10
+  },
+  {
+    "name": "EVA",
+    "repo": "arturkorb3/eva-evolutional-agent",
+    "description": "Experimental Docker-sandboxed self-evolving agent with candidate-release tests, supervisor and kernel gates, and an auditable promotion and rollback ledger.",
+    "category": "evolution",
+    "maintainer": "arturkorb3",
+    "tags": [
+      "self-evolving",
+      "self-modifying",
+      "safety"
+    ],
+    "stars": 3
+  },
+  {
+    "name": "SEMAPRAX",
+    "repo": "wavect/semaprax",
+    "description": "Beta systems language and toolchain for coding-agent workflows, with semantic graph and context inspection and review- and replay-checked semantic patch transactions.",
+    "category": "safety",
+    "maintainer": "wavect",
+    "tags": [
+      "coding",
+      "safety",
+      "rust"
+    ],
+    "stars": 25
   }
 ]
