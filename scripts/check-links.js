@@ -15,21 +15,39 @@ const fs = require('fs');
 const path = require('path');
 
 const PROJECTS_PATH = path.join(__dirname, '..', 'data', 'projects.json');
+const FAIL_STATUSES = new Set(['not_found', 'archived', 'disabled']);
+
+function errorMessage(error) {
+  const stderr = error.stderr ? String(error.stderr).trim() : '';
+  const message = stderr || String(error.message || 'Unknown GitHub API error').trim();
+  return message.split('\n')[0];
+}
 
 function checkRepo(repo) {
   try {
-    const result = JSON.parse(execFileSync('gh', ['api', `repos/${repo}`, '--jq', '{archived: .archived, disabled: .disabled, full_name: .full_name}'], { encoding: 'utf-8', timeout: 15000 }));
+    const output = execFileSync('gh', ['api', `repos/${repo}`, '--jq', '{archived: .archived, disabled: .disabled, full_name: .full_name}'], { encoding: 'utf-8', timeout: 15000 });
+    const result = JSON.parse(output);
 
+    if (
+      !result ||
+      typeof result !== 'object' ||
+      typeof result.archived !== 'boolean' ||
+      typeof result.disabled !== 'boolean' ||
+      typeof result.full_name !== 'string' ||
+      !/^[^/\s]+\/[^/\s]+$/.test(result.full_name)
+    ) {
+      return { status: 'error', repo, error: 'Invalid response from GitHub API' };
+    }
     if (result.archived) return { status: 'archived', repo };
     if (result.disabled) return { status: 'disabled', repo };
     if (result.full_name !== repo) return { status: 'redirected', repo, target: result.full_name };
     return { status: 'ok', repo };
-  } catch (e) {
-    const msg = e.message || '';
-    if (msg.includes('404') || msg.includes('Not Found')) {
+  } catch (error) {
+    const message = errorMessage(error);
+    if (/(?:HTTP\s+404\b|\b404:\s*Not Found\b)/i.test(message)) {
       return { status: 'not_found', repo };
     }
-    return { status: 'error', repo, error: msg.split('\n')[0] };
+    return { status: 'error', repo, error: message };
   }
 }
 
@@ -60,11 +78,11 @@ function main() {
     }
   }
 
-  const FAIL_STATUSES = new Set(['not_found', 'archived', 'disabled']);
-  const failures = issues.filter(i => FAIL_STATUSES.has(i.status));
-  const warnings = issues.filter(i => !FAIL_STATUSES.has(i.status));
+  const failures = issues.filter(issue => FAIL_STATUSES.has(issue.status));
+  const warnings = issues.filter(issue => issue.status === 'redirected');
+  const validationErrors = issues.filter(issue => issue.status === 'error');
 
-  console.log(`\nResults: ${ok} ok, ${failures.length} failures, ${warnings.length} warnings`);
+  console.log(`\nResults: ${ok} ok, ${failures.length} failures, ${warnings.length} warnings, ${validationErrors.length} validation errors`);
 
   const issuesOut = process.env.LINK_ISSUES_OUT;
   if (issuesOut) {
@@ -80,12 +98,23 @@ function main() {
     }
   }
 
+  if (validationErrors.length > 0) {
+    console.log('\nValidation errors (link validation incomplete):');
+    for (const issue of validationErrors) {
+      console.log(`  [${issue.status}] ${issue.name} (${issue.repo})`);
+      if (issue.error) console.log(`    -> ${issue.error}`);
+    }
+  }
+
   if (failures.length > 0) {
     console.log('\nFailures:');
     for (const issue of failures) {
       console.log(`  [${issue.status}] ${issue.name} (${issue.repo})`);
       if (issue.error) console.log(`    -> ${issue.error}`);
     }
+  }
+
+  if (failures.length > 0 || validationErrors.length > 0) {
     process.exit(1);
   }
 }

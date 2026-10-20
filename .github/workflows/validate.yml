@@ -29,6 +29,8 @@ jobs:
           node-version: '24'
       - name: Validate curated data and generated README
         run: node scripts/validate.js
+      - name: Test failure-closed automation
+        run: node scripts/test-fail-closed.js
       - name: Confirm generated README is clean
         run: |
           node scripts/generate-readme.js
