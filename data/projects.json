@@ -1562,5 +1562,17 @@
       "research"
     ],
     "stars": 187
+  },
+  {
+    "name": "Frink",
+    "repo": "benord-labs/frink",
+    "description": "Local-first desktop app that orchestrates Claude Code, Codex, OpenCode, GitHub Copilot, and Cursor in trigger-based flows with configurable permission controls.",
+    "category": "coding",
+    "maintainer": "benord-labs",
+    "tags": [
+      "orchestration",
+      "open-source"
+    ],
+    "stars": 50
   }
 ]
