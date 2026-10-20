@@ -89,6 +89,7 @@ Vector, graph, episodic, and hybrid memory architectures for persistent agent co
 - [**Caura**](https://github.com/caura-ai/caura#readme) - Governed shared memory for AI agent fleets with scoped recall, trust tiers, audit trails, and a knowledge graph over MCP. by [@caura-ai](https://github.com/caura-ai) (497 stars)
 - [**TeleMem**](https://github.com/TeleAI-UAGI/telemem#readme) - High-performance drop-in Mem0 replacement. 19% higher accuracy, 43% fewer tokens, and 2.1x speedup via narrative dynamic extraction. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (494 stars)
 - [**Statewave**](https://github.com/smaramwbc/statewave#readme) - Memory runtime that compiles agent events into reproducible, provenance-tagged context bundles. Self-hosted on Postgres + pgvector. by [@smaramwbc](https://github.com/smaramwbc) (288 stars)
+- [**Mnemoverse**](https://github.com/mnemoverse/mcp-memory-server#readme) - Persistent memory for AI agents over MCP. Hosted remote server with OAuth or local npx with a key; recall is re-ranked by feedback on whether a memory helped. by [@mnemoverse](https://github.com/mnemoverse) (27 stars)
 - [**Awareness Local**](https://github.com/everest-an/Awareness-Market#readme) - Local-first MCP memory server for AI coding agents with Markdown-backed cross-session memory, SQLite FTS5, and local embedding retrieval. by [@everest-an](https://github.com/everest-an) (12 stars)
 <!-- /AUTOGEN:memory -->
 

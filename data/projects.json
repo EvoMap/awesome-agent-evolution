@@ -1614,5 +1614,18 @@
       "open-source"
     ],
     "stars": 288
+  },
+  {
+    "name": "Mnemoverse",
+    "repo": "mnemoverse/mcp-memory-server",
+    "description": "Persistent memory for AI agents over MCP. Hosted remote server with OAuth or local npx with a key; recall is re-ranked by feedback on whether a memory helped.",
+    "category": "memory",
+    "maintainer": "mnemoverse",
+    "tags": [
+      "mcp",
+      "open-source",
+      "memory"
+    ],
+    "stars": 27
   }
 ]
