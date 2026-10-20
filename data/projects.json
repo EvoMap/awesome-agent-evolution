@@ -120,15 +120,16 @@
   {
     "name": "Ouroboros",
     "repo": "razzant/ouroboros",
-    "description": "Self-creating AI agent that writes its own code and evolves autonomously. Completed 30+ evolution cycles in first 24 hours with zero human intervention.",
+    "description": "Self-developing general-purpose agent with persistent identity and memory, reviewed changes to its own implementation, and desktop and headless interfaces.",
     "category": "evolution",
     "maintainer": "razzant",
     "tags": [
-      "self-creating",
-      "autonomous-evolution",
-      "self-modifying"
+      "autonomous",
+      "self-evolving",
+      "open-source"
     ],
-    "stars": 1501
+    "stars": 1567,
+    "paper": "https://arxiv.org/abs/2608.08311"
   },
   {
     "name": "A-Evolve",
@@ -1525,6 +1526,19 @@
     "stars": 205
   },
   {
+    "name": "Orbi",
+    "repo": "orbi-build/orbi",
+    "description": "Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and, when requested, a tagged release.",
+    "category": "coding",
+    "maintainer": "orbi-build",
+    "tags": [
+      "autonomous",
+      "coding-agent",
+      "github-issues"
+    ],
+    "stars": 225
+  },
+  {
     "name": "SandBase Harness",
     "repo": "sandbaseai/sandbase-harness",
     "description": "Local-first, self-hosted AI agent runtime with sandboxed sessions, MCP tool governance, persistent memory, credentials, audit and replay, and a local Console.",
@@ -1574,6 +1588,71 @@
       "open-source"
     ],
     "stars": 50
+  },
+  {
+    "name": "Awareness Local",
+    "repo": "everest-an/Awareness-Market",
+    "description": "Local-first MCP memory server for AI coding agents with Markdown-backed cross-session memory, SQLite FTS5, and local embedding retrieval.",
+    "category": "memory",
+    "maintainer": "everest-an",
+    "tags": [
+      "local-first",
+      "mcp",
+      "agent-memory"
+    ],
+    "stars": 12
+  },
+  {
+    "name": "Statewave",
+    "repo": "smaramwbc/statewave",
+    "description": "Memory runtime that compiles agent events into reproducible, provenance-tagged context bundles. Self-hosted on Postgres + pgvector.",
+    "category": "memory",
+    "maintainer": "smaramwbc",
+    "tags": [
+      "agent-memory",
+      "provenance",
+      "open-source"
+    ],
+    "stars": 288
+  },
+  {
+    "name": "Mnemoverse",
+    "repo": "mnemoverse/mcp-memory-server",
+    "description": "Persistent memory for AI agents over MCP. Hosted remote server with OAuth or local npx with a key; recall is re-ranked by feedback on whether a memory helped.",
+    "category": "memory",
+    "maintainer": "mnemoverse",
+    "tags": [
+      "mcp",
+      "open-source",
+      "memory"
+    ],
+    "stars": 27
+  },
+  {
+    "name": "OrcaReplay",
+    "repo": "Continuum-AI-Corp/OrcaReplay",
+    "description": "Records a coding agent's exchange with its model provider and replays the run without calling the provider; replay can fork from available checkpoints onto a different model. Recorded tool calls still execute on replay.",
+    "category": "coding",
+    "maintainer": "Continuum-AI-Corp",
+    "tags": [
+      "record-replay",
+      "observability",
+      "cli"
+    ],
+    "stars": 286
+  },
+  {
+    "name": "Ivy Tendril",
+    "repo": "Ivy-Interactive/Ivy-Tendril",
+    "description": "Source-available agentic software factory for coordinating parallel Git worktrees with programmatic verification and review workflows. Licensed under FSL-1.1-ALv2, which restricts Competing Use.",
+    "category": "coding",
+    "maintainer": "Ivy-Interactive",
+    "tags": [
+      "coding-agent",
+      "agent-orchestration",
+      "source-available"
+    ],
+    "stars": 203
   },
   {
     "name": "Kongnitive EdgeMCP",

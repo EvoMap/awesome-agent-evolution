@@ -52,7 +52,7 @@ Projects focused on enabling AI agents to evolve, learn, and improve autonomousl
 - [**HyperAgents**](https://github.com/facebookresearch/HyperAgents#readme) - Self-referential self-improving agents by Meta. DGM-Hyperagents add an optimization layer so agents edit their own improvement process. by [@facebookresearch](https://github.com/facebookresearch) (2,804 stars)
 - [**Orkas**](https://github.com/Orkas-AI/Orkas#readme) - Local-first multi-agent desktop application whose specialist agents improve through reflection and crystallize successful approaches into private reusable skills. by [@Orkas-AI](https://github.com/Orkas-AI) (2,174 stars)
 - [**SIA**](https://github.com/hexo-ai/sia#readme) - Self-improving AI framework that autonomously optimizes the performance of any AI system through iterative evaluation and refinement. by [@hexo-ai](https://github.com/hexo-ai) (2,161 stars)
-- [**Ouroboros**](https://github.com/razzant/ouroboros#readme) - Self-creating AI agent that writes its own code and evolves autonomously. Completed 30+ evolution cycles in first 24 hours with zero human intervention. by [@razzant](https://github.com/razzant) (1,501 stars)
+- [**Ouroboros**](https://github.com/razzant/ouroboros#readme) - Self-developing general-purpose agent with persistent identity and memory, reviewed changes to its own implementation, and desktop and headless interfaces. by [@razzant](https://github.com/razzant) (1,567 stars)
 - [**Agent0**](https://github.com/aiming-lab/Agent0#readme) - Self-evolving agent framework from UNC/Salesforce/Stanford. Improves without human-curated datasets via curriculum and executor agent competition. by [@aiming-lab](https://github.com/aiming-lab) (1,276 stars)
 - [**agent-qa**](https://github.com/vostride/agent-qa#readme) - Self-improving QA agent for natural-language web and mobile tests, using persistent run memory to adapt to UI changes and catch regressions. Source-available under FSL-1.1-ALv2: use is permitted except to provide a competing commercial product or service, and each release converts to Apache-2.0 after two years. by [@vostride](https://github.com/vostride) (903 stars)
 - [**A-Evolve**](https://github.com/A-EVO-Lab/a-evolve#readme) - The PyTorch for Agentic AI. Open-source infrastructure that evolves any agent across any domain with zero human intervention. #1 on MCP-Atlas (79.4%). by [@A-EVO-Lab](https://github.com/A-EVO-Lab) (812 stars)
@@ -89,6 +89,9 @@ Vector, graph, episodic, and hybrid memory architectures for persistent agent co
 - [**MemSkill**](https://github.com/ViktorAxelsen/MemSkill#readme) - Learning and evolving memory skills for self-evolving agents. Meta-memory that determines what to extract, remember, and forget. by [@ViktorAxelsen](https://github.com/ViktorAxelsen) (581 stars)
 - [**Caura**](https://github.com/caura-ai/caura#readme) - Governed shared memory for AI agent fleets with scoped recall, trust tiers, audit trails, and a knowledge graph over MCP. by [@caura-ai](https://github.com/caura-ai) (497 stars)
 - [**TeleMem**](https://github.com/TeleAI-UAGI/telemem#readme) - High-performance drop-in Mem0 replacement. 19% higher accuracy, 43% fewer tokens, and 2.1x speedup via narrative dynamic extraction. by [@TeleAI-UAGI](https://github.com/TeleAI-UAGI) (494 stars)
+- [**Statewave**](https://github.com/smaramwbc/statewave#readme) - Memory runtime that compiles agent events into reproducible, provenance-tagged context bundles. Self-hosted on Postgres + pgvector. by [@smaramwbc](https://github.com/smaramwbc) (288 stars)
+- [**Mnemoverse**](https://github.com/mnemoverse/mcp-memory-server#readme) - Persistent memory for AI agents over MCP. Hosted remote server with OAuth or local npx with a key; recall is re-ranked by feedback on whether a memory helped. by [@mnemoverse](https://github.com/mnemoverse) (27 stars)
+- [**Awareness Local**](https://github.com/everest-an/Awareness-Market#readme) - Local-first MCP memory server for AI coding agents with Markdown-backed cross-session memory, SQLite FTS5, and local embedding retrieval. by [@everest-an](https://github.com/everest-an) (12 stars)
 <!-- /AUTOGEN:memory -->
 
 ## Agent-to-Agent Protocols
@@ -155,7 +158,10 @@ AI agents that write, debug, and maintain code autonomously.
 - [**Open SWE**](https://github.com/langchain-ai/open-swe#readme) - Open-source asynchronous coding agent by LangChain for software engineering tasks. by [@langchain-ai](https://github.com/langchain-ai) (11,013 stars)
 - [**Mini-SWE-Agent**](https://github.com/SWE-agent/mini-swe-agent#readme) - The 100-line AI agent that solves GitHub issues. Radically simple but scores >74% on SWE-bench verified. by [@SWE-agent](https://github.com/SWE-agent) (8,497 stars)
 - [**Reflexion**](https://github.com/noahshinn/reflexion#readme) - Language agents with verbal reinforcement learning. Agents that learn from mistakes through self-reflection. by [@noahshinn](https://github.com/noahshinn) (3,306 stars)
+- [**OrcaReplay**](https://github.com/Continuum-AI-Corp/OrcaReplay#readme) - Records a coding agent's exchange with its model provider and replays the run without calling the provider; replay can fork from available checkpoints onto a different model. Recorded tool calls still execute on replay. by [@Continuum-AI-Corp](https://github.com/Continuum-AI-Corp) (286 stars)
+- [**Orbi**](https://github.com/orbi-build/orbi#readme) - Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and, when requested, a tagged release. by [@orbi-build](https://github.com/orbi-build) (225 stars)
 - [**Autohand Code**](https://github.com/autohandai/code-cli#readme) - Self-evolving coding agent that runs in your terminal. by [@autohandai](https://github.com/autohandai) (205 stars)
+- [**Ivy Tendril**](https://github.com/Ivy-Interactive/Ivy-Tendril#readme) - Source-available agentic software factory for coordinating parallel Git worktrees with programmatic verification and review workflows. Licensed under FSL-1.1-ALv2, which restricts Competing Use. by [@Ivy-Interactive](https://github.com/Ivy-Interactive) (203 stars)
 - [**Frink**](https://github.com/benord-labs/frink#readme) - Local-first desktop app that orchestrates Claude Code, Codex, OpenCode, GitHub Copilot, and Cursor in trigger-based flows with configurable permission controls. by [@benord-labs](https://github.com/benord-labs) (50 stars)
 <!-- /AUTOGEN:coding -->
 
@@ -234,7 +240,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646) (arXiv'25) - First live agent that autonomously evolves itself during runtime. 77.4% on SWE-bench Verified.
 - [SWE-Milestone: Evaluating AI Agents on Continuous Software Evolution](https://arxiv.org/abs/2603.13428) (ICML'26) - Benchmark revealing performance drops from >80% on isolated tasks to 38.03% in continuous evolution settings.
 - [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/abs/2406.18532) (arXiv'24) - Agents that evolve through symbolic representation learning.
-- [Building Self-Evolving Agents via Experience-Driven Lifelong Learning](https://arxiv.org/abs/2504.01072) (arXiv'25) - Framework and benchmark for lifelong agent learning.
+- [Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark](https://arxiv.org/abs/2508.19005) (arXiv'25) - Framework and benchmark for experience-driven lifelong agent learning.
 - [Darwin Godel Machine](https://arxiv.org/abs/2505.22954) (arXiv'25) - Agents that rewrite their own code through evolutionary pressure.
 - [EvoAgent: Self-evolving Agent with Continual World Model](https://arxiv.org/abs/2502.05907) (arXiv'25) - Continual world model for long-horizon task evolution.
 - [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) (arXiv'25) - Self-play reasoning without any training data.
@@ -251,13 +257,13 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) (arXiv'25) - Production architecture. 26% improvement on LOCOMO, 91% latency reduction.
 - [TeleMem: Long-Term and Multimodal Memory for Agentic AI](https://arxiv.org/abs/2601.06037) - Multimodal memory achieving 19% higher accuracy, 43% fewer tokens, 2.1x speedup over Mem0. (arXiv 2026)
 - [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) (arXiv'25) - Self-organizing memory with autonomous management.
-- [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) (ICML'24) - Memory tied to agent workflow patterns.
+- [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) (ICML'25) - Memory tied to agent workflow patterns.
 - [MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250) (AAAI'24) - Structured long-term memory for LLMs.
-- [Compress to Impress](https://arxiv.org/abs/2402.11975) (ICLR'25) - Compression-based memory for extended dialogues.
+- [Compress to Impress](https://aclanthology.org/2025.coling-main.51/) (COLING'25) - Compression-based memory for extended dialogues.
 
 ### Prompt and Behaviour Evolution
 
-- [ARTEMIS: Evolutionary Optimization for LLM Agent Configurations](https://arxiv.org/abs/2512.09108) (arXiv'25) - Semantically-aware genetic operators for joint agent config optimization. 13.6% on competitive programming.
+- [ARTEMIS: Evolutionary Optimization for LLM Agent Configurations](https://arxiv.org/abs/2512.09108) (arXiv'25) - Semantically-aware genetic operators for joint agent config optimization. 13.6% relative acceptance-rate improvement on the AtCoder Heuristic Contest, from 66.0% to 75.0%.
 - [E-SPL: Unifying Evolutionary Prompt Search and Reinforcement Learning](https://arxiv.org/abs/2602.14697) (arXiv'26) - Joint RL weight updates with genetic operators for system prompt evolution.
 - [EvoPrompt: Connecting LLMs with Evolutionary Algorithms](https://arxiv.org/abs/2309.08532) (ICLR'24) - Evolutionary algorithms for prompt optimization.
 - [Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/abs/2309.16797) (ICML'24) - Prompts that evolve themselves recursively.
@@ -267,7 +273,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 ### Tool and Code Evolution
 
 - [AlphaEvolve](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) (Google'25) - LLM-driven evolutionary code improvement.
-- [Learning Evolving Tools for Large Language Models](https://arxiv.org/abs/2410.06617) (ICLR'25) - Tools that co-evolve with agent capabilities.
+- [Learning Evolving Tools for Large Language Models](https://arxiv.org/abs/2410.06617) (ICLR'25) - Agents adapt tool-use behavior to changing external APIs using execution feedback.
 - [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning](https://arxiv.org/abs/2305.14318) (EMNLP'23) - Agents that create their own tools.
 - [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) (arXiv'25) - Reinforcement learning for tool use optimization.
 
@@ -279,9 +285,9 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 ### Safety, Red-Teaming, and Alignment
 
 - [AgenticRed: Optimizing Agentic Systems for Automated Red-teaming](https://arxiv.org/abs/2601.13518) (arXiv'26) - Evolutionary red-teaming workflow design. 96% attack success on Llama-2-7B.
-- [Agent vs. Agent: Automated Red-Teaming for Custom Agentic Workflows](https://aclanthology.org/2025.emnlp-industry.62/) (EMNLP'25) - AgentHarm-Gen for adversarial task generation. 162% increase in attack success rate.
+- [Agent vs. Agent: Automated Red-Teaming for Custom Agentic Workflows](https://aclanthology.org/2025.emnlp-industry.62/) (EMNLP'25) - AgentHarm-Gen for adversarial task generation. Reports up to a 162% relative improvement in attack success rate on o4-mini.
 - [AGENTSAFE: Unified Framework for Ethical Assurance and Governance](https://arxiv.org/abs/2512.03180) (arXiv'25) - Design, runtime, and audit controls covering the agentic loop.
-- [OpenGuardrails: Context-Aware AI Guardrails Platform](https://arxiv.org/abs/2510.19169) (arXiv'25) - Context-aware safety detection and model-manipulation prevention.
+- [OpenGuardrails: Context-Aware AI Guardrails Platform](https://arxiv.org/abs/2510.19169) (arXiv'25) - Per-request configurable detection for content-safety violations, model-manipulation attacks, and sensitive-data leakage.
 - [Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](https://arxiv.org/abs/2501.18280) (arXiv'25) - Universal suffix that manipulates text-embedding similarity to bypass safety guardrails across ChatGPT, DeepSeek, and Qwen.
 
 ### Embodied AI and Robotics
