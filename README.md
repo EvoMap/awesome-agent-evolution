@@ -58,6 +58,7 @@ Projects focused on enabling AI agents to evolve, learn, and improve autonomousl
 - [**A-Evolve**](https://github.com/A-EVO-Lab/a-evolve#readme) - The PyTorch for Agentic AI. Open-source infrastructure that evolves any agent across any domain with zero human intervention. #1 on MCP-Atlas (79.4%). by [@A-EVO-Lab](https://github.com/A-EVO-Lab) (812 stars)
 - [**SEAgent**](https://github.com/SunzeY/SEAgent#readme) - Self-Evolving Computer Use Agent with Autonomous Learning from Experience. by [@SunzeY](https://github.com/SunzeY) (263 stars)
 - [**AgentDescent**](https://github.com/Birfy/agentdescent#readme) - Parallel, asynchronous optimizer for self-evolving agents: workers propose diffs to a shared library of skills, prompts and harnesses, and an aggregator resolves conflicts and accepts merges on a Beta posterior over held-out reward. by [@Birfy](https://github.com/Birfy) (187 stars)
+- [**EVA**](https://github.com/arturkorb3/eva-evolutional-agent#readme) - Experimental Docker-sandboxed self-evolving agent with candidate-release tests, supervisor and kernel gates, and an auditable promotion and rollback ledger. by [@arturkorb3](https://github.com/arturkorb3) (3 stars)
 <!-- /AUTOGEN:evolution -->
 
 ## Memory Systems
@@ -207,6 +208,7 @@ Projects focused on controlling agent actions, enforcing policies, and preventin
 <!-- AUTOGEN:safety -->
 - [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails#readme) - NVIDIA's toolkit for adding programmable guardrails to LLM conversational systems. Policy-based safety controls. by [@NVIDIA-NeMo](https://github.com/NVIDIA-NeMo) (7,289 stars)
 - [**AgentDoG**](https://github.com/AI45Lab/AgentDoG#readme) - Diagnostic guardrail framework for AI agent safety and security. Detects and intercepts unsafe agent behavior at runtime. by [@AI45Lab](https://github.com/AI45Lab) (701 stars)
+- [**SEMAPRAX**](https://github.com/wavect/semaprax#readme) - Beta systems language and toolchain for coding-agent workflows, with semantic graph and context inspection and review- and replay-checked semantic patch transactions. by [@wavect](https://github.com/wavect) (25 stars)
 <!-- /AUTOGEN:safety -->
 
 ## Embodied AI
@@ -222,6 +224,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [**agent-device**](https://github.com/callstack/agent-device#readme) - CLI that lets AI agents drive real iOS and Android devices — taps, text input, screenshots, and app control for mobile automation. by [@callstack](https://github.com/callstack) (5,002 stars)
 - [**ROS-LLM**](https://github.com/Auromix/ROS-LLM#readme) - Framework for embodied intelligence in ROS. Natural language interactions with LLMs for robot control. by [@Auromix](https://github.com/Auromix) (832 stars)
 - [**RAI**](https://github.com/RobotecAI/rai#readme) - Vendor-agnostic agentic framework for Physical AI and robotics. Connects LLM agents to ROS 2 tools for perception, reasoning, and control. by [@RobotecAI](https://github.com/RobotecAI) (602 stars)
+- [**Kongnitive EdgeMCP**](https://github.com/Kongnitive/Kongnitive-ESP32-Harness#readme) - ESP32 MCP server with an embedded Lua runtime for agents to update SPIFFS device scripts, switch Lua dependency bindings, restart the VM, inspect logs, and manage firmware OTA. by [@Kongnitive](https://github.com/Kongnitive) (10 stars)
 <!-- /AUTOGEN:embodied -->
 
 ## Key Research Papers
