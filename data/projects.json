@@ -1574,5 +1574,18 @@
       "open-source"
     ],
     "stars": 50
+  },
+  {
+    "name": "Awareness Local",
+    "repo": "everest-an/Awareness-Market",
+    "description": "Local-first MCP memory server for AI coding agents with Markdown-backed cross-session memory, SQLite FTS5, and local embedding retrieval.",
+    "category": "memory",
+    "maintainer": "everest-an",
+    "tags": [
+      "local-first",
+      "mcp",
+      "agent-memory"
+    ],
+    "stars": 12
   }
 ]
