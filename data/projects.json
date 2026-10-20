@@ -1526,6 +1526,19 @@
     "stars": 205
   },
   {
+    "name": "Orbi",
+    "repo": "orbi-build/orbi",
+    "description": "Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and, when requested, a tagged release.",
+    "category": "coding",
+    "maintainer": "orbi-build",
+    "tags": [
+      "autonomous",
+      "coding-agent",
+      "github-issues"
+    ],
+    "stars": 225
+  },
+  {
     "name": "SandBase Harness",
     "repo": "sandbaseai/sandbase-harness",
     "description": "Local-first, self-hosted AI agent runtime with sandboxed sessions, MCP tool governance, persistent memory, credentials, audit and replay, and a local Console.",
@@ -1588,5 +1601,18 @@
       "agent-memory"
     ],
     "stars": 12
+  },
+  {
+    "name": "Statewave",
+    "repo": "smaramwbc/statewave",
+    "description": "Memory runtime that compiles agent events into reproducible, provenance-tagged context bundles. Self-hosted on Postgres + pgvector.",
+    "category": "memory",
+    "maintainer": "smaramwbc",
+    "tags": [
+      "agent-memory",
+      "provenance",
+      "open-source"
+    ],
+    "stars": 288
   }
 ]
