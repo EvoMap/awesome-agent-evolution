@@ -160,6 +160,7 @@ AI agents that write, debug, and maintain code autonomously.
 - [**OrcaReplay**](https://github.com/Continuum-AI-Corp/OrcaReplay#readme) - Records a coding agent's exchange with its model provider and replays the run without calling the provider; replay can fork from available checkpoints onto a different model. Recorded tool calls still execute on replay. by [@Continuum-AI-Corp](https://github.com/Continuum-AI-Corp) (286 stars)
 - [**Orbi**](https://github.com/orbi-build/orbi#readme) - Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and, when requested, a tagged release. by [@orbi-build](https://github.com/orbi-build) (225 stars)
 - [**Autohand Code**](https://github.com/autohandai/code-cli#readme) - Self-evolving coding agent that runs in your terminal. by [@autohandai](https://github.com/autohandai) (205 stars)
+- [**Ivy Tendril**](https://github.com/Ivy-Interactive/Ivy-Tendril#readme) - Source-available agentic software factory for coordinating parallel Git worktrees with programmatic verification and review workflows. Licensed under FSL-1.1-ALv2, which restricts Competing Use. by [@Ivy-Interactive](https://github.com/Ivy-Interactive) (203 stars)
 - [**Frink**](https://github.com/benord-labs/frink#readme) - Local-first desktop app that orchestrates Claude Code, Codex, OpenCode, GitHub Copilot, and Cursor in trigger-based flows with configurable permission controls. by [@benord-labs](https://github.com/benord-labs) (50 stars)
 <!-- /AUTOGEN:coding -->
 

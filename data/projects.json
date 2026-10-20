@@ -1640,5 +1640,18 @@
       "cli"
     ],
     "stars": 286
+  },
+  {
+    "name": "Ivy Tendril",
+    "repo": "Ivy-Interactive/Ivy-Tendril",
+    "description": "Source-available agentic software factory for coordinating parallel Git worktrees with programmatic verification and review workflows. Licensed under FSL-1.1-ALv2, which restricts Competing Use.",
+    "category": "coding",
+    "maintainer": "Ivy-Interactive",
+    "tags": [
+      "coding-agent",
+      "agent-orchestration",
+      "source-available"
+    ],
+    "stars": 203
   }
 ]
