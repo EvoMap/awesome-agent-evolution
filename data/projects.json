@@ -1527,15 +1527,15 @@
   {
     "name": "Orbi",
     "repo": "orbi-build/orbi",
-    "description": "Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and a tagged release.",
+    "description": "Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and, when requested, a tagged release.",
     "category": "coding",
     "maintainer": "orbi-build",
     "tags": [
       "autonomous",
       "coding-agent",
-      "github"
+      "github-issues"
     ],
-    "stars": 195
+    "stars": 225
   },
   {
     "name": "SandBase Harness",
