@@ -187,6 +187,14 @@ test('cleanup issue sync rejects a missing completion report without invoking gh
   assert.strictEqual(ghCalls(workspace), '');
 }));
 
+test('cleanup issue sync rejects a malformed report without invoking gh', () => withWorkspace(workspace => {
+  const report = path.join(workspace.dir, 'issues.json');
+  fs.writeFileSync(report, '{not-json}\n');
+  const result = run(workspace, 'scripts/sync-link-cleanup-issue.js', [], { LINK_ISSUES_FILE: report, LINK_ISSUE_DRY_RUN: '1' });
+  assert.notStrictEqual(result.status, 0);
+  assert.strictEqual(ghCalls(workspace), '');
+}));
+
 test('cleanup issue sync accepts a verified empty report', () => withWorkspace(workspace => {
   const report = path.join(workspace.dir, 'issues.json');
   fs.writeFileSync(report, '[]\n');
