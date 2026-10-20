@@ -51,6 +51,12 @@ function parseArgs() {
   return config;
 }
 
+function errorMessage(error) {
+  const stderr = error.stderr ? String(error.stderr).trim() : '';
+  const message = stderr || String(error.message || 'Unknown GitHub API error').trim();
+  return message.split('\n')[0];
+}
+
 function ghSearch(query, maxAgeDays = 7) {
   const since = new Date();
   since.setDate(since.getDate() - maxAgeDays);
@@ -61,10 +67,15 @@ function ghSearch(query, maxAgeDays = 7) {
   try {
     const cmd = `gh api search/issues --method GET -f q="${fullQuery}" -f sort=created -f order=desc -f per_page=${MAX_RESULTS_PER_QUERY} --jq '.items'`;
     const result = execSync(cmd, { encoding: 'utf-8', timeout: 30000 });
-    return JSON.parse(result || '[]');
-  } catch (e) {
-    console.error(`Search failed for "${query}": ${e.message}`);
-    return [];
+    const items = JSON.parse(result || '[]');
+    if (!Array.isArray(items)) {
+      throw new Error('Invalid GitHub search response: expected an array');
+    }
+    return { items };
+  } catch (error) {
+    const message = errorMessage(error);
+    console.error(`Search failed for "${query}": ${message}`);
+    return { error: message };
   }
 }
 
@@ -135,13 +146,27 @@ function main() {
   console.log(`Monitoring GitHub for relevant discussions (max age: ${config.maxAgeDays} days)`);
 
   let allItems = [];
+  const searchFailures = [];
 
   for (const query of SEARCH_QUERIES) {
     process.stdout.write(`  Searching: "${query}" ... `);
-    const items = ghSearch(query, config.maxAgeDays);
-    const filtered = filterResults(items);
+    const result = ghSearch(query, config.maxAgeDays);
+    if (result.error) {
+      console.log('FAILED');
+      searchFailures.push({ query, error: result.error });
+      continue;
+    }
+    const filtered = filterResults(result.items);
     console.log(`${filtered.length} results`);
     allItems.push(...filtered);
+  }
+
+  if (searchFailures.length > 0) {
+    console.error(`\nMonitor incomplete: ${searchFailures.length}/${SEARCH_QUERIES.length} search query(ies) failed. Previous output was not modified.`);
+    for (const failure of searchFailures) {
+      console.error(`  ${failure.query}: ${failure.error}`);
+    }
+    process.exit(1);
   }
 
   const unique = dedup(allItems);

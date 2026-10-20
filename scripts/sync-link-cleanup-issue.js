@@ -6,11 +6,10 @@
  * close the open queue issue when the report is empty.
  *
  * Reads the issues array written by scripts/check-links.js (path comes from
- * env LINK_ISSUES_FILE, defaults to /tmp/link-issues.json). A missing file
- * or empty array is treated as a green report: any open auto-link-cleanup
- * issue whose title matches the auto queue is closed. Unrelated human
- * issues are never closed. Transient `error` statuses stay on the
- * create/update path and are listed as API errors, not as missing repos.
+ * env LINK_ISSUES_FILE, defaults to /tmp/link-issues.json). A verified empty
+ * array closes an open auto-link-cleanup issue. Missing, malformed, or
+ * incomplete reports refuse all external mutations so a transient scan cannot
+ * close or refresh a cleanup issue.
  *
  * Requires: gh CLI authenticated; repo permissions issues: write.
  */
@@ -23,6 +22,7 @@ const LABEL_COLOR = 'fbca04';
 const LABEL_DESC = 'Automated repository link cleanup queue';
 const ISSUE_FILE = process.env.LINK_ISSUES_FILE || '/tmp/link-issues.json';
 const CLEANUP_TITLE_RE = /^\[auto\] Repository link cleanup /i;
+const KNOWN_STATUSES = new Set(['not_found', 'archived', 'disabled', 'redirected', 'error']);
 
 function gh(args, opts = {}) {
 	return execFileSync('gh', args, { encoding: 'utf-8', stdio: opts.stdio ?? ['ignore', 'pipe', 'inherit'] });
@@ -123,12 +123,20 @@ function closeComment(url) {
 
 function loadIssues() {
 	if (!fs.existsSync(ISSUE_FILE)) {
-		console.log('No issues file at ' + ISSUE_FILE + ', treating as 0 link issues.');
-		return [];
+		console.error('No issues file at ' + ISSUE_FILE + '; refusing cleanup issue mutations without a completed link scan.');
+		process.exit(1);
 	}
-	const issues = JSON.parse(fs.readFileSync(ISSUE_FILE, 'utf-8'));
-	if (!Array.isArray(issues)) {
-		console.error('Issues file is not an array: ' + ISSUE_FILE);
+
+	let issues;
+	try {
+		issues = JSON.parse(fs.readFileSync(ISSUE_FILE, 'utf-8'));
+	} catch (error) {
+		console.error('Could not read issues file ' + ISSUE_FILE + '; refusing cleanup issue mutations: ' + error.message);
+		process.exit(1);
+	}
+
+	if (!Array.isArray(issues) || issues.some(issue => !issue || !KNOWN_STATUSES.has(issue.status))) {
+		console.error('Issues file is not a valid completed link report: ' + ISSUE_FILE);
 		process.exit(1);
 	}
 	return issues;
@@ -193,6 +201,12 @@ function createOrUpdateIssue(issues, url) {
 
 function main() {
 	const issues = loadIssues();
+	const incomplete = issues.filter(issue => issue.status === 'error');
+	if (incomplete.length > 0) {
+		console.error('Link scan is incomplete (' + incomplete.length + ' API error(s)); refusing cleanup issue mutations.');
+		process.exit(1);
+	}
+
 	const url = runUrl();
 
 	if (issues.length === 0) {
