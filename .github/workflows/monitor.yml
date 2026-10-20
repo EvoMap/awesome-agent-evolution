@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
   issues: read
+  checks: write
 
 jobs:
   monitor:
@@ -25,7 +26,9 @@ jobs:
         run: |
           node scripts/monitor-github.js --output data/monitor-results.json
 
-      - name: Commit results
+      - name: Commit and publish to main after validate
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -34,11 +37,6 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
+          git checkout -B "chore/monitor-$(date -u +%Y%m%d)"
           git commit -m "chore: update monitor results $(date -u +%Y-%m-%d)"
-          for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push && exit 0
-            echo "push attempt $i failed, retrying in 5s..."
-            sleep 5
-          done
-          echo "push failed after 5 attempts" >&2
-          exit 1
+          bash scripts/push-verified-main.sh

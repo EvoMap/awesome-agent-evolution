@@ -10,7 +10,7 @@
       "agent-os",
       "evolution"
     ],
-    "stars": 19092
+    "stars": 19597
   },
   {
     "name": "SuperAGI",
@@ -23,7 +23,7 @@
       "self-improvement",
       "dev-tools"
     ],
-    "stars": 17657
+    "stars": 17702
   },
   {
     "name": "Agent Zero",
@@ -36,7 +36,7 @@
       "general-purpose",
       "learning"
     ],
-    "stars": 18906
+    "stars": 19457
   },
   {
     "name": "OpenEvolve",
@@ -49,7 +49,7 @@
       "alphaevolve",
       "open-source"
     ],
-    "stars": 7228
+    "stars": 7541
   },
   {
     "name": "Agents (aiwaves)",
@@ -62,20 +62,20 @@
       "autonomous",
       "data-centric"
     ],
-    "stars": 5954
+    "stars": 5967
   },
   {
     "name": "EvoAgentX",
-    "repo": "EvoAgentX/EvoAgentX",
+    "repo": "ANative-Lab/EvoAgentX",
     "description": "Automated framework for evolving agentic workflows. Optimizes agent prompts, tools, and pipelines via evolutionary algorithms.",
     "category": "evolution",
-    "maintainer": "EvoAgentX",
+    "maintainer": "ANative-Lab",
     "tags": [
       "workflow-evolution",
       "prompt-optimization",
       "automated"
     ],
-    "stars": 3240
+    "stars": 3378
   },
   {
     "name": "HyperAgents",
@@ -88,7 +88,7 @@
       "self-improving",
       "meta-research"
     ],
-    "stars": 2685
+    "stars": 2804
   },
   {
     "name": "evolver",
@@ -101,7 +101,7 @@
       "self-evolution",
       "genome"
     ],
-    "stars": 8979
+    "stars": 8683
   },
   {
     "name": "Agent0",
@@ -114,7 +114,7 @@
       "curriculum-learning",
       "research"
     ],
-    "stars": 1248,
+    "stars": 1276,
     "paper": "https://arxiv.org/abs/2511.16043"
   },
   {
@@ -128,7 +128,7 @@
       "autonomous-evolution",
       "self-modifying"
     ],
-    "stars": 1187
+    "stars": 1501
   },
   {
     "name": "A-Evolve",
@@ -141,7 +141,7 @@
       "domain-agnostic",
       "benchmark-leader"
     ],
-    "stars": 730
+    "stars": 812
   },
   {
     "name": "SEAgent",
@@ -154,7 +154,7 @@
       "computer-use",
       "autonomous-learning"
     ],
-    "stars": 262
+    "stars": 263
   },
   {
     "name": "Mem0",
@@ -167,7 +167,7 @@
       "scalable",
       "personalized"
     ],
-    "stars": 63564,
+    "stars": 67142,
     "paper": "https://arxiv.org/abs/2504.19413"
   },
   {
@@ -181,7 +181,7 @@
       "self-editing",
       "memgpt"
     ],
-    "stars": 24299
+    "stars": 25125
   },
   {
     "name": "Cognee",
@@ -194,7 +194,7 @@
       "unstructured-data",
       "ai-memory"
     ],
-    "stars": 30114
+    "stars": 32232
   },
   {
     "name": "Memvid",
@@ -207,7 +207,7 @@
       "serverless",
       "low-latency"
     ],
-    "stars": 16409
+    "stars": 16596
   },
   {
     "name": "memU",
@@ -220,7 +220,7 @@
       "persistent",
       "cross-platform"
     ],
-    "stars": 14320
+    "stars": 14537
   },
   {
     "name": "MemMachine",
@@ -233,7 +233,7 @@
       "episodic",
       "graph-based"
     ],
-    "stars": 3178
+    "stars": 3067
   },
   {
     "name": "EverMemOS",
@@ -246,7 +246,7 @@
       "cross-platform",
       "persistent"
     ],
-    "stars": 12171
+    "stars": 13408
   },
   {
     "name": "Acontext",
@@ -259,7 +259,7 @@
       "auto-learning",
       "reusable"
     ],
-    "stars": 3673
+    "stars": 3692
   },
   {
     "name": "ReMe",
@@ -272,7 +272,7 @@
       "vector-based",
       "benchmark-leader"
     ],
-    "stars": 3325
+    "stars": 3591
   },
   {
     "name": "nocturne_memory",
@@ -285,7 +285,7 @@
       "rollbackable",
       "mcp"
     ],
-    "stars": 1320
+    "stars": 1391
   },
   {
     "name": "Mem9",
@@ -298,7 +298,7 @@
       "cloud-sync",
       "agent-memory"
     ],
-    "stars": 1187
+    "stars": 1222
   },
   {
     "name": "Awesome-AI-Memory",
@@ -311,7 +311,7 @@
       "knowledge-base",
       "research"
     ],
-    "stars": 1167
+    "stars": 1275
   },
   {
     "name": "TeleMem",
@@ -324,7 +324,7 @@
       "multimodal",
       "high-performance"
     ],
-    "stars": 484,
+    "stars": 494,
     "paper": "https://arxiv.org/abs/2601.06037"
   },
   {
@@ -338,7 +338,7 @@
       "skill-evolution",
       "self-evolving"
     ],
-    "stars": 562
+    "stars": 581
   },
   {
     "name": "Awesome-Agent-Memory",
@@ -351,7 +351,7 @@
       "benchmarks",
       "research"
     ],
-    "stars": 585
+    "stars": 673
   },
   {
     "name": "Google A2A",
@@ -364,7 +364,7 @@
       "google",
       "standard"
     ],
-    "stars": 25403
+    "stars": 26140
   },
   {
     "name": "mcp-use",
@@ -377,7 +377,7 @@
       "fullstack",
       "chatgpt"
     ],
-    "stars": 10502
+    "stars": 10756
   },
   {
     "name": "GEP MCP Server",
@@ -403,7 +403,7 @@
       "composable",
       "memory"
     ],
-    "stars": 144519
+    "stars": 147812
   },
   {
     "name": "OpenHands",
@@ -416,7 +416,7 @@
       "autonomous",
       "generalist"
     ],
-    "stars": 84445
+    "stars": 90840
   },
   {
     "name": "AgenticSeek",
@@ -429,7 +429,7 @@
       "autonomous",
       "no-api-keys"
     ],
-    "stars": 26902
+    "stars": 27483
   },
   {
     "name": "Coze Studio",
@@ -442,7 +442,7 @@
       "debugging",
       "deployment"
     ],
-    "stars": 21464
+    "stars": 21708
   },
   {
     "name": "Google ADK",
@@ -455,7 +455,7 @@
       "python",
       "deployment"
     ],
-    "stars": 21180
+    "stars": 21823
   },
   {
     "name": "Parlant",
@@ -468,7 +468,7 @@
       "context-engineering",
       "control-layer"
     ],
-    "stars": 18253
+    "stars": 18298
   },
   {
     "name": "OpenFang",
@@ -481,7 +481,7 @@
       "open-source",
       "deployment"
     ],
-    "stars": 18121
+    "stars": 18218
   },
   {
     "name": "PydanticAI",
@@ -494,7 +494,7 @@
       "structured-outputs",
       "pydantic"
     ],
-    "stars": 19379
+    "stars": 20602
   },
   {
     "name": "CoPaw",
@@ -507,7 +507,7 @@
       "personal-agent",
       "workstation"
     ],
-    "stars": 34020
+    "stars": 35664
   },
   {
     "name": "MS-Agent",
@@ -520,7 +520,7 @@
       "deep-research",
       "lightweight"
     ],
-    "stars": 4365
+    "stars": 4409
   },
   {
     "name": "Claude Code",
@@ -533,7 +533,7 @@
       "anthropic",
       "agentic"
     ],
-    "stars": 141928
+    "stars": 150695
   },
   {
     "name": "Codex",
@@ -546,7 +546,7 @@
       "OpenAI",
       "local"
     ],
-    "stars": 106733
+    "stars": 129092
   },
   {
     "name": "Aider",
@@ -559,7 +559,7 @@
       "terminal",
       "git-integration"
     ],
-    "stars": 48321
+    "stars": 49535
   },
   {
     "name": "Devika",
@@ -572,7 +572,7 @@
       "devin-alternative",
       "autonomous"
     ],
-    "stars": 19558
+    "stars": 19553
   },
   {
     "name": "SWE-Agent",
@@ -585,7 +585,7 @@
       "swe-bench",
       "automated-fix"
     ],
-    "stars": 20079
+    "stars": 20547
   },
   {
     "name": "Plandex",
@@ -598,7 +598,7 @@
       "persistent-context",
       "complex-tasks"
     ],
-    "stars": 15588
+    "stars": 15710
   },
   {
     "name": "Trae Agent",
@@ -611,7 +611,7 @@
       "general-purpose",
       "software-engineering"
     ],
-    "stars": 12035
+    "stars": 12143
   },
   {
     "name": "Open SWE",
@@ -624,7 +624,7 @@
       "langchain",
       "open-source"
     ],
-    "stars": 10575
+    "stars": 11013
   },
   {
     "name": "Mini-SWE-Agent",
@@ -637,7 +637,7 @@
       "swe-bench",
       "lightweight"
     ],
-    "stars": 6601
+    "stars": 8497
   },
   {
     "name": "Reflexion",
@@ -650,7 +650,7 @@
       "reinforcement-learning",
       "reasoning"
     ],
-    "stars": 3234,
+    "stars": 3306,
     "paper": "https://arxiv.org/abs/2303.11366"
   },
   {
@@ -664,7 +664,7 @@
       "red-teaming",
       "testing"
     ],
-    "stars": 24357
+    "stars": 25986
   },
   {
     "name": "TextGrad",
@@ -677,7 +677,7 @@
       "optimization",
       "nature-published"
     ],
-    "stars": 3701,
+    "stars": 3759,
     "paper": "https://arxiv.org/abs/2406.07496"
   },
   {
@@ -691,7 +691,7 @@
       "nvidia",
       "policy-engine"
     ],
-    "stars": 6970
+    "stars": 7289
   },
   {
     "name": "Open-AutoGLM",
@@ -704,7 +704,7 @@
       "mobile",
       "automate"
     ],
-    "stars": 26041
+    "stars": 26394
   },
   {
     "name": "LeRobot",
@@ -716,7 +716,8 @@
       "pytorch",
       "hugging-face"
     ],
-    "stars": 26745
+    "stars": 28157,
+    "maintainer": "huggingface"
   },
   {
     "name": "Nanobrowser",
@@ -729,11 +730,11 @@
       "web-automation",
       "chrome-extension"
     ],
-    "stars": 13572
+    "stars": 14087
   },
   {
-    "name": "XcodeBuildMCP",
-    "repo": "getsentry/XcodeBuildMCP",
+    "name": "MobileBuildMCP",
+    "repo": "getsentry/MobileBuildMCP",
     "description": "A MCP server and CLI for agent use when working on iOS and macOS projects.",
     "category": "embodied",
     "maintainer": "getsentry",
@@ -742,7 +743,7 @@
       "ios",
       "macos"
     ],
-    "stars": 6258
+    "stars": 6476
   },
   {
     "name": "Mobile MCP",
@@ -755,7 +756,7 @@
       "automation",
       "mcp"
     ],
-    "stars": 5952
+    "stars": 9110
   },
   {
     "name": "ROS-LLM",
@@ -768,20 +769,20 @@
       "robotics",
       "natural-language"
     ],
-    "stars": 824
+    "stars": 832
   },
   {
     "name": "Awesome-Self-Evolving-Agents",
-    "repo": "EvoAgentX/Awesome-Self-Evolving-Agents",
+    "repo": "ANative-Lab/Awesome-Self-Evolving-Agents",
     "description": "A comprehensive survey of self-evolving AI agents. Covers single-agent optimization, multi-agent optimization, and domain-specific approaches.",
     "category": "community",
-    "maintainer": "EvoAgentX",
+    "maintainer": "ANative-Lab",
     "tags": [
       "survey",
       "research",
       "comprehensive"
     ],
-    "stars": 2444
+    "stars": 2502
   },
   {
     "name": "dify",
@@ -794,7 +795,7 @@
       "agentic-ai",
       "agentic-framework"
     ],
-    "stars": 152867
+    "stars": 158406
   },
   {
     "name": "MetaGPT",
@@ -807,7 +808,7 @@
       "gpt",
       "llm"
     ],
-    "stars": 69889
+    "stars": 70837
   },
   {
     "name": "autogen",
@@ -820,7 +821,7 @@
       "agentic-agi",
       "agents"
     ],
-    "stars": 60505
+    "stars": 61393
   },
   {
     "name": "crewAI",
@@ -833,7 +834,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 57292
+    "stars": 59670
   },
   {
     "name": "goose",
@@ -846,7 +847,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 52974
+    "stars": 55262
   },
   {
     "name": "langgraph",
@@ -859,7 +860,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 39987
+    "stars": 43233
   },
   {
     "name": "haystack",
@@ -872,7 +873,7 @@
       "agents",
       "ai"
     ],
-    "stars": 26250
+    "stars": 26738
   },
   {
     "name": "agentscope",
@@ -885,7 +886,7 @@
       "chatbot",
       "large-language-models"
     ],
-    "stars": 29037
+    "stars": 33212
   },
   {
     "name": "mastra",
@@ -898,7 +899,7 @@
       "ai",
       "chatbots"
     ],
-    "stars": 27291
+    "stars": 28803
   },
   {
     "name": "swarm",
@@ -906,8 +907,12 @@
     "description": "Educational framework exploring ergonomic lightweight multi-agent orchestration by OpenAI.",
     "category": "multi-agent",
     "maintainer": "openai",
-    "tags": [],
-    "stars": 21911
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "educational"
+    ],
+    "stars": 22055
   },
   {
     "name": "openai-agents-python",
@@ -920,7 +925,7 @@
       "ai",
       "framework"
     ],
-    "stars": 28758
+    "stars": 30024
   },
   {
     "name": "camel",
@@ -933,7 +938,7 @@
       "ai-societies",
       "artificial-intelligence"
     ],
-    "stars": 17603
+    "stars": 17884
   },
   {
     "name": "ten-framework",
@@ -946,7 +951,7 @@
       "multi-modal",
       "real-time"
     ],
-    "stars": 11061
+    "stars": 11162
   },
   {
     "name": "agents",
@@ -959,7 +964,7 @@
       "ai",
       "openai"
     ],
-    "stars": 13072
+    "stars": 14730
   },
   {
     "name": "agent-framework",
@@ -972,7 +977,7 @@
       "agentic-ai",
       "agents"
     ],
-    "stars": 12895
+    "stars": 14120
   },
   {
     "name": "agent-skills",
@@ -985,7 +990,7 @@
       "antigravity",
       "antigravity-ide"
     ],
-    "stars": 88448
+    "stars": 106327
   },
   {
     "name": "MindSearch",
@@ -998,7 +1003,7 @@
       "gpt",
       "llm"
     ],
-    "stars": 6910
+    "stars": 6942
   },
   {
     "name": "PraisonAI",
@@ -1011,7 +1016,7 @@
       "ai",
       "ai-agent-framework"
     ],
-    "stars": 8919
+    "stars": 9235
   },
   {
     "name": "swarms",
@@ -1024,7 +1029,7 @@
       "agentic-workflow",
       "agents"
     ],
-    "stars": 7068
+    "stars": 7252
   },
   {
     "name": "open-multi-agent",
@@ -1037,7 +1042,7 @@
       "ai-agents",
       "anthropic"
     ],
-    "stars": 6792
+    "stars": 6996
   },
   {
     "name": "agency-swarm",
@@ -1045,8 +1050,12 @@
     "description": "Reliable multi-agent orchestration framework for building AI agent swarms.",
     "category": "multi-agent",
     "maintainer": "VRSEN",
-    "tags": [],
-    "stars": 4530
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "role-based"
+    ],
+    "stars": 4600
   },
   {
     "name": "BotSharp",
@@ -1059,7 +1068,7 @@
       "chatbot",
       "multi-agent"
     ],
-    "stars": 3093
+    "stars": 3112
   },
   {
     "name": "LLMStack",
@@ -1072,7 +1081,7 @@
       "ai",
       "ai-agents-framework"
     ],
-    "stars": 2309
+    "stars": 2307
   },
   {
     "name": "agentUniverse",
@@ -1085,7 +1094,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 2329
+    "stars": 2380
   },
   {
     "name": "GoClaw",
@@ -1098,7 +1107,7 @@
       "ai-agent",
       "ai-gateway"
     ],
-    "stars": 3542
+    "stars": 3650
   },
   {
     "name": "memgraph",
@@ -1111,7 +1120,7 @@
       "ai-agents",
       "ai-memory"
     ],
-    "stars": 4347
+    "stars": 4615
   },
   {
     "name": "GenAI Agents",
@@ -1124,7 +1133,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 23850
+    "stars": 24581
   },
   {
     "name": "PySpur",
@@ -1137,7 +1146,7 @@
       "agents",
       "ai"
     ],
-    "stars": 5771
+    "stars": 5795
   },
   {
     "name": "CowAgent",
@@ -1150,7 +1159,7 @@
       "ai-agent",
       "chatgpt-on-wechat"
     ],
-    "stars": 46560
+    "stars": 47387
   },
   {
     "name": "honcho",
@@ -1163,7 +1172,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 6718
+    "stars": 7603
   },
   {
     "name": "holaOS",
@@ -1176,7 +1185,7 @@
       "agent-harness",
       "agent-runtime"
     ],
-    "stars": 9954
+    "stars": 11445
   },
   {
     "name": "Taste-Skill",
@@ -1189,7 +1198,7 @@
       "ai",
       "coding"
     ],
-    "stars": 77872
+    "stars": 95733
   },
   {
     "name": "Agent-Squad",
@@ -1202,7 +1211,7 @@
       "agents",
       "ai-agents"
     ],
-    "stars": 7741
+    "stars": 7793
   },
   {
     "name": "Sage",
@@ -1215,7 +1224,7 @@
       "ai",
       "llm"
     ],
-    "stars": 1203
+    "stars": 1211
   },
   {
     "name": "ChatLab",
@@ -1228,12 +1237,12 @@
       "chat-analysis",
       "chat-history"
     ],
-    "stars": 7200
+    "stars": 7516
   },
   {
     "name": "Golutra",
     "repo": "golutra/golutra",
-    "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch",
+    "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools.",
     "category": "multi-agent",
     "maintainer": "golutra",
     "tags": [
@@ -1241,7 +1250,7 @@
       "ai",
       "automation"
     ],
-    "stars": 3825
+    "stars": 3853
   },
   {
     "name": "ViteMCP",
@@ -1253,12 +1262,12 @@
       "mcp",
       "sse"
     ],
-    "stars": 3249
+    "stars": 3274
   },
   {
     "name": "Vibe-Trading",
     "repo": "HKUDS/Vibe-Trading",
-    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "description": "Personal trading agent for multi-agent market analysis and backtesting.",
     "category": "multi-agent",
     "maintainer": "HKUDS",
     "tags": [
@@ -1266,7 +1275,7 @@
       "algorithmic-trading",
       "backtesting"
     ],
-    "stars": 31245
+    "stars": 35436
   },
   {
     "name": "agno",
@@ -1279,7 +1288,7 @@
       "ai",
       "ai-agents"
     ],
-    "stars": 41772
+    "stars": 42718
   },
   {
     "name": "context-mode",
@@ -1292,7 +1301,7 @@
       "claude",
       "claude-code"
     ],
-    "stars": 19970
+    "stars": 28449
   },
   {
     "name": "openagent",
@@ -1305,7 +1314,7 @@
       "agent",
       "agentic"
     ],
-    "stars": 5535
+    "stars": 5688
   },
   {
     "name": "datachain",
@@ -1318,39 +1327,51 @@
       "claude-code",
       "codex"
     ],
-    "stars": 2807
+    "stars": 2825
   },
   {
     "name": "Cline",
     "repo": "cline/cline",
-    "description": "Autonomous coding agent available as an IDE extension, CLI, or SDK. Plans and executes multi-step edits with human-in-the-loop approval",
+    "description": "Autonomous coding agent available as an IDE extension, CLI, or SDK. Plans and executes multi-step edits with human-in-the-loop approval.",
     "category": "coding",
     "maintainer": "cline",
-    "tags": [],
-    "stars": 66447
+    "tags": [
+      "coding-agent",
+      "ide",
+      "human-in-the-loop"
+    ],
+    "stars": 70288
   },
   {
     "name": "Pi",
     "repo": "earendil-works/pi",
-    "description": "Self-extensible coding agent and agent harness. Bundles an interactive coding CLI, an agent runtime with tool calling and state, and a unified multi-provider LLM API",
+    "description": "Self-extensible coding agent and agent harness. Bundles an interactive coding CLI, an agent runtime with tool calling and state, and a unified multi-provider LLM API.",
     "category": "coding",
     "maintainer": "earendil-works",
-    "tags": [],
-    "stars": 93364
+    "tags": [
+      "coding-agent",
+      "agent-harness",
+      "multi-provider"
+    ],
+    "stars": 114949
   },
   {
     "name": "Qwen Code",
     "repo": "QwenLM/qwen-code",
-    "description": "Open-source AI coding agent that lives in your terminal, optimized for Qwen-Coder models",
+    "description": "Open-source AI coding agent that lives in your terminal, optimized for Qwen-Coder models.",
     "category": "coding",
     "maintainer": "QwenLM",
-    "tags": [],
-    "stars": 27176
+    "tags": [
+      "coding-agent",
+      "terminal",
+      "qwen"
+    ],
+    "stars": 28476
   },
   {
     "name": "agentmemory",
     "repo": "rohitg00/agentmemory",
-    "description": "Persistent, benchmark-tuned memory for coding agents (Claude Code, Cursor, Copilot CLI, Codex, and any MCP client). Remembers context across sessions so you stop re-explaining",
+    "description": "Persistent, benchmark-tuned memory for coding agents (Claude Code, Cursor, Copilot CLI, Codex, and any MCP client). Remembers context across sessions so you stop re-explaining.",
     "category": "memory",
     "maintainer": "rohitg00",
     "tags": [
@@ -1358,12 +1379,12 @@
       "agents",
       "ai"
     ],
-    "stars": 27165
+    "stars": 29401
   },
   {
     "name": "TencentDB Agent Memory",
     "repo": "TencentCloud/TencentDB-Agent-Memory",
-    "description": "Fully local long-term memory for AI agents via a four-tier progressive storage architecture, from Tencent Cloud",
+    "description": "Fully local long-term memory for AI agents via a four-tier progressive storage architecture, from Tencent Cloud.",
     "category": "memory",
     "maintainer": "TencentCloud",
     "tags": [
@@ -1371,12 +1392,12 @@
       "ai-agent",
       "embedding"
     ],
-    "stars": 23060
+    "stars": 28995
   },
   {
     "name": "agent-device",
     "repo": "callstack/agent-device",
-    "description": "CLI that lets AI agents drive real iOS and Android devices — taps, text input, screenshots, and app control for mobile automation",
+    "description": "CLI that lets AI agents drive real iOS and Android devices — taps, text input, screenshots, and app control for mobile automation.",
     "category": "embodied",
     "maintainer": "callstack",
     "tags": [
@@ -1384,21 +1405,25 @@
       "agentic-ai",
       "agents"
     ],
-    "stars": 4130
+    "stars": 5002
   },
   {
     "name": "SIA",
     "repo": "hexo-ai/sia",
-    "description": "Self-improving AI framework that autonomously optimizes the performance of any AI system through iterative evaluation and refinement",
+    "description": "Self-improving AI framework that autonomously optimizes the performance of any AI system through iterative evaluation and refinement.",
     "category": "evolution",
     "maintainer": "hexo-ai",
-    "tags": [],
-    "stars": 2110
+    "tags": [
+      "self-improving",
+      "evaluation",
+      "optimization"
+    ],
+    "stars": 2161
   },
   {
     "name": "arcade-mcp",
     "repo": "ArcadeAI/arcade-mcp",
-    "description": "MCP server framework and tool-development library for building custom agent capabilities and authenticated tool calls",
+    "description": "MCP server framework and tool-development library for building custom agent capabilities and authenticated tool calls.",
     "category": "protocols",
     "maintainer": "ArcadeAI",
     "tags": [
@@ -1406,21 +1431,25 @@
       "arcade",
       "arcade-ai"
     ],
-    "stars": 1008
+    "stars": 1049
   },
   {
     "name": "AgentDoG",
     "repo": "AI45Lab/AgentDoG",
-    "description": "Diagnostic guardrail framework for AI agent safety and security. Detects and intercepts unsafe agent behavior at runtime",
+    "description": "Diagnostic guardrail framework for AI agent safety and security. Detects and intercepts unsafe agent behavior at runtime.",
     "category": "safety",
     "maintainer": "AI45Lab",
-    "tags": [],
-    "stars": 681
+    "tags": [
+      "safety",
+      "guardrails",
+      "runtime"
+    ],
+    "stars": 701
   },
   {
     "name": "RAI",
     "repo": "RobotecAI/rai",
-    "description": "Vendor-agnostic agentic framework for Physical AI and robotics. Connects LLM agents to ROS 2 tools for perception, reasoning, and control",
+    "description": "Vendor-agnostic agentic framework for Physical AI and robotics. Connects LLM agents to ROS 2 tools for perception, reasoning, and control.",
     "category": "embodied",
     "maintainer": "RobotecAI",
     "tags": [
@@ -1428,16 +1457,123 @@
       "ai-agents-framework",
       "embodied-agent"
     ],
-    "stars": 571
+    "stars": 602
   },
   {
     "name": "A2A x402",
     "repo": "google-agentic-commerce/a2a-x402",
-    "description": "A2A protocol extension adding x402 on-chain payments, letting agents monetize services over Agent-to-Agent calls",
+    "description": "A2A protocol extension adding x402 on-chain payments, letting agents monetize services over Agent-to-Agent calls.",
     "category": "protocols",
     "maintainer": "google-agentic-commerce",
-    "tags": [],
-    "stars": 553
+    "tags": [
+      "a2a",
+      "payments",
+      "protocol"
+    ],
+    "stars": 564
+  },
+  {
+    "name": "agent-qa",
+    "repo": "vostride/agent-qa",
+    "description": "Self-improving QA agent for natural-language web and mobile tests, using persistent run memory to adapt to UI changes and catch regressions. Source-available under FSL-1.1-ALv2: use is permitted except to provide a competing commercial product or service, and each release converts to Apache-2.0 after two years.",
+    "category": "evolution",
+    "maintainer": "vostride",
+    "tags": [
+      "self-improving",
+      "memory",
+      "source-available"
+    ],
+    "stars": 903
+  },
+  {
+    "name": "Orkas",
+    "repo": "Orkas-AI/Orkas",
+    "description": "Local-first multi-agent desktop application whose specialist agents improve through reflection and crystallize successful approaches into private reusable skills.",
+    "category": "evolution",
+    "maintainer": "Orkas-AI",
+    "tags": [
+      "self-evolving",
+      "multi-agent",
+      "skill-memory"
+    ],
+    "stars": 2174
+  },
+  {
+    "name": "Reef",
+    "repo": "Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents. Serves agent traffic, turns matched feedback into model-weight or harness updates, and publishes accepted updates as versioned artifacts.",
+    "category": "evolution",
+    "maintainer": "Human-Agent-Society",
+    "tags": [
+      "evolution",
+      "continual-learning",
+      "agent-infrastructure"
+    ],
+    "stars": 7589
+  },
+  {
+    "name": "Autohand Code",
+    "repo": "autohandai/code-cli",
+    "description": "Self-evolving coding agent that runs in your terminal.",
+    "category": "coding",
+    "maintainer": "autohandai",
+    "tags": [
+      "terminal",
+      "self-evolving",
+      "coding-agent"
+    ],
+    "stars": 205
+  },
+  {
+    "name": "SandBase Harness",
+    "repo": "sandbaseai/sandbase-harness",
+    "description": "Local-first, self-hosted AI agent runtime with sandboxed sessions, MCP tool governance, persistent memory, credentials, audit and replay, and a local Console.",
+    "category": "platforms",
+    "maintainer": "sandbaseai",
+    "tags": [
+      "local",
+      "mcp",
+      "open-source"
+    ],
+    "stars": 639
+  },
+  {
+    "name": "Caura",
+    "repo": "caura-ai/caura",
+    "description": "Governed shared memory for AI agent fleets with scoped recall, trust tiers, audit trails, and a knowledge graph over MCP.",
+    "category": "memory",
+    "maintainer": "caura-ai",
+    "tags": [
+      "agent-memory",
+      "mcp",
+      "open-source"
+    ],
+    "stars": 497
+  },
+  {
+    "name": "AgentDescent",
+    "repo": "Birfy/agentdescent",
+    "description": "Parallel, asynchronous optimizer for self-evolving agents: workers propose diffs to a shared library of skills, prompts and harnesses, and an aggregator resolves conflicts and accepts merges on a Beta posterior over held-out reward.",
+    "category": "evolution",
+    "maintainer": "Birfy",
+    "tags": [
+      "self-evolving",
+      "self-improving",
+      "research"
+    ],
+    "stars": 187
+  },
+  {
+    "name": "Frink",
+    "repo": "benord-labs/frink",
+    "description": "Local-first desktop app that orchestrates Claude Code, Codex, OpenCode, GitHub Copilot, and Cursor in trigger-based flows with configurable permission controls.",
+    "category": "coding",
+    "maintainer": "benord-labs",
+    "tags": [
+      "orchestration",
+      "open-source"
+    ],
+    "stars": 50
   },
   {
     "name": "Awareness Local",

@@ -16,6 +16,7 @@ const CATEGORY_SECTIONS = {
   'safety': 'safety',
   'embodied': 'embodied',
   'community': 'community',
+  'multi-agent': 'multi-agent',
 };
 
 function formatProject(p) {
@@ -25,7 +26,7 @@ function formatProject(p) {
   }
   const maintainer = p.maintainer ? ` by [@${p.maintainer}](https://github.com/${p.maintainer})` : '';
   const stars = p.stars ? ` (${p.stars.toLocaleString()} stars)` : '';
-  return `- [**${p.name}**](https://github.com/${p.repo}) - ${desc}${maintainer}${stars}`;
+  return `- [**${p.name}**](https://github.com/${p.repo}#readme) - ${desc}${maintainer}${stars}`;
 }
 
 function main() {

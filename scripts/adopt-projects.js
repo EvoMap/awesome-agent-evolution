@@ -5,6 +5,28 @@ const path = require('path');
 
 const PROJECTS_PATH = path.join(__dirname, '..', 'data', 'projects.json');
 const DISCOVERED_PATH = path.join(__dirname, '..', 'data', 'discovered.json');
+const CATEGORY_SECTIONS = {
+  evolution: true,
+  memory: true,
+  protocols: true,
+  platforms: true,
+  coding: true,
+  'multi-agent': true,
+  'prompt-optimization': true,
+  safety: true,
+  embodied: true,
+  community: true,
+};
+
+function validateCandidate(candidate) {
+  const errors = [];
+  if (typeof candidate.repo !== 'string' || !/^[^/\s]+\/[^/\s]+$/.test(candidate.repo)) errors.push('repo must be owner/name');
+  if (!CATEGORY_SECTIONS[candidate.suggestedCategory || 'community']) errors.push(`unknown category: ${candidate.suggestedCategory}`);
+  if (typeof candidate.description !== 'string' || !/^[A-Z]/.test(candidate.description.trim()) || !/[.!?。]$/.test(candidate.description.trim())) errors.push('description must start uppercase and end punctuation');
+  const tags = Array.isArray(candidate.topics) ? candidate.topics.filter(Boolean) : [];
+  if (tags.length < 2 || tags.length > 3) errors.push('candidate must provide 2-3 tags');
+  return errors;
+}
 
 function main() {
   if (!fs.existsSync(DISCOVERED_PATH)) {
@@ -29,6 +51,12 @@ function main() {
   for (const candidate of approved) {
     if (existingRepos.has(candidate.repo.toLowerCase())) {
       console.log(`  SKIP (already exists): ${candidate.repo}`);
+      continue;
+    }
+
+    const candidateErrors = validateCandidate(candidate);
+    if (candidateErrors.length > 0) {
+      console.error(`  REJECT: ${candidate.repo} -- ${candidateErrors.join('; ')}`);
       continue;
     }
 
