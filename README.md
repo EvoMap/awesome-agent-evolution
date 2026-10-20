@@ -156,6 +156,7 @@ AI agents that write, debug, and maintain code autonomously.
 - [**Open SWE**](https://github.com/langchain-ai/open-swe#readme) - Open-source asynchronous coding agent by LangChain for software engineering tasks. by [@langchain-ai](https://github.com/langchain-ai) (11,013 stars)
 - [**Mini-SWE-Agent**](https://github.com/SWE-agent/mini-swe-agent#readme) - The 100-line AI agent that solves GitHub issues. Radically simple but scores >74% on SWE-bench verified. by [@SWE-agent](https://github.com/SWE-agent) (8,497 stars)
 - [**Reflexion**](https://github.com/noahshinn/reflexion#readme) - Language agents with verbal reinforcement learning. Agents that learn from mistakes through self-reflection. by [@noahshinn](https://github.com/noahshinn) (3,306 stars)
+- [**Orbi**](https://github.com/orbi-build/orbi#readme) - Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and, when requested, a tagged release. by [@orbi-build](https://github.com/orbi-build) (225 stars)
 - [**Autohand Code**](https://github.com/autohandai/code-cli#readme) - Self-evolving coding agent that runs in your terminal. by [@autohandai](https://github.com/autohandai) (205 stars)
 - [**Frink**](https://github.com/benord-labs/frink#readme) - Local-first desktop app that orchestrates Claude Code, Codex, OpenCode, GitHub Copilot, and Cursor in trigger-based flows with configurable permission controls. by [@benord-labs](https://github.com/benord-labs) (50 stars)
 <!-- /AUTOGEN:coding -->
