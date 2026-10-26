@@ -250,19 +250,6 @@
     "stars": 13541
   },
   {
-    "name": "Acontext",
-    "repo": "memodb-io/Acontext",
-    "description": "Open-source skill memory layer for AI agents. Automatically captures learnings from agent runs and stores them as reusable skill files.",
-    "category": "memory",
-    "maintainer": "memodb-io",
-    "tags": [
-      "skill-memory",
-      "auto-learning",
-      "reusable"
-    ],
-    "stars": 3696
-  },
-  {
     "name": "ReMe",
     "repo": "agentscope-ai/ReMe",
     "description": "Memory management kit for agents. File-based and vector-based memory systems. SOTA on LoCoMo and HaluMem benchmarks.",
