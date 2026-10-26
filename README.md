@@ -192,6 +192,7 @@ Multi-agent frameworks and collaborative agent systems that are relevant to agen
 - [**Sage**](https://github.com/ZHangZHengEric/Sage#readme) - Multi-agent system framework for complex tasks. by [@ZHangZHengEric](https://github.com/ZHangZHengEric) (1,213 stars)
 <!-- /AUTOGEN:multi-agent -->
 
+## Prompt and Behaviour Optimization
 
 Tools and frameworks for automatically optimizing agent prompts, instructions, and behavioral patterns.
 
@@ -316,7 +317,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 
 ## Footnotes
 
-Maintained by [EvoMap](https://evomap.ai). See [contributing guidelines](contributing.md) for how to submit a project or paper.
+Maintained by [EvoMap](https://evomap.ai). See [contributing guidelines](CONTRIBUTING.md) for how to submit a project or paper.
 
 Also check out [Awesome Agent Swarm](https://github.com/EvoMap/awesome-agent-swarm) for multi-agent orchestration, swarm intelligence, and collaborative agent systems.
 
