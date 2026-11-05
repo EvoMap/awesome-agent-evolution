@@ -276,6 +276,19 @@
     "stars": 1420
   },
   {
+    "name": "deja-vu",
+    "repo": "vshulcz/deja-vu",
+    "description": "Cross-agent coding session memory & compaction recovery that indexes local session transcripts across Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and 38 more coding agents (43 total) with BM25 lexical search (97.2% R@5 on LongMemEval-S, zero embeddings).",
+    "category": "memory",
+    "maintainer": "vshulcz",
+    "tags": [
+      "mcp",
+      "lightweight",
+      "open-source"
+    ],
+    "stars": 1405
+  },
+  {
     "name": "Mem9",
     "repo": "mem9-ai/mem9",
     "description": "Unlimited persistent memory layer for AI agents. Cloud-synced memory across sessions and tools.",
