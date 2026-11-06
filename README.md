@@ -276,6 +276,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [Learning Evolving Tools for Large Language Models](https://arxiv.org/abs/2410.06617) (ICLR'25) - Agents adapt tool-use behavior to changing external APIs using execution feedback.
 - [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning](https://arxiv.org/abs/2305.14318) (EMNLP'23) - Agents that create their own tools.
 - [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) (arXiv'25) - Reinforcement learning for tool use optimization.
+- [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://arxiv.org/abs/2611.08483) (arXiv'26) - Evolves programs with swarms of latent agents that share KV caches instead of text. Reaches in minutes the scores other frameworks reach in an hour. [Code](https://github.com/Qile-J/SwarmEvolve)
 
 ### Reasoning and Planning
 
