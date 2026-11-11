@@ -263,6 +263,19 @@
     "stars": 3786
   },
   {
+    "name": "deja-vu",
+    "repo": "vshulcz/deja-vu",
+    "description": "Local cross-agent session memory for 43 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI) via CLI and MCP over SQLite FTS5.",
+    "category": "memory",
+    "maintainer": "vshulcz",
+    "tags": [
+      "session-memory",
+      "coding-agents",
+      "mcp"
+    ],
+    "stars": 1513
+  },
+  {
     "name": "nocturne_memory",
     "repo": "Dataojitori/nocturne_memory",
     "description": "Lightweight, rollbackable Long-Term Memory Server for MCP Agents with graph-like structured memory.",
