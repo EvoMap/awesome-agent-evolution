@@ -249,6 +249,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [Agent0: Unleashing Self-Evolving Agents from Zero Data](https://arxiv.org/abs/2511.16043) (arXiv'25) - Curriculum and executor competition for self-improvement.
 - [SEMAG: Self-Evolutionary Multi-Agent Code Generation](https://arxiv.org/abs/2603.15707) (arXiv'26) - Self-evolutionary agents that auto-upgrade backbone models. 52.6% on CodeContests.
 - [SAGE: Multi-Agent Self-Evolution for LLM Reasoning](https://arxiv.org/abs/2603.15255) (arXiv'26) - Four co-evolving agents from shared LLM backbone.
+- [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439) (arXiv'26) - MixUA distills trajectories from many users and agents into scoped lessons (user-agent, user, agent, or global) so experience transfers across users and agents without leaking private facts.
 
 ### Memory Optimization
 
