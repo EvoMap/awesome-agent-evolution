@@ -25,7 +25,7 @@ function formatProject(p) {
     desc += '.';
   }
   const maintainer = p.maintainer ? ` by [@${p.maintainer}](https://github.com/${p.maintainer})` : '';
-  const stars = p.stars ? ` (${p.stars.toLocaleString()} stars)` : '';
+  const stars = p.stars ? ` (${p.stars.toLocaleString()} ${p.stars === 1 ? 'star' : 'stars'})` : '';
   return `- [**${p.name}**](https://github.com/${p.repo}#readme) - ${desc}${maintainer}${stars}`;
 }
 

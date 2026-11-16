@@ -1692,5 +1692,18 @@
       "rust"
     ],
     "stars": 25
+  },
+  {
+    "name": "Memory Poisoning Lab",
+    "repo": "RishabhPande/memory-poison-lab",
+    "description": "Local teaching range for agent-memory poisoning with six synthetic scenarios, scripted deterministic agents, origin-aware defenses, and conflict-scoped repair.",
+    "category": "safety",
+    "maintainer": "RishabhPande",
+    "tags": [
+      "agent-memory",
+      "safety",
+      "education"
+    ],
+    "stars": 1
   }
 ]
