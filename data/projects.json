@@ -263,6 +263,19 @@
     "stars": 3786
   },
   {
+    "name": "deja-vu",
+    "repo": "vshulcz/deja-vu",
+    "description": "Local cross-agent session memory that indexes existing coding-agent transcripts for search, handoff, and code recovery via CLI and MCP.",
+    "category": "memory",
+    "maintainer": "vshulcz",
+    "tags": [
+      "session-memory",
+      "coding-agents",
+      "mcp"
+    ],
+    "stars": 1513
+  },
+  {
     "name": "nocturne_memory",
     "repo": "Dataojitori/nocturne_memory",
     "description": "Lightweight, rollbackable Long-Term Memory Server for MCP Agents with graph-like structured memory.",
