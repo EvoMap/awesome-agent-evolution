@@ -265,7 +265,7 @@
   {
     "name": "deja-vu",
     "repo": "vshulcz/deja-vu",
-    "description": "Local cross-agent session memory for 43 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI) via CLI and MCP over SQLite FTS5.",
+    "description": "Local cross-agent session memory that indexes existing coding-agent transcripts for search, handoff, and code recovery via CLI and MCP.",
     "category": "memory",
     "maintainer": "vshulcz",
     "tags": [
