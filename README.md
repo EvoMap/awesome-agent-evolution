@@ -210,7 +210,7 @@ Projects focused on controlling agent actions, enforcing policies, and preventin
 - [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails#readme) - NVIDIA's toolkit for adding programmable guardrails to LLM conversational systems. Policy-based safety controls. by [@NVIDIA-NeMo](https://github.com/NVIDIA-NeMo) (7,472 stars)
 - [**AgentDoG**](https://github.com/AI45Lab/AgentDoG#readme) - Diagnostic guardrail framework for AI agent safety and security. Detects and intercepts unsafe agent behavior at runtime. by [@AI45Lab](https://github.com/AI45Lab) (708 stars)
 - [**SEMAPRAX**](https://github.com/wavect/semaprax#readme) - Beta systems language and toolchain for coding-agent workflows, with semantic graph and context inspection and review- and replay-checked semantic patch transactions. by [@wavect](https://github.com/wavect) (25 stars)
-- [**Memory Poisoning Lab**](https://github.com/RishabhPande/memory-poison-lab#readme) - Local teaching range for agent-memory poisoning with six synthetic scenarios, scripted deterministic agents, origin-aware defenses, and conflict-scoped repair. by [@RishabhPande](https://github.com/RishabhPande) (1 stars)
+- [**Memory Poisoning Lab**](https://github.com/RishabhPande/memory-poison-lab#readme) - Local teaching range for agent-memory poisoning with six synthetic scenarios, scripted deterministic agents, origin-aware defenses, and conflict-scoped repair. by [@RishabhPande](https://github.com/RishabhPande) (1 star)
 <!-- /AUTOGEN:safety -->
 
 ## Embodied AI
