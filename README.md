@@ -252,6 +252,7 @@ Projects connecting AI agents to physical devices, robotics, and real-world envi
 - [SEMAG: Self-Evolutionary Multi-Agent Code Generation](https://arxiv.org/abs/2603.15707) (arXiv'26) - Self-evolutionary agents that auto-upgrade backbone models. 52.6% on CodeContests.
 - [SAGE: Multi-Agent Self-Evolution for LLM Reasoning](https://arxiv.org/abs/2603.15255) (arXiv'26) - Four co-evolving agents from shared LLM backbone.
 - [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439v1) (arXiv'26) - MixUA distills independent user-agent trajectories into user-agent, user, agent, or global memory scopes to support experience transfer under privacy constraints.
+- [Survival is the Only Reward: Sustainable Self-Training Through Environment-Mediated Selection](https://arxiv.org/abs/2601.12310) (arXiv'26) - Self-training where only behaviours whose real-world effects persist are propagated; no reward model, human labels, or LLM judge.
 
 ### Memory Optimization
 
