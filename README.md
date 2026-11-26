@@ -171,7 +171,6 @@ Multi-agent frameworks and collaborative agent systems that are relevant to agen
 
 <!-- AUTOGEN:multi-agent -->
 - [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT#readme) - Multi-agent framework that assigns roles to GPTs to form a collaborative software entity. by [@FoundationAgents](https://github.com/FoundationAgents) (71,240 stars)
-- [**autogen**](https://github.com/microsoft/autogen#readme) - Programming framework for building agentic AI systems with multi-agent conversations. by [@microsoft](https://github.com/microsoft) (61,778 stars)
 - [**crewAI**](https://github.com/crewAIInc/crewAI#readme) - Framework for orchestrating role-playing autonomous AI agents for collaborative task execution. by [@crewAIInc](https://github.com/crewAIInc) (60,748 stars)
 - [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading#readme) - Personal trading agent for multi-agent market analysis and backtesting. by [@HKUDS](https://github.com/HKUDS) (38,022 stars)
 - [**agentscope**](https://github.com/agentscope-ai/agentscope#readme) - Multi-agent platform for building agents you can see, understand and trust. by [@agentscope-ai](https://github.com/agentscope-ai) (35,767 stars)
@@ -179,7 +178,6 @@ Multi-agent frameworks and collaborative agent systems that are relevant to agen
 - [**GenAI Agents**](https://github.com/NirDiamant/GenAI_Agents#readme) - Comprehensive tutorials and implementations covering 50+ generative AI agent techniques from basic to advanced. by [@NirDiamant](https://github.com/NirDiamant) (24,924 stars)
 - [**swarm**](https://github.com/openai/swarm#readme) - Educational framework exploring ergonomic lightweight multi-agent orchestration by OpenAI. by [@openai](https://github.com/openai) (22,124 stars)
 - [**camel**](https://github.com/camel-ai/camel#readme) - Multi-agent framework for finding the scaling law of agents through role-playing communication. by [@camel-ai](https://github.com/camel-ai) (18,024 stars)
-- [**agent-framework**](https://github.com/microsoft/agent-framework#readme) - Framework for building, orchestrating and deploying AI agents and multi-agent systems. by [@microsoft](https://github.com/microsoft) (14,626 stars)
 - [**PraisonAI**](https://github.com/MervinPraison/PraisonAI#readme) - AI employee team platform that automates and solves complex challenges with multi-agent collaboration. by [@MervinPraison](https://github.com/MervinPraison) (9,333 stars)
 - [**swarms**](https://github.com/kyegomez/swarms#readme) - Enterprise-grade production-ready multi-agent orchestration framework. by [@kyegomez](https://github.com/kyegomez) (7,367 stars)
 - [**open-multi-agent**](https://github.com/open-multi-agent/open-multi-agent#readme) - TypeScript multi-agent framework with one function call from goal to result. by [@open-multi-agent](https://github.com/open-multi-agent) (7,056 stars)
