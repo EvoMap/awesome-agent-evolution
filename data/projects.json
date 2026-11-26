@@ -1679,5 +1679,18 @@
       "education"
     ],
     "stars": 1
+  },
+  {
+    "name": "AlphaSift",
+    "repo": "ZhuLinsen/alphasift",
+    "description": "Zero-dependency 14-tool read-only STDIO MCP server, portable SKILL.md, deterministic <= 35 negative-disclosure risk guardrail, and purged walk-forward verification for multi-market quantitative screening.",
+    "category": "protocols",
+    "maintainer": "ZhuLinsen",
+    "tags": [
+      "mcp",
+      "guardrails",
+      "walk-forward"
+    ],
+    "stars": 581
   }
 ]
