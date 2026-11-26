@@ -812,19 +812,6 @@
     "stars": 71240
   },
   {
-    "name": "autogen",
-    "repo": "microsoft/autogen",
-    "description": "Programming framework for building agentic AI systems with multi-agent conversations.",
-    "category": "multi-agent",
-    "maintainer": "microsoft",
-    "tags": [
-      "agentic",
-      "agentic-agi",
-      "agents"
-    ],
-    "stars": 61778
-  },
-  {
     "name": "crewAI",
     "repo": "crewAIInc/crewAI",
     "description": "Framework for orchestrating role-playing autonomous AI agents for collaborative task execution.",
@@ -966,19 +953,6 @@
       "openai"
     ],
     "stars": 15169
-  },
-  {
-    "name": "agent-framework",
-    "repo": "microsoft/agent-framework",
-    "description": "Framework for building, orchestrating and deploying AI agents and multi-agent systems.",
-    "category": "multi-agent",
-    "maintainer": "microsoft",
-    "tags": [
-      "agent-framework",
-      "agentic-ai",
-      "agents"
-    ],
-    "stars": 14626
   },
   {
     "name": "agent-skills",
